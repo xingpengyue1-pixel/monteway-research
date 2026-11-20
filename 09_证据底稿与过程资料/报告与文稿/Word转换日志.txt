@@ -1,0 +1,2 @@
+convert /Users/qianshi1/Downloads/蒙特威乳清蛋白/outputs/董事长启动工作方案与汇报_20261028_V1/交付文件/01_蒙特威线上营销拓展启动工作方案_V1.docx as a Writer document -> /Users/qianshi1/Downloads/蒙特威乳清蛋白/outputs/董事长启动工作方案与汇报_20261028_V1/内部编制与核对/01_蒙特威线上营销拓展启动工作方案_V1.pdf using filter : writer_pdf_Export
+convert /Users/qianshi1/Downloads/蒙特威乳清蛋白/outputs/董事长启动工作方案与汇报_20261028_V1/交付文件/02_蒙特威启动执行附件_V1.docx as a Writer document -> /Users/qianshi1/Downloads/蒙特威乳清蛋白/outputs/董事长启动工作方案与汇报_20261028_V1/内部编制与核对/02_蒙特威启动执行附件_V1.pdf using filter : writer_pdf_Export

@@ -1,0 +1,436 @@
+PitchBook Data, Inc.
+John Gabbert Founder, CEO
+                                                   Emerging Sustainable
+Nizar Tarhuni Vice President, Institutional
+Research and Editorial                             Investing Opportunities:
+Daniel Cook, CFA Head of Quantitative Research
+                                                   Cultivated Protein
+Institutional Research Group
+                                                   How cultivated protein can create a double bottom
+Analysis                                           line of financial returns and positive social and
+                Anikka Villegas                    environmental impact
+                Analyst, Fund Strategies &
+                Sustainable Investing
+                anikka.villegas@pitchbook.com      PitchBook is a Morningstar company providing the most comprehensive, most
+                                                   accurate, and hard-to-find data for professionals doing business in the private markets.
+Insights developed in collaboration with
+Alex Frederick, Sr. Analyst, Emerging Technology
+at PitchBook Data.
+
+
+
+Data
+                                                   Key takeaways
+Alyssa Williams
+Senior Data Analyst
+                                                   • Cultivated protein may present an answer to the question of how to feed a growing
+pbinstitutionalresearch­@pitchbook.com              global population while reducing the climate impact of animal agriculture.
+
+
+                                                   • The financial return potential of this opportunity is supported by strong anticipated
+Publishing                                          consumer demand, solid ROI potential with respect to IP and technological
+Designed by Joey Schaffer                           development, and government funding and regulatory support.
+
+Published on September 15, 2023
+                                                   • Cultivated protein has the potential to create positive environmental impacts in the
+                                                    areas of climate change and pollution mitigation and biodiversity loss prevention
+                                                    as well as social impacts in terms of helping to address world hunger, improve
+Contents
+                                                    animal welfare, and create quality jobs.
+Key takeaways                           1
+
+
+Introduction                            2
+
+
+Financial return potential              3
+
+
+Environmental and social                5
+impact potential
+
+
+
+
+                                                                                                                                          1
+                                                                  Emerging Sustainable Investing Opportunities: Cultivated Protein
+
+
+
+
+Introduction
+VC, often serving as the incubator of emerging technologies, is well-positioned
+to invest with positive social and environmental impact goals in mind. VCs can
+use their expertise and resources to foster businesses that have the greatest
+potential for both impact and returns, especially with an eye toward companies for
+which success necessarily marries the two. This fact has not gone unnoticed by
+VCs, which comprise 42.7% of the total count of impact funds raised since 2007.1
+Yet the landscape of potential opportunities is expansive and rapidly evolving,
+making it difficult to keep track of which have the greatest financial—and impact—
+return potential.
+
+
+Emerging opportunities often go beyond the investment areas traditionally
+associated with sustainability, such as solar energy or electric vehicles, to
+encompass a host of lesser-known technologies. Even within the familiar themes,
+there are niche investment opportunities developing. In this analyst note series,
+we explore opportunities across emerging technology verticals such as foodtech,
+mobility tech, and carbon & emissions tech that we believe are poised to perform
+well in the next decade, both from financial-return and impact-return perspectives.
+In doing so, we hope to guide VCs pursuing the “double bottom line” through the
+complex landscape to the most fruitful opportunities.
+
+
+For each analyst note in the series, insights are developed in collaboration with a
+PitchBook Emerging Technology analyst covering the relevant vertical, using their
+subject matter expertise and previous research, as well as some external resources,
+to inform our perspective on the space. We discuss the return potential of the
+opportunity and its major drivers as well as the investment risks and obstacles
+it faces. We also explore its social and environmental impact potential, how the
+opportunity fits into various IRIS+ Impact themes, 2 and potential metrics to help
+quantify those impacts. Ultimately, the aim of this research is to give VCs and their
+LPs a better understanding of how the opportunities align with their return and
+sustainability goals and provide companies operating in these spaces a sense of
+how to optimize and communicate their social and environmental impact.
+
+
+This analyst note focuses on cultivated protein, which is meat, seafood, dairy, and
+egg products created in labs using cultivated animal cells rather than through
+slaughter, harvesting, or fishing. 3 While alternative protein, such as the plant-based
+products created by Impossible Foods or Beyond Meat, is well-known among
+investors and consumers alike, cultivated protein is a subset of this category on the
+cutting edge of food tech. Since 2013, 136 VC-backed companies have entered the
+cultivated protein space, with $4.8 billion in investment.
+
+
+
+
+1: For more impact fundraising data, check out our Q4 2022 Pitchbook Analyst Note: Impact Investing Update.
+2: The Impact Reporting and Investing Standards (IRIS+) framework, created by the Global Impact Investing Network (GIIN), is an industry-leading
+methodology aiding investors in sorting impact investments by the different types of impact they are targeting. You can learn more about the IRIS+
+categories, what they include, and what they do not, in “IRIS+ Thematic Taxonomy,” Global Impact Investing Network, April 2023.
+3: For in-depth information on cultivated protein, download our Q3 2021 PitchBook Analyst Note: Reinventing Meat.
+
+
+
+
+                                                                                                                                                     2
+                                                                 Emerging Sustainable Investing Opportunities: Cultivated Protein
+
+
+
+
+Cultivated protein VC deal activity
+                                                                                                                 82
+                                                                                                                               73
+
+
+                                                                                                    49
+
+
+                                                                                      32                                                 34
+
+                                                                        22
+  2             7             4             5             10
+ $0.2          $0.2          $0.2          $0.1
+                                                         $0.2         $0.2          $0.2          $0.4          $1.6          $1.2      $0.5
+
+ 2013          2014          2015          2016         2017          2018          2019          2020          2021         2022       2023*
+                                                      Deal value ($B)                  Deal count
+                                                                                                 Source: PitchBook • Geography: Global
+                                                                                                                 *As of August 21, 2023
+
+
+
+
+Financial return potential
+The current standard methods of animal protein production are resource-intensive
+and environmentally unsustainable. As the global population continues to grow,
+demand for animal protein will exceed what can feasibly be supported by those
+methods. Simultaneously, governments are attempting to rein in their contributions
+to climate change, including through agriculture, which could further limit the
+supply of animal protein. Cultivated protein may be part of the answer, as it
+allows for increased animal protein production without the same magnitude of
+environmental cost.
+
+
+The return potential of cultivated protein is currently high but expected to moderate
+slightly a decade from now, so this opportunity is worth considering sooner
+rather than later. There are three key factors influencing its return potential. First,
+cultivated protein products are expected to experience strong consumer demand,
+which will increase over time. Demand for environmentally sustainable and cruelty-
+free food products has been climbing over the past decade.4 Cultivated protein
+is anticipated to mimic the taste and nutritional profile of animal products more
+accurately than plant-based alternatives, catering to the population more concerned
+with animal welfare and environmental impacts. Supporting demand predictions is
+the fact that other plant-based meat alternatives have had success on the market
+already, and many of the same drivers of demand for plant-based protein will likely
+exist for cultivate protein. 5 Further, cultivated protein providers will probably have
+the upper hand in winning over meat eaters compared to plant-based alternative
+producers, as the product they are selling is actually meat, even if not produced
+through livestock slaughter.
+
+
+
+
+4: “Consumers Care About Sustainability—and Back It Up With Their Wallets,” McKinsey & Company, Sherry Frey et al., February 6, 2023.
+5: “Beyond Meat’s Value Soars to $3.8 Billion in Year’s Top US IPO,” Bloomberg, Deena Shanker et al., May 2, 2019.
+
+
+
+
+                                                                                                                                              3
+                                                                   Emerging Sustainable Investing Opportunities: Cultivated Protein
+
+
+
+
+Second, the intellectual property and technology necessary to produce these
+products, once developed, has a substantial return-on-investment (ROI) potential,
+which is expected to increase with time. Companies developing cultivated
+protein started off by using off-the-shelf medtech or biotech machinery and have
+experienced difficulties scaling production due to technological limitations. However,
+as the cultivated protein ecosystem grows, we are observing incumbent input and
+equipment startups and incumbent suppliers developing product lines for the
+cultivated meat industry that will ultimately increase product quality and reduce input
+and production costs.
+
+
+Lastly, cultivated protein companies have already received government funding
+and regulatory support in some geographies, including the US, Singapore, and the
+Netherlands, among others, and this support is anticipated to continue to grow over
+the next decade.6 Beyond food system sustainability concerns, governments across
+the world were rattled by the Russia-Ukraine war and its effects on the global food
+supply chain, sparking conversations around food sovereignty and security. The
+addition of cultivated protein to a national food supply diversifies—and shortens—
+the supply chain, which could create a case for government subsidies such as those
+provided to the traditional meat and dairy industries.7 Government funding can
+help improve profit margins at various stages of growth, depending on how it is
+administered, so its effect on return potential will vary from one initiative to another.
+
+
+On the other side of the coin, the risk level of this opportunity is currently moderately
+high but expected to adjust to a low-to-moderate level in the next decade. There
+are four central risks or obstacles to consider. First, there are adoption risks due
+to the costs of the cultivated protein products, which are high because of the cost
+of production, and thus may be price prohibitive to consumers. However, with
+competition, input, and process improvements, prices are likely to fall, becoming
+less of a barrier to adoption. Further, as climate-change-induced extreme weather
+events exacerbate competition for the inputs used for human food crops and animal
+agriculture crops, cultivated protein products may become relatively less expensive
+compared to traditional animal protein.
+
+
+Second, there are adoption risks due to the novelty or “unnaturalness” of the product.
+While other types of alternative protein have found success in restaurants and
+grocery stores and amassed a consumer following, cultivated protein is still nascent
+and relatively untested in the marketplace. Only two companies are approved to
+sell them by the USDA, and both are carefully controlling consumer experiences by
+partnering with celebrity chefs at high-end restaurants, so practical case studies are
+very limited. Resistance to genetically modified organisms (GMOs), highly processed,
+and nonorganic products has grown in recent years, as consumers are concerned
+about the negative health impacts they may present. These apprehensions will likely
+translate to cultivated protein as well. This obstacle may further be fueled by efforts
+to stoke fear from the traditional livestock industry to protect its market share.
+However, as with GMOs and highly processed foods, once the novelty wears off, the
+products will probably become normalized to a large portion of the population, as
+long as the products are, in fact, not harmful to consumers.
+
+6: “Government Investment in the Opportunities of Alternative Proteins,” Emerging Proteins NZ, September 2022.
+7: “Saving the Planet: The Market for Sustainable Meat Alternatives,” Sutardja Center for Entrepreneurship & Technology, Indira Joshi et al., November
+10, 2015.
+
+
+
+
+                                                                                                                                                    4
+                                                                 Emerging Sustainable Investing Opportunities: Cultivated Protein
+
+
+
+
+Third, there is competitive risk, which will increase over the next decade as more
+players enter the space. As occurred with other plant-based meat alternatives,
+the landscape will become more competitive once consumer demand, and the
+necessary technologies, are more established. Because of this, there is somewhat
+of a first-mover advantage in terms of brand recognition, as there was with Beyond
+Meat and Impossible Foods. Companies will likely also have to compete with
+products created by big names such as Nestlé, 8 Hormel Foods, Cargill,9 and Kellogg,
+which have already explored other alternative proteins, and some of which have
+already invested in cultivated protein.
+
+
+Finally, there is a regulatory risk to cultivated protein. Generally speaking, the EU
+has more stringent food regulations and arduous approvals processes compared
+to the US and other geographies. Cultivated protein companies may not be able to
+penetrate all desired markets, given these obstacles. As more studies are conducted
+on the long-term effects of cultivated protein consumption, the regulatory
+landscape may either grow more friendly or more hostile toward these products.
+Recent approvals suggest it would more likely be the former than the latter, but it is
+impossible to predict for certain.
+
+
+Environmental and social impact potential
+Relevant IRIS+ categories10
+
+
+
+
+   Agriculture                                    Air                             Biodiversity &                            Climate
+                                                                                    ecosystems
+
+
+
+
+  Employment                                    Water
+
+
+Cultivated protein has a low-to-moderate positive environmental impact potential
+at present, which will likely scale to a high environmental impact potential a decade
+from now when adoption has increased and technology improved. These potential
+environmental impacts are multidimensional. In terms of the primary impacts,
+animal agriculture is a major contributor to global greenhouse gas emissions (GHGs),
+comprising approximately twice as much of the total GHG output of agriculture
+and land use as plant-based foods.11 In addition to CO2 emissions, it contributes
+
+
+8: “Nestlé Explores Emerging Technologies for Cultured Meat,” Nestlé, July 13, 2021.
+9: “Cargill Invests in Cultured Meat Company Aleph Farms,” Cargill, May 14, 2019.
+10: “IRIS+ Thematic Taxonomy,” Global Impact Investing Network, April 2023.
+11: “Global Greenhouse Gas Emissions From Animal-Based Foods Are Twice Those of Plant-Based Foods,” Nature Food, Xiaoming Xu et al., August
+14, 2021.
+
+
+
+
+                                                                                                                                              5
+                                                                  Emerging Sustainable Investing Opportunities: Cultivated Protein
+
+
+
+
+nitrous oxide and methane, both of which trap more heat in the atmosphere than
+carbon, making them more harmful in the context of global warming. Research has
+shown that cultivated meats have the potential to outperform conventional meat
+benchmarks on most environmental indicators, including air pollution and nitrogen-
+related emissions, and its carbon footprint is substantially lower than beef.12 When
+combined with renewable energy, cultivated protein is a sustainable alternative to all
+conventional meats.
+
+
+Runoff from traditional farms also exacerbates water pollution, biodiversity loss,
+and wetlands destruction.13 As cultivated protein production facilities are generally
+indoors, operators have control over wastewater, effluents, and other byproducts,
+and can prevent releases that create negative environmental impacts. As production
+efficiencies improve, renewable energy continues to proliferate, and consumers
+adopt these products in place of conventional animal protein, the impacts of these
+environmental sustainability improvements will theoretically intensify. The biggest
+obstacles to these outcomes are adoption risk, as the scale of impact will be
+substantially smaller if consumers cannot or will not replace traditional animal protein
+with cultivated ones for financial or other reasons, and regulatory risks, as discussed in
+the financial return potential section.
+
+
+From a social impact perspective, cultivated protein has three main opportunities,
+which together have a low-to-moderate impact potential that is expected to escalate
+to a moderate-to-high impact potential in the next 10 years with greater adoption and
+more efficient production. The first major opportunity is to feed the global population
+more sustainably. According to the UN Food and Agriculture Organization, the world
+will need to produce 60% more food to feed a population of 9.3 billion people,14 which
+we are predicted to exceed by 2050.15 Our present level of food production cannot be
+maintained given current farming practices, so solutions such as cultivated protein can
+help prevent the number of people going hungry from continuing to grow. Affordability
+is a key factor in this equation, so potential impact will increase as affordability does.
+
+
+The second major opportunity is the potential to vastly improve animal welfare.
+Cultivated protein has the obvious effect of increasing the supply of animal protein
+without needing to slaughter more animals, although some animal cells are harvested
+for production. Additionally, it may also push more meat producers up the spectrum
+toward better animal welfare practices. Free-range and pasture-raised products,
+among other classifications related to the health and welfare of the animals from which
+the food is derived, already sell at a premium, so more producers may go this route
+as they must compete with the arguably harm-free lab-grown meat. The amount of
+traditional animal protein replaced by cultivated protein will have a direct relationship
+to the scale of this impact, so it will grow as consumption does.
+
+
+
+
+12: “Ex‑Ante Life Cycle Assessment of Commercial‑Scale Cultivated Meat Production in 2030,” The International Journal of Life Cycle Assessment, Pelle
+Sinke et al., January 12, 2023.
+13: “Environmental Impacts of Agricultural Runoff,” Wisconsin Department of Natural Resources, n.d., accessed September 6, 2023.
+14: “Feeding the World Sustainably,” UN Chronicle, José Graziano Da Silva, June 2012.
+15: “World Population Projected to Reach 9.8 Billion in 2050, and 11.2 Billion in 2100,” UN Department of Economic and Social Affairs, 2017, accessed
+September 6, 2023.
+
+
+
+
+                                                                                                                                                   6
+                                                                    Emerging Sustainable Investing Opportunities: Cultivated Protein
+
+
+
+
+The final social impact opportunity is related to the quality of employment provided
+by cultivated protein companies compared to factory farms. Working conditions
+in factory farms are often dangerous, with high employee injury rates as well as
+severe mental health impacts associated with slaughterhouse work.16 By eliminating
+live animal handling and slaughter from the production process, cultivated protein
+companies create safer work. The impact potential associated with this opportunity
+will scale as cultivated-protein-producer operations do, either replacing some
+slaughterhouse jobs or preventing new ones from being created.
+
+
+Other than the adoption and regulatory risks already mentioned, one of the most
+significant threats to achieving these positive social impacts is uncertainty around
+the health effects of long-term cultivated protein consumption. Feeding the hungry
+is only positively impactful insofar as what the hungry are being fed is not harmful to
+them. While theoretically similar to traditional animal products, extensive studies on
+its impact on human health have yet to be conducted. Although regulators such as the
+US Food and Drug Administration have deemed some forms of lab-grown meat safe to
+eat, industry participants and consumers alike will be awaiting confirmation that these
+protein alternatives are nutritionally comparable to standard animal products.17
+
+
+Potential impact metrics18
+• Pounds of cultivated protein sold by the company
+• Tons of CO2 emissions prevented by cultivated protein product consumption
+  compared to traditional animal products
+• Tons of nitrous oxide emissions prevented by cultivated protein product
+  consumption compared to traditional animal products
+• Tons of methane emissions prevented by cultivated protein product consumption
+  compared to traditional animal products
+• Amount of livestock that would have been required to produce the quantity of
+  alternative protein sold by the company
+• Number of jobs created by the company
+
+
+
+
+16: “The Psychological Impact of Slaughterhouse Employment: A Systematic Literature Review,” Trauma, Violence & Abuse, Jessica Slade et al., July 7, 2021.
+17: “Lab-Grown Meat Is Safe to Eat, FDA Says,” Smithsonian Magazine, Will Sullivan, November 21, 2022.
+18: As discussed in our Analyst Note: ESG, Impact, and Greenwashing in PE and VC, some GPs and LPs consider measurement a necessary component
+of an impact investment program. The following metrics can be used to quantify the positive social and environmental impacts discussed in the
+report, including by companies pitching their positive impacts to sustainability-oriented GPs and GPs collecting impact metrics on their portfolios for
+internal tracking and monitoring, among others. Of note, these metrics are tailored to the specific opportunity discussed, and as such, some of them
+will not aggregate meaningfully at the LP portfolio level. You can read more about the use of customized versus standardized metrics in “Assessing
+Comparability: The Indicators Dilemma,” EVPA, Gianluca Gaggiotti et al., September 12, 2023.
+
+
+
+COPYRIGHT © 2023 by PitchBook Data, Inc. All rights reserved. No part of this publication may be reproduced in
+any form or by any means—graphic, electronic, or mechanical, including photocopying, recording, taping, and
+information storage and retrieval systems—without the express written permission of PitchBook Data, Inc. Contents
+are based on information from sources believed to be reliable, but accuracy and completeness cannot be guaranteed.
+Nothing herein should be construed as investment advice, a past, current or future recommendation to buy or sell
+any security or an offer to sell, or a solicitation of an offer to buy any security. This material does not purport to
+contain all of the information that a prospective investor may wish to consider and is not to be relied upon as such or
+used in substitution for the exercise of independent judgment.
+
+
+
+
+                                                                                                                                                        7
+

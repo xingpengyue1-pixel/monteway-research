@@ -1,0 +1,290 @@
+仅浏览题目与选项，未代答；不包含未显示的答案解析。
+
+AXWebArea 第 1 个问题，共 10 个, URL: blob:https://03il04m6vjyewjs0cqeeiwfe5aan1g5a2vaosb7vcmlekhvle0-h998661601.scf.usercontent.goog/6811dfc5-933c-4127-84bd-38e413eb2575
+					461 container
+						462 pop up button (collapsed) Description: 更多选项, Secondary Actions: Expand
+						463 heading Description: 问题 1：WPI（分离乳清蛋白）路线之所以能帮助消化能力较弱或乳糖敏感的用户规避饮用后腹胀、排气的问题，其底层机制是什么？, Value: 1
+							464 text WPI（分离乳清蛋白）路线之所以能帮助消化能力较弱或乳糖敏感的用户规避饮用后腹胀、排气的问题，其底层机制是什么？
+						465 button A. 将乳清蛋白水解为氨基酸以直接在胃部被吸收
+						466 button B. 通过加入植物蛋白来稀释乳清蛋白的消化负担
+						467 button C. 额外添加了大量的膳食纤维以促进肠道快速蠕动
+						468 button D. 采用深度提纯工艺将成品中的乳糖含量降低至趋近于 0
+						469 button (collapsed) 显示提示, Secondary Actions: Expand
+							470 container 显示提示
+								471 text 提示
+						472 button 下一题
+							473 container 下一题
+								474 text 下一个
+			455 container 内容不错
+				456 button 内容不错
+			457 container 内容不好
+				458 button 内容不好
+	37 container
+		38 button logo icon
+			39 image logo icon
+			40 image
+		41 container
+			42 button
+
+The focused UI element is 462 pop up button (collapsed) Description: 更多选项, Secondary Actions: Expand
+
+AXWebArea 第 2 个问题，共 10 个, URL: blob:https://03il04m6vjyewjs0cqeeiwfe5aan1g5a2vaosb7vcmlekhvle0-h998661601.scf.usercontent.goog/6811dfc5-933c-4127-84bd-38e413eb2575
+					461 container
+						462 pop up button (collapsed) Description: 更多选项, Secondary Actions: Expand
+						463 heading Description: 问题 2：为什么浓缩乳清蛋白（WPC）相较于高纯分离乳清蛋白（WPI）更容易诱发或加重痘痘？, Value: 1
+							475 text 为什么浓缩乳清蛋白（WPC）相较于高纯分离乳清蛋白（WPI）更容易诱发或加重痘痘？
+						476 button A. WPC 在加工过程中必须添加大量人工甜味剂
+						477 button B. WPC 中残留有乳脂成分及部分乳成分，易刺激皮脂腺过度分泌
+						478 button C. WPC 含有较高比例的大豆异黄酮，会影响激素平衡
+						479 button D. WPC 蛋白质分子量过小，导致身体吸收速率过快引发炎症
+						469 button (collapsed) 显示提示, Secondary Actions: Expand
+							470 container 显示提示
+								471 text 提示
+						480 button 上一题
+						472 button 下一题
+							473 container 下一题
+								474 text 下一个
+			455 container 内容不错
+				456 button 内容不错
+			457 container 内容不好
+				458 button 内容不好
+	37 container
+		38 button logo icon
+			39 image logo icon
+			40 image
+		41 container
+			42 button
+
+The focused UI element is 463 heading Description: 问题 2：为什么浓缩乳清蛋白（WPC）相较于高纯分离乳清蛋白（WPI）更容易诱发或加重痘痘？, Value: 1
+
+AXWebArea 第 3 个问题，共 10 个, URL: blob:https://03il04m6vjyewjs0cqeeiwfe5aan1g5a2vaosb7vcmlekhvle0-h998661601.scf.usercontent.goog/6811dfc5-933c-4127-84bd-38e413eb2575
+					461 container
+						462 pop up button (collapsed) Description: 更多选项, Secondary Actions: Expand
+						463 heading Description: 问题 3：某款蛋白粉表面上单克总蛋白质成本仅为 ¥0.40/g，但折算百克纯乳清蛋白含量仅有 25.0g，其换算后的纯乳清成本高达 ¥1.19/g。这主要是因为该产品采用了什么配方？, Value: 1
+							481 text 某款蛋白粉表面上单克总蛋白质成本仅为 ¥0.40/g，但折算百克纯乳清蛋白含量仅有 25.0g，其换算后的纯乳清成本高达 ¥1.19/g。这主要是因为该产品采用了什么配方？
+						482 button A. 浓缩乳清蛋白与分离乳清蛋白各占 50% 的双重乳清
+						483 button B. 以大豆分离蛋白为主，拼配少量乳清蛋白
+						484 button C. 纯植物蛋白（大豆、小麦与豌豆蛋白）结合膳食纤维
+						485 button D. 100% 进口纯分离乳清蛋白（WPI）
+						469 button (collapsed) 显示提示, Secondary Actions: Expand
+							470 container 显示提示
+								471 text 提示
+						480 button 上一题
+						472 button 下一题
+							473 container 下一题
+								474 text 下一个
+			455 container 内容不错
+				456 button 内容不错
+			457 container 内容不好
+				458 button 内容不好
+	37 container
+		38 button logo icon
+			39 image logo icon
+			40 image
+		41 container
+			42 button
+
+The focused UI element is 463 heading Description: 问题 3：某款蛋白粉表面上单克总蛋白质成本仅为 ¥0.40/g，但折算百克纯乳清蛋白含量仅有 25.0g，其换算后的纯乳清成本高达 ¥1.19/g。这主要是因为该产品采用了什么配方？, Value: 1
+
+AXWebArea 第 4 个问题，共 10 个, URL: blob:https://03il04m6vjyewjs0cqeeiwfe5aan1g5a2vaosb7vcmlekhvle0-h998661601.scf.usercontent.goog/6811dfc5-933c-4127-84bd-38e413eb2575
+					461 container
+						462 pop up button (collapsed) Description: 更多选项, Secondary Actions: Expand
+						463 heading Description: 问题 4：在高纯 0 乳糖分离乳清（WPI）便携装竞品中，综合折算百克纯乳清蛋白含量（80.0g）与单克蛋白质成本（¥0.41/g），性价比最高的品牌产品是哪一个？, Value: 1
+							481 text 在高纯 0 乳糖分离乳清（WPI）便携装竞品中，综合折算百克纯乳清蛋白含量（80.0g）与单克蛋白质成本（¥0.41/g），性价比最高的品牌产品是哪一个？
+						482 button A. 康比特 分离乳清便携小袋装
+						483 button B. Swisse 分离乳清塑形蛋白粉
+						484 button C. 维力维 分离乳清蛋白粉
+						485 button D. ALLMAX Isoflex 便携袋装
+						469 button (collapsed) 显示提示, Secondary Actions: Expand
+							470 container 显示提示
+								471 text 提示
+						480 button 上一题
+						472 button 下一题
+							473 container 下一题
+								474 text 下一个
+			455 container 内容不错
+				456 button 内容不错
+			457 container 内容不好
+				458 button 内容不好
+	37 container
+		38 button logo icon
+			39 image logo icon
+			40 image
+		41 container
+			42 button
+
+The focused UI element is 463 heading Description: 问题 4：在高纯 0 乳糖分离乳清（WPI）便携装竞品中，综合折算百克纯乳清蛋白含量（80.0g）与单克蛋白质成本（¥0.41/g），性价比最高的品牌产品是哪一个？, Value: 1
+
+AXWebArea 第 5 个问题，共 10 个, URL: blob:https://03il04m6vjyewjs0cqeeiwfe5aan1g5a2vaosb7vcmlekhvle0-h998661601.scf.usercontent.goog/6811dfc5-933c-4127-84bd-38e413eb2575
+					461 container
+						462 pop up button (collapsed) Description: 更多选项, Secondary Actions: Expand
+						463 heading Description: 问题 5：如果健身人群对蛋白质纯度有极限要求（折算百克纯乳清高达 90.0g 以上），且希望在进口高纯分离乳清中获得相对更高的性价比（单克成本约 ¥0.62/g），最推荐的产品是：, Value: 1
+							486 text 如果健身人群对蛋白质纯度有极限要求（折算百克纯乳清高达 90.0g 以上），且希望在进口高纯分离乳清中获得相对更高的性价比（单克成本约 ¥0.62/g），最推荐的产品是：
+						485 button A. ALLMAX Isoflex 便携袋装
+						487 button B. 汤臣倍健 金装蛋白粉便携装
+						488 button C. 六星 SIXSTAR 乳清便携试用装
+						489 button D. 维力维 分离乳清蛋白粉
+						469 button (collapsed) 显示提示, Secondary Actions: Expand
+							470 container 显示提示
+								471 text 提示
+						480 button 上一题
+						472 button 下一题
+							473 container 下一题
+								474 text 下一个
+			455 container 内容不错
+				456 button 内容不错
+			457 container 内容不好
+				458 button 内容不好
+	37 container
+		38 button logo icon
+			39 image logo icon
+			40 image
+		41 container
+			42 button
+
+The focused UI element is 463 heading Description: 问题 5：如果健身人群对蛋白质纯度有极限要求（折算百克纯乳清高达 90.0g 以上），且希望在进口高纯分离乳清中获得相对更高的性价比（单克成本约 ¥0.62/g），最推荐的产品是：, Value: 1
+
+AXWebArea 第 6 个问题，共 10 个, URL: blob:https://03il04m6vjyewjs0cqeeiwfe5aan1g5a2vaosb7vcmlekhvle0-h998661601.scf.usercontent.goog/6811dfc5-933c-4127-84bd-38e413eb2575
+					461 container
+						462 pop up button (collapsed) Description: 更多选项, Secondary Actions: Expand
+						463 heading Description: 问题 6：根据选品指南建议，兼顾经济性与出差/健身房随身便携防潮的最佳“组合采购策略”是：, Value: 1
+							481 text 根据选品指南建议，兼顾经济性与出差/健身房随身便携防潮的最佳“组合采购策略”是：
+						482 button A. 全程仅购买 10g 独立次抛条装以确保极致防潮
+						483 button B. 居家使用 5 磅大桶装，配合出差时携带性价比高的次抛小袋装
+						484 button C. 搭配饮用高纤植物蛋白代餐与纯乳清蛋白粉
+						485 button D. 购买大罐装蛋白粉并自行分装到塑料袋中随身携带
+						469 button (collapsed) 显示提示, Secondary Actions: Expand
+							470 container 显示提示
+								471 text 提示
+						480 button 上一题
+						472 button 下一题
+							473 container 下一题
+								474 text 下一个
+			455 container 内容不错
+				456 button 内容不错
+			457 container 内容不好
+				458 button 内容不好
+	37 container
+		38 button logo icon
+			39 image logo icon
+			40 image
+		41 container
+			42 button
+
+The focused UI element is 463 heading Description: 问题 6：根据选品指南建议，兼顾经济性与出差/健身房随身便携防潮的最佳“组合采购策略”是：, Value: 1
+
+AXWebArea 第 7 个问题，共 10 个, URL: blob:https://03il04m6vjyewjs0cqeeiwfe5aan1g5a2vaosb7vcmlekhvle0-h998661601.scf.usercontent.goog/6811dfc5-933c-4127-84bd-38e413eb2575
+					461 container
+						462 pop up button (collapsed) Description: 更多选项, Secondary Actions: Expand
+						463 heading Description: 问题 7：关于汤臣倍健 Yep 植物蛋白粉固体饮料，下列说法符合源文本描述的是：, Value: 1
+							481 text 关于汤臣倍健 Yep 植物蛋白粉固体饮料，下列说法符合源文本描述的是：
+						482 button A. 其乳清蛋白含量为 100%，属于高纯度 WPI 产品
+						483 button B. 单克总蛋白质成本仅为 ¥0.41/g，是性价比最高的纯乳清选择
+						484 button C. 采用了浓缩乳清与大豆蛋白 3:2 的黄金配比
+						485 button D. 其配料以大豆/小麦/豌豆植物蛋白结合抗性糊精为主，乳清蛋白含量为 0%
+						469 button (collapsed) 显示提示, Secondary Actions: Expand
+							470 container 显示提示
+								471 text 提示
+						480 button 上一题
+						472 button 下一题
+							473 container 下一题
+								474 text 下一个
+			455 container 内容不错
+				456 button 内容不错
+			457 container 内容不好
+				458 button 内容不好
+	37 container
+		38 button logo icon
+			39 image logo icon
+			40 image
+		41 container
+			42 button
+
+The focused UI element is 463 heading Description: 问题 7：关于汤臣倍健 Yep 植物蛋白粉固体饮料，下列说法符合源文本描述的是：, Value: 1
+
+AXWebArea 第 8 个问题，共 10 个, URL: blob:https://03il04m6vjyewjs0cqeeiwfe5aan1g5a2vaosb7vcmlekhvle0-h998661601.scf.usercontent.goog/6811dfc5-933c-4127-84bd-38e413eb2575
+					461 container
+						462 pop up button (collapsed) Description: 更多选项, Secondary Actions: Expand
+						463 heading Description: 问题 8：传统大桶装（2磅–5磅）运动蛋白粉虽然单克成本低，但在女性健身及差旅场景下存在两大明显痛点，除了“大勺取粉难以精准控制单次轻运动摄入量”之外，另一个痛点是什么？, Value: 1
+							481 text 传统大桶装（2磅–5磅）运动蛋白粉虽然单克成本低，但在女性健身及差旅场景下存在两大明显痛点，除了“大勺取粉难以精准控制单次轻运动摄入量”之外，另一个痛点是什么？
+						482 button A. 反复开封极易受潮结块并滋生微生物
+						483 button B. 保质期过短，打开后必须在 7 天内饮用完毕
+						484 button C. 纯度远低于同配方的次抛袋装产品
+						485 button D. 包装体积过于笨重无法放置在厨房储物柜中
+						469 button (collapsed) 显示提示, Secondary Actions: Expand
+							470 container 显示提示
+								471 text 提示
+						480 button 上一题
+						472 button 下一题
+							473 container 下一题
+								474 text 下一个
+			455 container 内容不错
+				456 button 内容不错
+			457 container 内容不好
+				458 button 内容不好
+	37 container
+		38 button logo icon
+			39 image logo icon
+			40 image
+		41 container
+			42 button
+
+The focused UI element is 463 heading Description: 问题 8：传统大桶装（2磅–5磅）运动蛋白粉虽然单克成本低，但在女性健身及差旅场景下存在两大明显痛点，除了“大勺取粉难以精准控制单次轻运动摄入量”之外，另一个痛点是什么？, Value: 1
+
+AXWebArea 第 9 个问题，共 10 个, URL: blob:https://03il04m6vjyewjs0cqeeiwfe5aan1g5a2vaosb7vcmlekhvle0-h998661601.scf.usercontent.goog/6811dfc5-933c-4127-84bd-38e413eb2575
+					461 container
+						462 pop up button (collapsed) Description: 更多选项, Secondary Actions: Expand
+						463 heading Description: 问题 9：下列关于“路线一（高纯 0 乳糖 WPI 路线）”产品配方识别与清洁标签的要求，哪项表述符合规范建议？, Value: 1
+							481 text 下列关于“路线一（高纯 0 乳糖 WPI 路线）”产品配方识别与清洁标签的要求，哪项表述符合规范建议？
+						482 button A. 应添加植脂末以提升可可或奶茶口味的醇厚感
+						483 button B. 配料表首位应为大豆分离蛋白以降低油脂含量
+						484 button C. 必须拼配大量膳食纤维（如抗性糊精）以达到 95% 以上的纯度
+						485 button D. 配料表第一位应为分离乳清蛋白粉（WPI），且成品乳糖含量趋近于 0
+						469 button (collapsed) 显示提示, Secondary Actions: Expand
+							470 container 显示提示
+								471 text 提示
+						480 button 上一题
+						472 button 下一题
+							473 container 下一题
+								474 text 下一个
+			455 container 内容不错
+				456 button 内容不错
+			457 container 内容不好
+				458 button 内容不好
+	37 container
+		38 button logo icon
+			39 image logo icon
+			40 image
+		41 container
+			42 button
+
+The focused UI element is 463 heading Description: 问题 9：下列关于“路线一（高纯 0 乳糖 WPI 路线）”产品配方识别与清洁标签的要求，哪项表述符合规范建议？, Value: 1
+
+AXWebArea 第 10 个问题，共 10 个, URL: blob:https://03il04m6vjyewjs0cqeeiwfe5aan1g5a2vaosb7vcmlekhvle0-h998661601.scf.usercontent.goog/6811dfc5-933c-4127-84bd-38e413eb2575
+					461 container
+						462 pop up button (collapsed) Description: 更多选项, Secondary Actions: Expand
+						463 heading Description: 问题 10：对于亚洲女性帕梅拉/普拉提等轻运动加餐场景，选品建议推荐采用单袋剂量为 10g–15g/条（而非欧美标准的 30g/袋）的主要原因是：, Value: 1
+							481 text 对于亚洲女性帕梅拉/普拉提等轻运动加餐场景，选品建议推荐采用单袋剂量为 10g–15g/条（而非欧美标准的 30g/袋）的主要原因是：
+						482 button A. 较小规格冲泡需水量仅 100–150ml 且易放入随身包，饮用与携带负担更小
+						483 button B. 30g 规格的蛋白粉含有更高比例的植脂末和杂质
+						484 button C. 亚洲女性体内缺乏吸收超过 15g 蛋白质所需的消化酶
+						485 button D. 10g–15g 规格的单克蛋白成本绝对比 30g 规格便宜
+						469 button (collapsed) 显示提示, Secondary Actions: Expand
+							470 container 显示提示
+								471 text 提示
+						480 button 上一题
+						472 button 完成
+							486 container 完成
+								487 text 完成
+			455 container 内容不错
+				456 button 内容不错
+			457 container 内容不好
+				458 button 内容不好
+	37 container
+		38 button logo icon
+			39 image logo icon
+			40 image
+		41 container
+			42 button
+
+The focused UI element is 463 heading Description: 问题 10：对于亚洲女性帕梅拉/普拉提等轻运动加餐场景，选品建议推荐采用单袋剂量为 10g–15g/条（而非欧美标准的 30g/袋）的主要原因是：, Value: 1

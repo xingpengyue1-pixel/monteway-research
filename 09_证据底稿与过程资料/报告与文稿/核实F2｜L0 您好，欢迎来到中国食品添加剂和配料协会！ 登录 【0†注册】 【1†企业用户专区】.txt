@@ -1,0 +1,137 @@
+www.cfaa.cn (https://www.cfaa.cn/lxweb/queryCompanyAllDetail.action?companyInfo.id=13606)
+citeturn80view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://www.cfaa.cn/lxweb/queryCompanyAllDetail.action?companyInfo.id=13606","lineno":null}); Total lines: 134
+L0: 您好，欢迎来到中国食品添加剂和配料协会！[ 登录 【0†注册】 【1†企业用户专区】]
+L1: 
+L2: 加入收藏 | 【2†ENGLISH】
+L3: 
+L4: 【3†Image】
+L5: 
+L6: 【4†Image】
+L7: 
+L8:   * 【5†首页】
+L9: 
+L10:   * 【6†协会简介】
+L11: 
+L12: 【7†组织机构】 【8†协会章程】 【9†理事会成员】 【10†专业委员会】 【11†入会指南】
+L13: 
+L14:   * 【12†党建工作】
+L15: 
+L16:   * 【13†出版物】
+L17: 
+L18: 【14†中国食品添加剂杂志】 【15†中国食品添加剂和配料快报】 【16†FIC会刊】 【17†FIC论文集】 【18†食品添加剂手册】 【19†订购】 【20†广告发布】
+L19: 
+L20:   * 【21†展会专区】
+L21: 
+L22: 【22†FIC展】 【23†FIC健康展】 【24†出国参展】
+L23: 
+L24:   * 【25†法规标准】
+L25: 
+L26: 【26†法律】 【27†食品添加剂法规文件】 【28†新食品原料法规文件】 【29†其他法规文件】 【30†食品添加剂标准】 【31†法规标准动态】 【32†国内外食品安全网站】 【33†协会已发布的团体标准】
+L27: 
+L28:   * 【34†行业资讯】
+L29: 
+L30: 【35†行业动态】 【36†协会要闻】 【37†行业会议】 【38†科普园地】
+L31:   * 【39†企业产品大全】
+L32: 
+L33:   * 【40†相关注册流程】
+L34: 
+L35:   * 【2†ENGLISH】
+L36: 
+L37: 【2†Home】 【41†Organization】 【42†Activities】 【43†Food Ingredients China (FIC)】
+L38: 
+L39: 【44†Image: 290-2020-08-10_14-30-49.jpg】  | 南京捷诺生物制品有限公司
+L40: NANJING GINO BIOTEK CO.,LTD.  | 【45†Image】春季FIC参展商
+L41: 公司简介(Company Introduction)
+L42: 作为服务中国营养健康市场的专业功能配料进口商，南京捷诺为您甄选全球原料，选择符合国内市场、顺应全球趋势的健康产品。 捷诺为您带来欧洲大陆安全控制的乳制品配料，全球深海海域的功能性鱼油、南美和印度地区的超级植物。我们为您保证产品最初的采购品质，并提供符合国内法规的原料数据和应用支持。
+L43: 公司简介（英文）(Company Introduction)
+L44: A professional supplier of functional ingredients with technical solution: -Select global raw materials for China's nutrition and health market . -Provide customers with more systematic solutions -Provide customers with leading functional food product information abroad. For more health, it is the commitment of Gino Biotek to customers
+L45: 具体产品(Products)
+L46: 中文名称 英文名称
+L47: 鳕鱼胶原蛋白 Collagen
+L48: 乳清蛋白 Whey protein
+L49: 功能油脂制品 Functional Oil Products
+L50: 乳制品配料（浓缩乳清蛋白WPC80、乳矿物盐、分离乳清蛋白WPI90、酪蛋白MCC85） Dairy Ingredients
+L51: 功能营养配料 Functional Nutrition Ingredients
+L52: 叶黄素酯 Lutein Esters
+L53: 鳕鱼胶原蛋白 Collagen
+L54: 乳制品配料（浓缩乳清蛋白WPC80、乳矿物盐、分离乳清蛋白WPI90、酪蛋白MCC85） Dairy Ingredients
+L55: 叶黄素酯 Lutein Esters
+L56: 乳清蛋白 Whey protein
+L57: 鳕鱼胶原蛋白 Collagen
+L58: 生酮脂肪粉 Oil powder
+L59: 乳制品配料 Dairy Ingredients
+L60: 乳制品配料 Dairy Ingredients
+L61: 超级植物(圆苞车前子壳粉,白芸豆提取物,绿咖啡提取物,玛咖粉,奇亚籽)) Super Plants
+L62: 特医配料(辛癸酸甘油酯MCT粉、植物脂肪粉Omega157、左旋肉碱、配方基粉） Special Medical Ingredients
+L63: 乳清蛋白 Whey protein
+L64: 乳清蛋白 Whey protein
+L65: 叶黄素酯 Lutein Esters
+L66: 生酮脂肪粉 Oil powder
+L67: 圆苞车前子壳粉 Psyllium
+L68: 功能营养配料 Functional Nutrition Ingredients
+L69: 功能油脂制品 Functional Oil Products
+L70: 生酮脂肪粉 Oil powder
+L71: 类胡萝卜素 Carotenoid
+L72: 功能营养配料 Functional Nutrition Ingredients
+L73: 乳制品配料 Dairy Ingredients
+L74: 类胡萝卜素 Carotenoid
+L75: 功能性油脂制品(生酮脂肪粉，中链甘油三酯(MCT)，Omega157，亚麻籽油粉，各种定制化油脂粉末) Functional Oil Products
+L76: 鳕鱼胶原蛋白 Collagen
+L77: 超级植物(圆苞车前子壳粉,白芸豆提取物,绿咖啡提取物,玛咖粉,奇亚籽)) Super Plants
+L78: 功能营养配料 Functional Nutrition Ingredients
+L79: 乳清蛋白 Whey protein
+L80: 类胡萝卜素（盐藻，天然番茄红素，雨生红球藻，叶黄素酯，叶黄素） Carotenoid
+L81: 类胡萝卜素 Carotenoid
+L82: 生酮脂肪粉 Oil powder
+L83: 功能油脂制品 Functional Oil Products
+L84: 功能营养配料 Functional Nutrition Ingredients
+L85: 圆苞车前子壳粉 Psyllium
+L86: 超级植物(圆苞车前子壳粉,白芸豆提取物,绿咖啡提取物,玛咖粉,奇亚籽)) Super Plants
+L87: 圆苞车前子壳粉 Psyllium
+L88: 超级植物(圆苞车前子壳粉,白芸豆提取物,绿咖啡提取物,玛咖粉,奇亚籽)) Super Plants
+L89: 乳制品配料 Dairy Ingredients
+L90: 生酮脂肪粉 Oil powder
+L91: 乳清蛋白 Whey protein
+L92: 鳕鱼胶原蛋白 Collagen
+L93: 超级植物(圆苞车前子壳粉,白芸豆提取物,绿咖啡提取物,玛咖粉,奇亚籽)) Super Plants
+L94: 圆苞车前子壳粉 Psyllium
+L95: 叶黄素酯 Lutein Esters
+L96: 叶黄素酯 Lutein Esters
+L97: 超级植物(圆苞车前子壳粉,白芸豆提取物,绿咖啡提取物,玛咖粉,奇亚籽)) Super Plants
+L98: 鳕鱼胶原蛋白 Collagen
+L99: 乳清蛋白 Whey protein
+L100: 功能油脂制品 Functional Oil Products
+L101: 圆苞车前子壳粉 Psyllium
+L102: 圆苞车前子壳粉 Psyllium
+L103: 叶黄素酯 Lutein Esters
+L104: 功能油脂制品 Functional Oil Products
+L105: 生酮脂肪粉 Oil powder
+L106: 圆苞车前子壳粉 Psyllium
+L107: 功能营养配料 Functional Nutrition Ingredients
+L108: 叶黄素酯 Lutein Esters
+L109: 超级植物(圆苞车前子壳粉，白芸豆提取物，绿咖啡提取物，玛咖粉，鹰嘴豆蛋白，鹰嘴豆提取物) Super Plants
+L110: 类胡萝卜素 Carotenoid
+L111: 叶黄素酯 Lutein Esters
+L112: 功能营养配料(鳕鱼胶原蛋白，巴西绿蜂胶，左旋肉碱，酶解骨粉，软骨提取物，唾液酸) Functional Nutrition Ingredients
+L113: 美容美颜 Beauty beauty
+L114: 生酮脂肪粉 Oil powder
+L115: 乳制品配料 Dairy Ingredients
+L116: 乳清蛋白 Whey protein
+L117: 类胡萝卜素 Carotenoid
+L118: 类胡萝卜素 Carotenoid
+L119: 类胡萝卜素（盐藻，天然番茄红素，雨生红球藻，叶黄素酯，叶黄素） Carotenoid
+L120: 生酮脂肪粉 Oil powder
+L121: 鳕鱼胶原蛋白 Collagen
+L122: 超级植物（玛咖粉、奇亚籽粉、巴西蜂胶、天然番茄红素、圆苞车前子壳粉、东哥阿里提取物） Super Plants
+L123: 类胡萝卜素（盐藻，天然番茄红素，雨生红球藻，叶黄素酯，叶黄素） Carotenoid
+L124: 乳制品配料（浓缩乳清蛋白、乳矿物盐、分离乳清蛋白、酪蛋白、活性乳清蛋白普乐它） Dairy Ingredients
+L125: 乳制品配料 Dairy Ingredients
+L126: 功能油脂制品 Functional Oil Products
+L127: 功能营养配料(鳕鱼胶原蛋白，巴西绿蜂胶，左旋肉碱，酶解骨粉，软骨提取物，唾液酸) Functional Nutrition Ingredients
+L128: 功能性油脂制品(生酮脂肪粉，中链甘油三酯(MCT)，Omega157，亚麻籽油粉，各种定制化油脂粉末) Functional Oil Products
+L129: 鳕鱼胶原蛋白 Collagen
+L130: 圆苞车前子壳粉 Psyllium
+L131: 超级植物(圆苞车前子壳粉,白芸豆提取物,绿咖啡提取物,玛咖粉,奇亚籽)) Super Plants
+L132: 【3†Image】  | 北京市朝外大街甲6号万通中心C座1402室 邮编:100020 Copyright® 中国食品添加剂和配料协会  | TEL：010-59795833 FAX:010-59071335，59071336
+L133: 【46†京ICP备05043382号-1†beian.miit.gov.cn】
+

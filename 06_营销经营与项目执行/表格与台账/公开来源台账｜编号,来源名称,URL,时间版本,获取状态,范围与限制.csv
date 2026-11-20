@@ -1,0 +1,19 @@
+﻿编号,来源名称,URL,时间版本,获取状态,范围与限制
+W01,直播电商监督管理办法（117号）,https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2026/art_ce66ea61fcec4583b5dbd677f470088b.html,2025-12-18公布；2026-02-01施行,官方正文已读,直播经营角色和责任；不替代实际合同及平台准入
+W02,食品直播主体责任规定（120号）,https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2026/art_2ac47420b5064685b0e4a6b558af28df.html,2025-12-28公布；2026-03-20施行,官方正文已读,选品、逐场审核、食品信息、培训及机构责任
+W03,网络食品销售主体责任规定（124号）,https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2026/art_9adba18c25a84f24a6334c4c20b61e2f.html,2026-01-27公布；2026-05-20施行,官方正文已读,网售食品责任，不据此认定本项目已合格
+W04,安利多种植物蛋白粉产品页,https://www.amway.com.cn/Content/newsProduct/newsNutrilite/newsProteinPowder/Nutrilite_Variety_Plant_Protein_Powder/news?channelId=100000394&contentId=1370416645192355841&emblem=false,页示2026-01-19,Bright Data取得页面；产品主图未完整识别标签,只作产品线索，不计算蛋白成本
+W05,安利中国商品价格表,https://amway-pd-oss.amway.com.cn/info/content/03/product%20price.htm,本轮访问2026-10-27；未见明确价格有效期,Bright Data取得正文,页面展示400g植物蛋白粉310元；非成交价
+W06,安利1+N营养长客会常见问题,https://www.amway.com.cn/Content/newsProduct/newsChangkeClub/1PlusN_Nutrition_Changkehui_FAQ/news?contentId=1772446470439878658,页示2025-01-24,Bright Data取得正文,服务连续性与退出机制的设计参考，非留存效果证明
+W07,蒙特威乳清产品公开页,https://www.mengteweisw.com/prod_view.aspx?id=232&nid=3&typeid=67,2026-10-27重访,Bright Data空响应；回退访问超时,沿用D0215历史线索；当前状态未复核
+W08,康宝莱中国体重管理产品列表,https://www.herbalife.cn/channel/index/120,2026-10-27访问；价格有效期未明确,官方列表已读,香草／巧克力蛋白混合饮料展示363元；规格未全，不比较每克成本
+W09,Myprotein英国Impact Whey页面,https://www.myprotein.com/p/sports-nutrition/impact-whey-protein-powder/10530943/,2026-10-27访问,官方页面已读,网页展示每30g至多23g蛋白，口味有差异；不替换中国SKU数据
+W10,NZMP乳清浓缩蛋白应用目录,https://www.nzmp.com/global/en/ingredients/proteins/whey-protein-concentrates.html,2026-10-27访问,官方应用目录已读,不同牌号对应冲饮、棒、饮料等用途；不等同蒙特威牌号
+W11,市场监管总局直销监管问答,https://zxjg.samr.gov.cn/samrmrkout/front/request,2026-10-27访问,官方问答已读,直销许可与产品范围，合作不转移资格
+W12,禁止传销条例,https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_487d326bb883484e81da9311580cd7a8.html,2026-10-27访问；2005年公布施行,官方正文已读，重点第7条,按计酬和交易实质核验，不按层级数保证安全
+W13,抖音学习中心规则线索112620,https://school.jinritemai.com/doudian/web/articlev0/112620,2026-10-27访问；本轮无法确认生效日期,正文为空,历史索引指向推广费／服务费结算规则；需后台导出全文
+W14,小红书规则中心119964,https://school.xiaohongshu.com/rule/detail/26/119964,2026-10-27访问；本轮日期待核,无法访问；外部转载不作为规则依据,行业资质规则线索，需要官方全文和适用类目
+W15,小红书商品发布规范3230,https://school.xiaohongshu.com/rule/detail/17/3230,2026-10-27访问；发布生效日期待核,官方检索片段可见，正文超时,仅待核线索，不据片段作准入结论
+W16,微信小店入驻规则入口,https://store.weixin.qq.com/chengzhang/webdoc/wiki/2063/9c63c672daee8eca/growth_center_rule_for_store?bpath=%252Frule%252Fshop,2026-10-27访问；日期待核,官方入口无法打开,从公开帮助页链接定位；需店铺管理员导出
+W17,微信小店类目规则入口,https://store.weixin.qq.com/chengzhang/rule/shop/3/12?f_rule_status=rule_status_1,2026-10-27访问；日期待核,官方入口无法打开,无法确认蛋白粉具体类目、费率和资质条件
+W18,国家卫生健康委食品安全标准目录,https://www.nhc.gov.cn/sps/c100087/202601/b8bc7bf0fd6243c1914d8c0708d9929a/files/食品安全国家标准目录（截至2025年9月共1725项）.pdf,目录截至2025-09；网页路径2026-01；旧GB7718和GB28050于2027-03-16被替代,官方PDF已读，第1页及第31页；省级解读页正文访问失败,版本过渡提示；具体产品仍需核适用标准全文

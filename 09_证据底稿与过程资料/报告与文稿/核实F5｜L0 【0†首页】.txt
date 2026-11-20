@@ -1,0 +1,425 @@
+浙江衡美健康科技股份有限公司-健康食品服务商 (https://www.hengmei-cn.com/)
+citeturn74view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://www.hengmei-cn.com/","lineno":null}); Total lines: 422
+L0:   * 【0†首页】
+L1: 
+L2:   * 【1†关于衡美】
+L3: 
+L4: 关于衡美
+L5: 
+L6:       * 【1†企业简介】
+L7: 
+L8:       * 【2†里程碑】
+L9: 
+L10:       * 【3†荣誉资质】
+L11: 
+L12:       * 【4†企业动态】
+L13: 
+L14:   * 【5†科学智造】
+L15: 
+L16: 科学智造
+L17: 
+L18:       * 【5†产品体系】
+L19: 
+L20:       * 【6†研发中心】
+L21: 
+L22:       * 【7†智造工厂】
+L23: 
+L24:       * 【5†体重管理】
+L25: 
+L26:       * 【8†运动营养】
+L27: 
+L28:       * 【9†美丽营养】
+L29: 
+L30:       * 【10†儿童营养】
+L31: 
+L32:       * 【11†银发营养】
+L33: 
+L34:       * 【12†其他营养】
+L35: 
+L36:       * 【13†研发实力】
+L37: 
+L38:       * 【14†实验室】
+L39: 
+L40:       * 【15†智囊团】
+L41: 
+L42:       * 【16†专利认证】
+L43: 
+L44:       * 【17†质量追溯系统】
+L45: 
+L46:       * 【18†智能产线】
+L47: 
+L48:   * 【19†赋能服务】
+L49: 
+L50: 赋能服务
+L51: 
+L52:       * 【20†定制化产品服务】
+L53: 
+L54:       * 【19†赋能企业快速增长】
+L55: 
+L56:   * 衡美健康专题
+L57: 
+L58:   * 【21†联系我们】
+L59: 【22†语言切换†en.hengmei-cn.com】
+L60: 
+L61: [Input: 请输入关键词]
+L62: 
+L63: 搜索
+L64: 
+L65: [Input]
+L66: 
+L67: [Input]
+L68: 
+L69: 最新技术
+L70: 
+L71: 深耕研发迭代打磨核心技术，依托技术优势助力合作伙伴
+L72: 
+L73: HiCollTech™
+L74: 
+L75: 高含量*胶原蛋白肽饮开发技术
+L76: 
+L77: 【23†Image: HiCollTech™†omo-oss-image.thefastimg.com】
+L78: ### HiCollTech™
+L79: 
+L80: ### 高含量*胶原蛋白肽饮开发技术
+L81: 
+L82: 采用了4个核心专利，突破了高含量胶原蛋白肽饮品质不稳定、腥味重的行业难题 代表产品：雪玑钥®胶原三肽桂花饮 *本品通过使用技术产生的胶原蛋白肽的含量高于其他同品类产品的含量
+L83: 
+L84: 【24†了解详情 +】
+L85: 
+L86: Giant whale-tech®
+L87: 
+L88: 定向溶解技术
+L89: 
+L90: 【25†Image: Giant whale-tech®†omo-oss-image.thefastimg.com】
+L91: 
+L92: ### Giant whale-tech®
+L93: 
+L94: ### 定向溶解技术
+L95: 
+L96: 胃部释放海量活性酶，将胃从「临时储存窖」重塑为「空间前哨站」 代表产品：焕醺®拟微球藻肽海参肽朝鲜蓟压片糖果
+L97: 
+L98: 【26†了解详情 +】
+L99: 
+L100: TinyDrops®
+L101: 
+L102: 极渺®超微乳化技术
+L103: 
+L104: 【27†Image: TinyDrops®†omo-oss-image.thefastimg.com】
+L105: 
+L106: ### TinyDrops®
+L107: ### 极渺®超微乳化技术
+L108: 
+L109: 以超微气流粉碎+超微乳化双核心工艺，打造出更适口的新一代液体钙。 代表产品：钙锌维生素D液体饮
+L110: 
+L111: 【28†了解详情 +】
+L112: 
+L113: [Input] [Input] [Input] [Input]
+L114: 
+L115: # 产品中心
+L116: 
+L117: Products center
+L118: 
+L119: 产品体系
+L120: 
+L121: 四大健康板块，企业增长蓝海产品线覆盖不同人群，呵护中国亿万家庭健康
+L122: 
+L123: [Input]
+L124: 
+L125: ### 【5†体重管理】
+L126: 
+L127: Weight management
+L128: 
+L129: 为满足特定人群的体重维持或降低需求，基于特定营养成分而专门加工的营养功能食品
+L130: 
+L131: 
+L132: 
+L133: ### 【8†运动营养】
+L134: 
+L135: Sport Nutrition
+L136: 
+L137: 为满足运动人群的生理代谢状态、运动能力及对某些营养成分的特殊需求而专门加工的营养功能食品
+L138: 
+L139: 
+L140: 
+L141: ### 【9†美丽营养】
+L142: 
+L143: Beauty Nutrition
+L144: 
+L145: 围绕特定人群追求外表美丽、助力皮肤管理的需求，基于特定营养成分而专门加工的，通过口服方式摄入的营养功能食品
+L146: ### 【10†儿童营养】
+L147: 
+L148: Child Nutrition
+L149: 
+L150: 围绕儿童人群的营养需求的需求，基于特定营养成分而专门加工的，通过口服方式摄入的营养功能食品。
+L151: 
+L152: 
+L153: 
+L154: ### 【11†银发营养】
+L155: 
+L156: Senior Nutrition
+L157: 
+L158: 银发人群的健康需求，基于特定营养成分而专门加工的，通过口服方式摄入的营养功能食品。
+L159: ### 【12†其他营养】
+L160: 
+L161: Other Nutrients
+L162: 
+L163: 包含健康零食、肠道健康、身体营养、基础营养系列产品
+L164: 
+L165: 
+L166: 
+L167: [Input] [Input] [Input] [Input]
+L168: 
+L169: [Input]
+L170: 
+L171: 以健康理念
+L172: 
+L173: 定义未来食品
+L174: 
+L175: Defining Future Food with Health Concepts.
+L176: 
+L177: 【29†Image: 浙江衡美健康科技股份有限公司†omo-oss-image.thefastimg.com】
+L178: 
+L179: 【30†Image: 浙江衡美健康科技股份有限公司†omo-oss-image.thefastimg.com】
+L180: 
+L181: ABOUT HENGMEI
+L182: 
+L183: 浙江衡美健康科技股份有限公司
+L184: 
+L185: 衡美成立于2012年，是一家专业从事营养功能食品研发、生产和销售的高新技术企业，致力于为品牌商客户提供综合性研发生产服务。
+L186: 集团始终践行“以健康理念定义未来食品”的发展使命，以解决碳水摄入比重失衡、居民膳食结构不合理的社会问题为初心，基于营养学原理和消费者需求，通过对蛋白质、脂类、膳食纤维及其他膳食营养素等原料的科学探究，以蛋白质的深度加工和创新应用为基础，形成了独具特色的健康食品产业化系列产品布局。
+L187: 
+L188: 积累了5,000+款个性化产品配方，覆盖体重管理、运动营养、美丽营养、儿童营养、银发营养等主流健康食品市场，并拓展至健康零食、肠道健康、身体营养、基础营养等领域。产品形态丰富，包括粉剂、液体、棒类、糖果、烘焙等，以满足客户多样化的需求。
+L189: 
+L190: 【1†了解详情 +】
+L191: 
+L192: [Input]
+L193: 
+L194: 15 年
+L195: 
+L196: 大健康经验
+L197: 
+L198: 近
+L199: 
+L200: 135 项
+L201: 
+L202: 研发专利
+L203: 
+L204: 5000 +
+L205: 
+L206: 基础配方
+L207: 
+L208: 5000 +
+L209: 
+L210: 合作商
+L211: 
+L212: [Input] [Input] [Input] [Input]
+L213: 
+L214: [Input]
+L215: 
+L216: 赋能优势
+L217: 
+L218: 致力于为品牌商客户提供综合性研发生产服务
+L219: 
+L220: 【31†Image: 赋能优势†omo-oss-image.thefastimg.com】
+L221: 
+L222: 体重管理营
+L223: 
+L224: Weight Management Camp
+L225: 【32†Image: 赋能优势†omo-oss-image.thefastimg.com】
+L226: 
+L227: 工厂溯源
+L228: 
+L229: Factory Traceability
+L230: 
+L231: 【33†Image: 赋能优势†omo-oss-image.thefastimg.com】
+L232: 
+L233: 国内外奖项赛事
+L234: 
+L235: Domestic And International Award Competitions
+L236: 
+L237: [Input] [Input] [Input] [Input]
+L238: 
+L239: 【34†Image: 赋能优势†omo-oss-image.thefastimg.com】
+L240: 
+L241: 专利联合撰写
+L242: 
+L243: 专利/商标授权
+L244: 
+L245: Joint patent writing
+L246: 
+L247: 【35†Image: 赋能优势†omo-oss-image.thefastimg.com】
+L248: 
+L249: 国内外专家
+L250: 
+L251: 国家级营养师背书
+L252: 
+L253: Endorsement by National Nutritionist
+L254: 
+L255: 【36†Image: 赋能优势†omo-oss-image.thefastimg.com】
+L256: 
+L257: 产品功效验证
+L258: 
+L259: Product Efficacy Verification
+L260: 【37†Image: 赋能优势†omo-oss-image.thefastimg.com】
+L261: 
+L262: [Input] [Input] [Input] [Input]
+L263: 
+L264: [Input]
+L265: 
+L266: 一站式管家服务
+L267: 
+L268: 定制化产品服务赋能客户快增长
+L269: 
+L270: 方案策划
+L271: 
+L272: Project Planning
+L273: 
+L274: 01
+L275: 
+L276: 【38†Image: 方案策划†omo-oss-image.thefastimg.com】
+L277: 
+L278: 配方研发
+L279: 
+L280: Formula Development
+L281: 
+L282: 02
+L283: 
+L284: 【39†Image: 一站式管家服务†omo-oss-image.thefastimg.com】
+L285: 
+L286: 市场测试
+L287: 
+L288: Market Testing
+L289: 
+L290: 03
+L291: 
+L292: 【40†Image: 市场测试†omo-oss-image.thefastimg.com】
+L293: 
+L294: 生产加工
+L295: 
+L296: Production Processing
+L297: 
+L298: 04
+L299: 
+L300: 【41†Image: 生产加工†omo-oss-image.thefastimg.com】
+L301: 
+L302: 技术服务
+L303: 
+L304: Technical Service
+L305: 
+L306: 05
+L307: 
+L308: 【42†Image: 技术服务†omo-oss-image.thefastimg.com】
+L309: 
+L310: 品牌赋能
+L311: Brand Empowerment
+L312: 
+L313: 06
+L314: 
+L315: 【43†Image: 品牌赋能†omo-oss-image.thefastimg.com】
+L316: 
+L317: 物流服务
+L318: 
+L319: Logistics Services
+L320: 
+L321: 07
+L322: 
+L323: 【44†Image: 物流服务†omo-oss-image.thefastimg.com】
+L324: 
+L325: 产品迭代
+L326: 
+L327: Product Iteration
+L328: 
+L329: 08
+L330: 
+L331: 【45†Image: 产品迭代†omo-oss-image.thefastimg.com】
+L332: 
+L333: [Input] [Input] [Input] [Input]
+L334: 
+L335: [Input]
+L336: 
+L337:   * 【0†首页】
+L338: 
+L339:   * 【1†关于衡美】
+L340: 
+L341:     * 【1†企业简介】
+L342: 
+L343:     * 【2†里程碑】
+L344: 
+L345:     * 【3†荣誉资质】
+L346: 
+L347:     * 【4†企业动态】
+L348: 
+L349:   * 【5†科学智造】
+L350: 
+L351:     * 【5†产品体系】
+L352: 
+L353:       * 【5†体重管理】
+L354: 
+L355:       * 【8†运动营养】
+L356: 
+L357:       * 【9†美丽营养】
+L358: 
+L359:       * 【10†儿童营养】
+L360: 
+L361:       * 【11†银发营养】
+L362: 
+L363:       * 【12†其他营养】
+L364: 
+L365:     * 【6†研发中心】
+L366:       * 【13†研发实力】
+L367: 
+L368:       * 【14†实验室】
+L369: 
+L370:       * 【15†智囊团】
+L371: 
+L372:       * 【16†专利认证】
+L373: 
+L374:     * 【7†智造工厂】
+L375: 
+L376:       * 【17†质量追溯系统】
+L377: 
+L378:       * 【18†智能产线】
+L379: 
+L380:   * 【19†赋能服务】
+L381: 
+L382:     * 【20†定制化产品服务】
+L383: 
+L384:     * 【19†赋能企业快速增长】
+L385: 
+L386:   * 衡美健康专题
+L387: 
+L388:   * 【21†联系我们】
+L389: 
+L390: 联系信息
+L391: 
+L392: 0571-88766159
+L393: 
+L394: 邮箱：hengmei@hengmei-cn.com
+L395: 
+L396: 地址：浙江省杭州市余杭区良渚街道大陆工业园区
+L397: 
+L398: 【46†Image: 二维码】
+L399: 
+L400: 扫一扫 关注公众号
+L401: 
+L402: * * *
+L403: 
+L404: Copyright © 2024 浙江衡美健康科技股份有限公司 版权所有
+L405: 
+L406: [Input]
+L407: 
+L408: 【47†网站建设：中企动力†www.300.cn】  【48†杭州†hangzhou.300.cn】
+L409: 
+L410: [Input]
+L411: 
+L412: 【49†Image: 商务合作†omo-oss-image.thefastimg.com】
+L413: 
+L414: 邮箱：hengmei@hengmei-cn.com
+L415: 电话：0571-88766159
+L416: 
+L417: [Input]
+L418: 
+L419: [Input]
+L420: 
+L421: 浙ICP备12040195号-4
+

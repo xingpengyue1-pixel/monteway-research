@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/Users/qianshi1/.codex/plugins/cache/claude-cowork/anthropic-skills/1.0.0/skills/docx/scripts/office/validate.py", line 22, in <module>
+    from validators import DOCXSchemaValidator, PPTXSchemaValidator, RedliningValidator
+  File "/Users/qianshi1/.codex/plugins/cache/claude-cowork/anthropic-skills/1.0.0/skills/docx/scripts/office/validators/__init__.py", line 5, in <module>
+    from .base import BaseSchemaValidator
+  File "/Users/qianshi1/.codex/plugins/cache/claude-cowork/anthropic-skills/1.0.0/skills/docx/scripts/office/validators/base.py", line 8, in <module>
+    import defusedxml.minidom
+ModuleNotFoundError: No module named 'defusedxml'

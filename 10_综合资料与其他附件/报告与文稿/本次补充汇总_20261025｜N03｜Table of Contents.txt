@@ -1,0 +1,1873 @@
+Table of Contents
+—
+Executive summary                                                                          6
+   Fermentation-enabled proteins year at-a-glance                                          6
+
+Section 1: Introduction                                                                    8
+   The definition and role of fermentation in the context of alternative proteins          9
+
+Section 2: Commercial landscape                                                            12
+   Overview                                                                                12
+   A note on Covid-19                                                                      12
+   Figure 1: A conceptual landscape of fermentation-derived and fermentation-enabled
+   products                                                                                13
+   Figure 2: Mind map of fermentation in the alternative protein industry                  14
+   Table 1: Types of companies included in report scope                                    14
+   Fermentation for alternative protein end products                                       15
+       Figure 3: Number of companies by type of fermentation                               15
+   Table 2: Companies focused on fermentation for animal-free meat, eggs, and dairy (ordered
+   by year founded)                                                                        16
+   Figure 4: Number of fermentation-enabled alternative protein companies (2013–2020) 20
+   Fermentation initiatives for animal-free meat, eggs, and dairy                          21
+   Figure 5: Companies with fermentation initiatives for animal-free meat, eggs, and dairy 21
+   Figure 6. Geographic distribution of fermentation-enabled alternative protein companies,
+   by headquarters                                                                         22
+
+Section 3: Products                                                                        24
+   Consumer product categories: Fermentation allows for a huge diversity of products       24
+       Ground meat                                                                         24
+       Whole-cut meats                                                                     25
+       Eggs and egg replacements                                                           25
+       Dairy                                                                               25
+   Box 1: Fermentation-enabled milk proteins come to market                                25
+       Gelatin                                                                             26
+       Seafood                                                                             27
+       Fats and oils                                                                       27
+       Pet food                                                                            27
+   The role of incumbents in enzyme solutions and scaling                                  28
+   Emerging B2B companies as suppliers and service providers for the alternative protein
+   industry                                                                                29
+
+
+
+
+State of the Industry Report | Fermentation                                          2
+Section 4: Investments                                                                   31
+   Overview                                                                              31
+   Figure 7: 2020 investment overview                                                    32
+   Figure 8: Annual alternative protein investment backdrop (2010-2020)                  33
+   Figure 9: Annual investment in fermentation companies (2013-2020)                     33
+   Box 2: Data collection methodology                                                    34
+   Figure 10: Deal type summary statistics (2013–2020)                                   35
+   Figure 11: 2020 key funding rounds                                                    35
+   Box 3: A case study in liquidity events                                               36
+   Table 3: Most active investors in 2020                                                37
+   Figure 12: Funding models by deal count                                               38
+
+Section 5: Science and technology                                                        40
+   Key areas for science and technology development                                      40
+       Figure 13: A visual overview of the technology value chain for fermentation       41
+   Box 4: Prospects for scaling and cost reduction                                       42
+   Box 5: From the tank to the field: Plants as an expression platform                   44
+   GFI’s research grant program                                                          45
+       Fermenting oat proteins                                                           45
+       Fermenting flavor bases                                                           45
+
+Section 6: Government and regulation                                                     47
+   Regulatory updates                                                                    47
+   Box 6: Trade association facilitating regulation negotiation in Brazil                47
+   Labeling and nomenclature                                                             48
+   Government support                                                                    50
+
+Section 7: Conclusion and forecast                                                       53
+   Forecast                                                                              54
+       Broader commercialization                                                         54
+       Hybrid products                                                                   54
+   Figure 14: A spectrum of hybrid fermentation-enabled products                         54
+       Scaling and expansion                                                             55
+       Geographical diversification                                                      55
+   Expert predictions                                                                    55
+
+Acknowledgements                                                                         57
+
+
+
+
+State of the Industry Report | Fermentation                                          3
+       The Good Food Institute is a 501(c)3 nonprofit organization developing the
+       roadmap for a sustainable, secure, and just protein supply. We identify the most
+       effective solutions, mobilize resources and talent, and empower partners across
+       the food system to make alternative proteins accessible, affordable, and delicious.
+
+       This report, as well as all of GFI’s research, data, and insights, is made possible by
+       gifts and grants from our global family of donors.
+
+
+
+
+State of the Industry Report | Fermentation                                                     4
+State of the Industry Report | Fermentation   5
+Executive summary
+—
+GFI is pleased to offer this report as a snapshot of major 2020 developments in fermentation
+as an enabling technology for the alternative protein industry. Fermentation will be a key
+component in the shift toward alternative proteins, and this report provides an overview of the
+companies, technologies, and investments driving this sector of the industry.
+
+Fermentation-enabled proteins year at a glance
+
+                     Commercial landscape. The commercial landscape expanded
+                     substantially in 2020:
+                        ● Thirteen startups dedicated to the use of fermentation for
+                           alternative proteins launched, along with new suppliers focused on
+                           fermentation-enabled alternative protein ingredients.
+                        ● Activity in precision fermentation increased, with nine of the 13 new
+                           companies focused on precision fermentation, three on biomass (an
+                           area with significant activity in 2019), and one on traditional
+                           fermentation.
+                        ● Fifty-one known companies are now dedicated to
+                           fermentation-enabled alternative proteins, an increase of 16
+                           percent from 2019, and more than 30 others have a business line in
+                           alternative protein fermentation.
+
+                     Products. 2020 saw the introduction of the first dairy product made
+                     through precision fermentation. Perfect Day’s commercial ice cream
+                     launches, including CPG brand Brave Robot, represent the first time
+                     consumers have been able to buy precision-fermentation-enabled
+                     animal-free dairy made with real milk proteins.
+
+                     Investments. Investment in fermentation technology skyrocketed in 2020.
+                     Fermentation companies raised $587 million, a greater than twofold
+                     increase from 2019 that represents 57 percent of all-time sector funding.
+
+                     Science and technology. Alternative protein companies launched new R&D
+                     centers and production facilities, and GFI’s research grant program funded
+                     several studies on fermented oat proteins and fermented flavor bases for
+                     alternative proteins.
+
+                     Government and regulation. Governments around the world recognized
+                     the potential of fermentation technologies in the development of
+                     sustainable protein and rewarded multiple companies with grant funding in
+                     2020. Perfect Day announced a collaboration with Singapore’s Agency of
+                     Science, Technology and Research (A*STAR) to build a research and
+                     development center.
+
+
+
+
+State of the Industry Report | Fermentation                                                6
+State of the Industry Report | Fermentation   7
+Section 1: Introduction
+—
+In 2020, fermentation joined plant-based and cultivated proteins as the third technological
+pillar of the alternative protein revolution. Although fermentation has been used to make food
+and beverages for millennia—everything from beer to kimchi—2020 was a major inflection
+point in its range of applications and possibilities for use in the agrifood industry.
+
+Combining the indigenous wisdom of traditional food fermentation, the lessons of scale
+learned from biofuels, the precision pioneered by biopharmaceuticals, and the breakout
+success of the plant-based meat industry, fermentation has emerged as a powerful
+technological platform for taking alternative protein products to the next level.
+
+More than 80 percent of the companies devoted to fermentation-enabled alternative proteins
+fermentation applications have formed in just the past five years. But the industry’s nascency
+belies powerful potential, which has prompted many entrepreneurs, investors, scientists,
+governments, and industry media outlets to take notice. In November 2020, the World
+Economic Forum flagged fermentation as a key global innovation area:
+        Fermentation presents an opportunity to fundamentally change the
+        way the world eats and improve global human and environmental
+        health and the economy.
+
+
+In October 2020, GFI held the first international conference focused exclusively on the role of
+fermentation in alternative proteins. The GFI 2020 Symposium on Fermentation attracted
+more than 3,000 registrants across 50 countries. Attendees included investors, academics,
+students, startup CEOs, celebrity chefs, and leaders from the world’s largest meat, food, and
+beverage companies. Recordings from the symposium sessions are available on GFI’s YouTube
+channel. In September 2020, GFI Consultancy, GFI’s strategic partner in mainland China, held
+the first Chinese conference on fermentation and cultivated meat. The invitation-only event
+drew 80 scientists, investors, food companies, and policymakers to discuss the fermentation
+sector’s role in alternative proteins and the Chinese food industry.
+
+In 2020, fermentation-enabled alternative proteins emerged as a cohesive industry,
+comprising companies with a shared mission, common language, and record-breaking amount
+of venture capital investment. This report gives the rundown of major happenings in the
+fermentation-enabled alternative protein industry in 2020.
+
+
+
+
+State of the Industry Report | Fermentation                                              8
+                        “Microbial fermentation has been used for years in the food industry
+                        to produce ingredients such as enzymes and in the biopharma
+                        industry to produce vaccines and drugs. This same technology is
+                        now being applied to the alternative protein industry to enable a new
+                        generation of ingredients and products with enhanced sensory and
+                        functional attributes. I believe fermentation will be central to the
+                        future of alternative proteins, and a lot of the industry growth over
+                        the next 10 years will be the result of innovations in this segment.
+                        Industry leaders appear to believe so too, with companies like AB
+                        InBev, DuPont, and Danone making notable investments in the
+                        space. ”
+
+                        —Caroline Bushnell, director of corporate engagement at The
+                        Good Food Institute
+
+
+
+
+The definition and role of fermentation in the context of alternative
+proteins
+
+Fermentation in the alternative protein industry refers to cultivating microbial organisms for
+the purpose of processing a foodstuff or food ingredient; obtaining more of the organism itself
+as a primary source of protein; or deriving specialized ingredients, such as flavorings, enzymes,
+proteins, and fats, for incorporation into plant-based products or cultivated meat.
+
+The alternative protein industry uses fermentation in three primary ways:
+
+    1) Traditional fermentation has been used for thousands of years to produce items such
+       as bread and beer. It uses intact live microorganisms to modulate and process
+       plant-derived ingredients, resulting in products with unique flavor and nutritional
+       profiles and modified texture.
+    2) Biomass fermentation leverages the fast growth and high protein content of many
+       microorganisms to efficiently produce large quantities of protein. This biomass serves
+       as either the predominant ingredient of a food product or one of several primary
+       ingredients in a blend.
+    3) Precision fermentation uses specially designed microbial hosts as “cell factories” for
+       producing specific functional ingredients. These ingredients are powerful enablers of
+       improved sensory characteristics and functional attributes of plant-based products or
+       cultivated meat.
+
+
+
+State of the Industry Report | Fermentation                                              9
+           For more background on fermentation, its definitions, and its applications, check out
+           GFI’s fermentation page.
+
+
+
+
+Harnessing Microbial Hosts as Cell Factories session from the GFI 2020 Symposium on Fermentation. The panelists are (clockwise from top
+left) Monica Watrous (managing editor of Food Business News), Ranjan Patnaik (chief technology officer of Clara Foods), Michael Leonard
+(chief technology officer of Motif FoodWorks), and Tim Geistlinger (chief science officer of Perfect Day).
+
+
+
+
+State of the Industry Report | Fermentation                                                                                  10
+State of the Industry Report | Fermentation   11
+Section 2: Commercial landscape
+—
+Across the supply chain, fermentation as an enabling technology for alternative proteins is
+drawing increased interest. At least 51 companies focus primarily on fermentation for
+alternative protein applications (Table 2). As interest in alternative proteins has grown in the
+past several years, many additional companies, including life science, pharmaceutical,
+nutrition, agricultural, and big food companies, have diversified and created business initiatives
+in the alternative protein industry (Figure 5).
+
+Overview
+2020 saw rapid growth in the commercial landscape of fermentation-enabled alternative
+protein:
+   ● Thirteen dedicated startups launched in the fermentation-enabled alternative protein
+       space, including Chunk, Imagindairy, and Fybraworks Foods. See Table 2 for the full list.
+   ● While 2019 was a breakout year for biomass startups (eight of 14 startups), 2020 saw a
+       surge in precision fermentation activity, with nine of the 13 new companies focused on
+       precision fermentation, three on biomass, and one on traditional fermentation.
+   ● Fifty-one known companies are now dedicated to some of the newest and most
+       promising applications for fermentation—creating proteins, lipids, and functional
+       ingredients for plant-based products and cultivated meat. See Table 2 for the full list.
+   ● More than 30 known companies have a business line in fermentation-enabled
+       alternative protein, including Richcore, Shiru, and Arbiom. See Figure 5 for the full list.
+
+A note on Covid-19
+
+
+                        “2020 was a year of reckoning. Our demand for meat has pushed our
+                        natural environment beyond the limit of what can be safely sustained.
+                        Covid-19 showed us how resilient we can be when faced with adversity,
+                        but it also highlighted the terrible issues affecting our food system—while
+                        many people were going hungry, our paralyzed supply chain dealt with
+                        surplus livestock in unthinkable ways. In people’s minds, meat
+                        alternatives have become a necessity, not just simply an added choice,
+                        and fermentation science is poised to enable the next generation of
+                        alternative proteins to enter the market.”
+                        —Abril Estrada, Wild Earth
+
+
+
+
+State of the Industry Report | Fermentation                                                 12
+The full story of fermentation-enabled meat, eggs, and dairy in 2020 cannot be told without
+accounting for the effects of Covid-19:
+    ● The pandemic, particularly in its early days, affected the ability of scientists to conduct
+        bench research by limiting both lab time and sourcing of important reagents.
+    ● Timelines for scientific milestones were extended.
+    ● Go-to-market strategies were thrown into uncertainty as the food system underwent
+        massive shifts.
+    ● Key-input supply, production-space access, and product distribution experienced
+        interruptions.
+Despite these constraints, companies continued to meaningfully advance both R&D and
+commercialization efforts. The industry’s impressive 2020 funding totals, profiled in the
+forthcoming investments section, signal growth and opportunity. As the full story of Covid-19’s
+impact on the industry continues to unfold, GFI remains confident that modernizing meat
+production with alternative proteins is an important step toward avoiding future pandemics.
+
+While fermentation initiatives are generally divided into products of traditional fermentation,
+biomass, and functional ingredients (produced via precision fermentation), the line between
+biomass and functional ingredients is not always clear. Some biomass products also impart
+special functionality to the end product, and some functional ingredients make up a significant
+portion of an end product’s mass. These proteins, as well as fats and other compounds, are
+best considered along a spectrum. Figure 2, an inexhaustive “mind map” of the fermentation
+sector as it relates to alternative proteins, highlights this landscape of possibilities for
+fermentation-enabled proteins.
+
+Figure 1: A conceptual landscape of fermentation-derived and
+fermentation-enabled products
+
+
+
+
+State of the Industry Report | Fermentation                                              13
+Figure 2: Mind map of fermentation in the alternative protein industry
+
+
+
+
+A visual representation of the landscape of fermentation in alternative proteins. Source: GFI.
+
+
+The following graphics provide an overview of companies working in fermentation-enabled
+alternative protein as either their core function (Table 2) or a broader business initiative (Figure
+5). All company references are purely illustrative, and while intended to be comprehensive,
+these lists are not exhaustive. Rather, they offer a snapshot of the range of companies and
+technology applications for fermentation. Because of fermentation technology’s broad uses,
+Table 1 sets parameters for inclusion in this section and in Section 4 on investments.
+
+
+
+
+State of the Industry Report | Fermentation                                                      14
+Table 1: Types of companies included in report scope
+
+ Included                                         Not included
+
+  ●   Microbes (bacteria, microalgae, protists,    ●   Fermentation to produce food ingredients that are not
+      and single-cell fungi) to produce edible         replacements for meat, eggs, or dairy (such as
+      biomass or functional ingredients for            sweeteners and protein powders).
+      plant-based meat, eggs, and dairy, as        ●   Fermentation to produce food items other than for
+      well as functional ingredients for meat          humans or pets.
+      cultivation (such as growth factors).        ●   Fermentation to produce molecules for other non-food
+  ●   Mycelium to produce edible biomass or            applications (such as biofertilizer, farmed animal feed,
+      functional ingredients for plant-based           aquaculture feed, chemicals, biofuel, cosmetics, and
+      meat, eggs, and dairy.                           biologics).
+  ●   Fermentation to produce pet food (which      ●   Large corporations with R&D that is not publicly
+      is highly relevant to human food                 disclosed, as well as startup companies in “stealth
+      applications).                                   mode.”
+                                                   ●   Nut-based and other fermented cheese and butter (such
+                                                       as Miyoko’s), which are covered in GFI’s state of the
+                                                       industry report on plant-based meat, eggs, and dairy.
+                                                   ●   Tempeh and other traditional fermented foods, such as
+                                                       sourdough or kimchi.
+                                                   ●   Mushrooms (the fruiting bodies of some fungi).
+                                                   ●   Macroalgae (such as kelp, seaweed, dulse, and sea
+                                                       vegetables).
+                                                   ●   Nonprofit organizations and academic research labs.
+
+                                                  Note: Companies with current applications of fermentation
+                                                  technology for alternative proteins and lipids as part of a
+                                                  broader business are included in Figure 5 but not in investment
+                                                  calculations.
+
+
+Fermentation for alternative protein end products
+Of the 51 companies focused primarily on fermentation for alternative protein applications, 21
+are biomass companies, 23 are precision fermentation companies, and seven are traditional
+fermentation companies.
+
+Figure 3: Number of companies by type of fermentation
+
+
+
+
+These 51 companies use diverse production platforms, organisms, and feedstocks to deliver
+protein, fat, and functional elements—such as structure and texture—for a broad set of
+animal-free meat, egg, and dairy products as shown in Table 2.
+
+
+
+State of the Industry Report | Fermentation                                                               15
+    Table 2: Companies focused on fermentation for animal-free meat,
+    eggs, and dairy (alphabetically ordered)
+
+                                                                                        Total
+                                                    Technolog                      disclosed                          Year
+Company            Brief description                           Location                       Founders
+                                                    y category                       funding                        founded
+                                                                                        ($M)
+
+                   Mycoprotein production                                                   Craig Johnson,
+                                                                  Glasgow,
+3F Bio             process for meat alternatives     Biomass                          $9.22 David Ritchie, Jim       2015
+                                                                  Scotland, UK
+                   and protein ingredients                                                  Laird
+
+                                                                                            Camille
+                   “Cultured protein” for                         New York, NY,
+Afineur                                             Traditional                       $0.22 Delebecque,              2014
+                   plant-based foods                              USA
+                                                                                            Sophie Deterre
+
+                                                                  Berkeley, CA,
+Air Protein        Food-grade protein from CO2       Biomass                         $32.11 Lisa Dyson               2019
+                                                                  USA
+
+                   Platform for microalgae-based
+                   plant-based foods and
+                                                                                              Alvyn Severien,
+Algama             ingredients (including egg,       Biomass      Paris, France       $9.59                          2016
+                                                                                              Gaëtan Gohin
+                   seafood, meat, and dairy
+                   replacements)
+
+AquaCultured                                                      Chicago, IL,                Anne Palermo,
+                   Whole-cut seafood analogues       Biomass                           –                             2020
+Foods                                                             USA                         Brittany Chibe
+
+                                                                                            Eben Bayer, Steve
+                                                                                            Lomnes, Russell
+                   Mycelium-based whole-cut                       Green Island,             Hazen,
+Atlast Food Co.                                      Biomass                          $7.00                          2019
+                   meats (starting with bacon)                    NY, USA                   Gavin McIntyre,
+                                                                                            Andy Bass, Alex
+                                                                                            Carlton
+
+                   Combined fermentation and
+                   plant-based technologies to                    Brussels,                   Ilana Taub, Michael
+Bolder Foods                                         Biomass                           –                             2020
+                   create biomimicked dairy                       Belgium                     Minch-Dixon
+                   products
+
+                                                                                            Rich Kelleman,
+                   Microbially produced animal                    Boulder, CO,
+Bond Pet Foods                                      Precision                          $2.0 Pernilla Turner          2015
+                   proteins for pet food                          USA
+                                                                                            Audibert
+
+                   Microalgae cultivation using
+                                                                                             Ido Golan,
+                   internal illumination of                                        Undisclos
+Brevel                                               Biomass      Israel                     Yonatan Golan           2016
+                   cultures by sunlight                                                   ed
+                   transported via optical fibers
+
+                   Protein and fat production for                 San Francisco,
+Change Foods                                        Precision                          $2.1 David Bucca              2019
+                   dairy (starting with cheese)                   CA, USA
+
+                   Whole-cut meat analogues
+Chunk              processed with solid-state       Traditional Tel Aviv, Israel       –      Amos Golan             2020
+                   fermentation
+
+
+
+
+    State of the Industry Report | Fermentation                                                                     16
+                   Fermentation of dairy
+                                                                                             Shannon Nangle,
+                   triglycerides and synthetic                   Boston, MA,            Not
+Circe                                                Precision                               Marika Ziesack,         2020
+                   polymers (spinout of the Wyss                 USA                profiled
+                                                                                             Kevin McDonough
+                   Institute)
+
+
+                   Egg proteins through                          San Francisco,               Arturo Elizondo,
+Clara Foods                                          Precision                       $71.80                          2014
+                   fermentation                                  CA, USA                      David Anchel
+
+
+                   Microbial fermentation to
+                   develop alternatives to dairy                 Lausanne,              Not Tomas Turner,
+Cultivated                                           Precision                                                       2020
+                   products                                      Switzerland        profiled Denis Joly
+
+
+                   Whey proteins for cheese                                                   Julian Ramirez,
+                                                                 Santa Clara,
+Final Foods        produced by yeast in              Precision                         –      Marco Graziano,        2020
+                                                                 CA, USA
+                   open-source bioreactor                                                     Barbara Dunn
+
+Foods Myco         Mycelium-derived meat                                                Not
+                                                     Biomass     Aizawl, India               Henry Saingura          2019
+Mizoram            products                                                         profiled
+
+                   Microbial fermentation to
+                                                                 Berlin,                      Raffael
+Formo              produce milk proteins for dairy   Precision                        $4.43                          2019
+                                                                 Germany                      Wohlgensinger
+                   products
+
+                   Egg replacement ingredient                                               Edgar Suarez
+                                                                 Wageningen,
+Fumi Ingredients through microbial                   Precision                        $0.60 Garcia, Corjan van       2019
+                                                                 Netherlands
+                   fermentation                                                             den Berg
+
+                   Mycelium as an expression
+Fybraworks                                                       Minneapolis,                 Chenfeng Lu, David
+                   platform for animal muscle        Precision                        $0.08                          2020
+Foods                                                            MN, USA                      Liu
+                   proteins for meat alternatives
+
+                   Infant formula using human
+                                                                 Boston, MA,            Not
+Harmony            milk proteins produced via        Precision                               Wendel Afonso           2020
+                                                                 USA                profiled
+                   fermentation
+
+                   Infant formula using human
+                                                                 New York, NY,
+Helaina            milk proteins produced via        Precision                        $4.41 Laura Katz               2020
+                                                                 USA
+                   yeast
+
+                   Development of milk proteins
+                                                                                              Eyal Afergan, Tamir
+Imagindairy Ltd. with AI platform and                Precision   Israel               $2.35                          2020
+                                                                                              Tuller
+                   fermentation
+
+                                                                                              Horacio Acerbo,
+                                                                                              Martín Blasco,
+                   Decentralized production of                   Buenos Aires,
+Kernel Mycofood                                      Biomass                           –      Lucas Gago,            2019
+                   mycoprotein                                   Argentina
+                                                                                              Sebastián Taito,
+                                                                                              Miguel Neumann
+
+                                                                                             Daria Feldman,
+                   Mycelium-derived meat                                           Undisclos
+Kinoko-Tech                                          Biomass     Rehovot, Israel             Hadar Shohat,           2019ff
+                   products                                                               ed
+                                                                                             Jasmin Ravid
+
+                   Whole-muscle meats made
+Meati (formerly                                                  Boulder, CO,                 Justin Whiteley,
+                   from mycelium, including          Biomass                         $33.00                          2016
+Emergy Foods)                                                    USA                          Tyler Huggins
+                   steak, chicken, and fish
+
+
+
+
+    State of the Industry Report | Fermentation                                                                     17
+                  Novel methods inspired by
+                  traditional fermentation
+The               technologies to produce
+                                                                                               B.Z. Goldberg,
+Mediterranean     plant-based products and         Traditional Tel Aviv, Israel       $0.12                          2019
+                                                                                               Omer Ben Gal
+Food Lab          improve the sensory qualities
+                  of a wide range of plant-based
+                  meat and other foods
+
+More Foods        Meats utilizing yeast proteins    Biomass      Tel Aviv, Israel      –       Leonardo Marcovitz    2019
+
+                  Functional ingredients for                     Boston, MA,
+Motif FoodWorks                                    Precision                        $117.50 Jonathan McIntyre        2018
+                  plant-based foods                              USA
+
+                  Mycelium-based ingredients                     Berlin,
+Mushlabs                                            Biomass                          $11.94 Mazen Rizk               2018
+                  for meat alternatives                          Germany
+
+                  Fungi-based protein for food
+                  applications (Swedish                          Gothenburg,
+Mycorena                                            Biomass                           $1.78 Ramkumar Nair            2017
+                  meatballs) using industrial                    Sweden
+                  side streams
+
+                                                                                            Alan Hahn, Brooks
+                  Fungi-based bitter blocker                   Aurora, CO,                  J. Kelly, James P.
+MycoTechnology                                     Traditional                       $81.67                          2013
+                  ingredient and protein                       USA                          Langan, Peter
+                                                                                            Lubar
+
+                  Meat analogues from
+Mycovation                                          Biomass      Singapore             –                             2020
+                  mycelium
+
+                  Edible protein through
+                                                                                            Thomas Jonas,
+                  cultivation of extremophile                    Chicago, IL,
+Nature’s Fynd                                       Biomass                         $158.00 Matthew Strongin,        2014
+                  organisms through liquid air                   USA
+                                                                                            Mark Kozubal
+                  interface fermentation
+
+                  Casein for cheese production                   San Francisco,                Inja Radman, Matt
+New Culture                                        Precision                          $8.70                          2018
+                  (starting with mozzarella)                     CA, USA                       Gibson
+
+                  Novel active ingredients
+                                                                 Yokneam,                      Boaz Noy,
+NextFerm          (whey-like protein) from         Precision                          $5.00                          2013
+                                                                 Israel                        Tzafra Cohen
+                  non-GMO yeast fermentation
+
+                  Fermentation-derived fats for
+Nourish                                                          Brisbane,                     Ben Leita, James
+                  meat, dairy, and fish            Precision                           –                             2019
+Ingredients                                                      Australia                     Petrie
+                  alternatives
+
+                  Milk proteins using                                                   Not
+novacca                                            Precision     Nivå, Denmark                                       2018
+                  fermentation platform                                             profiled
+
+                  Milk proteins using                            Berkeley, CA,                 Perumal Gandhi,
+Perfect Day                                        Precision                        $361.48                          2014
+                  fermentation platform                          USA                           Ryan Pandya
+
+                                                                                            Aleh
+                  Fermentation of plant-based
+                                                            Palo Alto, CA,                  Manchuliantsau,
+PLANETARIANS      meats from sunflower cakes to Traditional                           $0.90                          2017
+                                                            USA                             Anastasia
+                  improve functionality
+                                                                                            Tkacheva
+
+                  Meat analogues made from                       San Francisco,                Joshua Nixon,
+Prime Roots                                        Traditional                       $18.54                          2017
+                  mycoprotein                                    CA, USA                       Kimberlie Le
+
+
+
+
+   State of the Industry Report | Fermentation                                                                      18
+                    Development of synbio tools                                                 Michalyn Andrews,
+                    for use in creating animal                   San Francisco,                 Zev Gartner, John
+Provenance Bio                                       Precision                      Undisclosed                      2020
+                    proteins (working on collagen                CA, USA                        Dueber, Christian
+                    for cultivated meat)                                                        Ewton
+
+                    Mycoprotein production and
+Pura                fermentation to enhance          Biomass     Inarzo, Italy           –     Stefano Babbini       2019
+                    plant-based foods
+
+                    Pioneering mycoprotein meat                  Stokesley,
+Quorn                                                Biomass                             –     Lord Rank             1985
+                    alternatives                                 England, UK
+
+                    Fermentation-derived dairy                                                 Aviv Wolff, Ori
+Remilk                                               Precision   Tel Aviv, Israel     $11.32                         2019
+                    molecules                                                                  Cohavi
+
+                    Electrolysis-enabled novel
+                                                                                             Pasi Vainikka,
+                    protein under Solein brand for               Helsinki,
+Solar Foods                                          Biomass                          $26.10 Juha-Pekka              2017
+                    food ingredients, plant-based                Finland
+                                                                                             Pitkänen
+                    meat, and cultivated meat
+
+                    Microalgae R&D to create                                                 Eugene Wang, Kirin
+Sophie’s
+                    proteins for plant-based meat    Biomass     Singapore             $1.17 Tsuei, Barnabas         2013
+BioNutrients
+                    and dairy                                                                Chan
+
+                    Fungi-based protein to replace
+The Protein         meat under the Fermotein                     Breda,
+                                                     Biomass                          $25.87 Wim de Laat             2019
+Brewery             brand and fungi-produced egg                 Netherlands
+                    proteins
+
+                    Production of recombinant
+Those Vegan         casein to make vegan cheese                  Flanders,                     Jaap Korteweg,
+                                                     Precision                           –                           2020
+Cowboys             (from the founders of The                    Belgium                       Niko Koffeman
+                    Vegetarian Butcher)
+
+                    Production of heme and other
+Triton Algae        meat-like compounds from                     San Diego, CA,
+                                                     Precision                         $5.00 Miller Tran             2013
+Innovations         microalgae for plant-based                   USA
+                    meat applications
+
+                                                                 Berkeley, CA,
+Wild Earth          Fermentation-derived pet food Traditional                         $15.55 Ryan Bethencourt        2017
+                                                                 USA
+
+                                                                                               Didiber Toubia,
+                    Meat analogues made from
+Yeap                                                 Biomass     Ashdod, Israel          –     Jonathan Goshen,      2020
+                    yeast
+                                                                                               Dominik Grabinski
+
+
+    Notes: The investment data from this section, sourced from GFI’s PitchBook analysis—the methodology we profile in
+    the investments section—reflects industry developments through December 31, 2020. “Total disclosed funding
+    ($M)” refers to invested capital as defined in “Box 2: Data collection methodology.” A dash under this column
+    heading indicates that the company in the corresponding row is not associated with any disclosed funding rounds in
+    PitchBook. “Undisclosed” means that the company has raised an investment round, but the amount is undisclosed
+    in PitchBook and thus not included in the funding totals. Finally, “Not profiled” means that the company itself is not
+    yet covered by PitchBook, and thus the company’s financing activity is unknown.
+
+
+
+
+    State of the Industry Report | Fermentation                                                                     19
+Figure 4: Number of companies in fermentation-enabled alternative
+proteins (2013–2020)
+
+
+
+
+Source: GFI company database.
+
+
+
+
+                           “[In 2020] large consumer product companies became believers in
+                           the long-term market draw of alternative proteins, driving both a
+                           new wave of startup companies and robust venture funding. This
+                           has converted the industry from a technology-driven push to a
+                           market-induced draw, a more sustainable and financeable model.”
+
+                           —Mark Warner, Warner Advisors
+
+
+
+
+State of the Industry Report | Fermentation                                           20
+Fermentation initiatives for animal-free meat, eggs, and dairy
+
+More than 30 companies have a commercial initiative in fermentation-enabled alternative
+proteins. These companies have diverse focuses within the technology value chain, and some
+companies, such as Superbrewed Food (formerly White Dog Labs) and Tnuva, are working
+across value chain categories. Others are specializing in the following key value chain
+segments, also represented in Figure 5, all of which are important to advancing fermentation
+as an alternative protein technology:
+           ● Target metabolite identification and selection.
+           ● Microbial strain development.
+           ● Feedstock discovery and optimization.
+           ● Bioprocessing design and manufacturing.
+           ● End product and ingredient commercialization.
+
+
+
+Figure 5: Companies with fermentation initiatives for animal-free
+meat, eggs, and dairy
+
+
+
+
+You can learn more about these companies in the GFI company database. Are we missing
+something? Let GFI know by filling out our company database edits form.
+
+
+
+State of the Industry Report | Fermentation                                           21
+The fermentation industry spans the globe. Companies involved in fermentation for alternative
+protein applications operate in at least 16 countries. The largest concentration of companies is
+in the United States with 23, followed by Israel with nine. Of the 13 companies formed in 2020,
+six are in the United States, and the rest are in Belgium, Israel, Switzerland, and Singapore.
+
+Figure 6. Geographic distribution of fermentation-enabled alternative
+protein companies by headquarters
+
+
+
+
+Are we missing something? Did we get something wrong? We’d appreciate your feedback via this
+form.
+
+
+
+
+State of the Industry Report | Fermentation                                             22
+State of the Industry Report | Fermentation   23
+Section 3: Products
+—
+Culinarians, ingredient companies, and food manufacturers increasingly recognize the
+potential of targeted fermentation to endow foods with unique flavor, texture, and nutritional
+attributes. Along with advances in biotechnology, data analysis, and industrial design, this
+potential has established fermentation as an indispensable platform for innovations in both
+ingredients and primary protein production. And 2020 saw the development and launch of
+more alternative protein products created with this technology, including several industry firsts
+detailed in this section.
+
+Consumer product categories: Fermentation allows for a huge diversity
+of products
+In 2020, companies advanced applications of fermentation technology to produce ground
+meat products, whole-cut meats, eggs, milk, cheese, gelatin, seafood, fats, oils, pet food, and
+more. Fermentation is also enhancing plant-based products across all these categories.
+
+Ground meat
+
+    ●   Sweden’s Mycorena soft-launched their line of fungal protein Swedish meatballs in
+        local stores. Other companies, such as 3F Bio, are also developing fungi protein
+        products.
+    ●   Planterra, a plant-based meat subsidiary of the world’s largest meat producer, JBS,
+        introduced their first line of products under the brand OZO, which features pea and rice
+        protein fermented with shiitake mycelia from MycoTechnology. Planterra launched an
+        online store for OZO and gained significant distribution at large grocers, such as
+        Safeway and Kroger.
+    ●   Impossible Foods, which uses precision fermentation to produce their signature
+        leghemoglobin ingredient, rapidly expanded their U.S. retail distribution and added
+        distribution in Singapore and Hong Kong.
+    ●   Better Nature, which makes animal-free meats from tempeh, announced their new
+        Better Burger, made through traditional fermentation, at the GFI 2020 Symposium on
+        Fermentation.
+    ●   Noma debuted a carryout fermentation-enabled quinoa tempeh burger.
+    ●   Fermentation pioneer Quorn rolled out their mycoprotein-powered chicken in U.S.
+        restaurant chain Hooters in one of the first major foodservice launches of animal-free
+        chicken.
+
+Outside tempeh and other fermented foods that are not intended to fully mimic the sensory
+properties of animal products, ground products make up the bulk of fermentation-enabled
+offerings widely available to consumers. However, additional product formats are launching
+with increasing frequency.
+
+
+
+State of the Industry Report | Fermentation                                              24
+Whole-cut meats
+Fermentation presents opportunities for enhanced texture in whole-cut products without the
+extrusion on which plant-based products have traditionally depended. Creating animal-free
+whole cuts and cutlets is a massive market opportunity, as whole-cut products (such as fillets,
+bone-in cuts, and ham) are the highest-margin and most desirable segment of the $1.7
+trillion global meat market. 2020 brought major developments in whole-cut products:
+     ● Colorado-based Meati Foods launched their line of whole-cut steak and chicken
+         products made through submerged fermentation at a Colorado restaurant.
+     ● Atlast Food Co., which produces whole-cut meats, introduced their brand MyBacon.
+         Atlast also offers private labeling and announced in December that they had presold all
+         planned capacity through 2023.
+     ● In March, Prime Roots, which deploys mycoprotein to create a variety of products for
+         direct-to-consumer sale, sold out their soft-launch inventory within hours. By the end
+         of 2020, Prime Roots had launched animal-free bacon, chicken, pork, and beef
+         products in their online store.
+
+Eggs and egg replacements
+A small crop of companies has emerged to crack animal-free eggs by using fermentation to
+produce their functional components in a better way.
+   ● Noblegen introduced “the egg,” a protist-derived, powdered whole-egg replacement, in
+       early 2020.
+   ● Also early in the year, Clara Foods announced the forthcoming launch of their
+       fermentation-enabled egg whites, as well as a partnership with Ingredion to sell the
+       world’s first animal-free pepsin enzyme.
+
+Dairy
+Fermentation also holds disruptive potential for dairy products. 2020 saw several notable
+fermentation-powered dairy developments:
+    ● Tofurky sister company Moocho launched a line of dairy-free cheese shreds powered
+       by fermented cultures and fava bean protein.
+    ● Perfect Day commercially debuted animal-free ice cream using their recombinant whey
+       protein, including a retail launch and introductions at multiple ice cream chains.
+
+
+
+
+State of the Industry Report | Fermentation                                              25
+      Box 1: Fermentation-enabled milk proteins come to market
+
+      Precision fermentation had a significant market test in 2020 with the launch of
+      several products containing Perfect Day’s fermentation-enabled milk proteins.
+      Perfect Day, formed in 2014 by Isha Datar of New Harvest and New Harvest
+      community members Ryan Pandya and Perumal Gandhi, is the first company to
+      bring to market real milk proteins—whey—for food applications using microbes
+      rather than mammary glands. In early 2020, Perfect Day partnered with San
+      Francisco ice cream producer Smitten to sell animal-free ice cream—the first such
+      animal-free dairy ice cream on the market—on Smitten’s local and regional
+      direct-to-consumer platform. Later in the year, Perfect Day inked deals with ice
+      cream chains N!CK’S and Graeter’s to further expand the company’s reach. Perfect
+      Day also spun out The Urgent Company, which started a new animal-free ice cream
+      brand, Brave Robot. Launches like these will enable a new generation of
+      biomimicking animal-free cheese, ice cream, yogurt, and butter. Other companies,
+      including New Culture, Change Foods, Cultivated, and Formo, recently emerged to
+      create dairy proteins and fats that will usher in a wave of plant-based,
+      precision-fermentation-enabled dairy.
+
+
+
+
+      Perfect Day’s animal-free ice cream made in partnership with Smitten. | Image credit: Perfect Day
+
+
+
+
+State of the Industry Report | Fermentation                                                               26
+Gelatin
+Gelatin is partially degraded collagen protein, traditionally derived from animal connective
+tissue as a byproduct of meat rendering. Because of its gelling properties, gelatin is used in
+many food and cosmetic applications. 2020 brought these notable developments:
+    ● Jellatech formed to commercialize fermentation-enabled jellyfish collagen for food and
+        cosmetic applications.
+    ● Geltor closed a $91.3 million Series B funding round after they developed a
+        plant-based, fully biocompatible human elastin for the skincare market.
+
+Seafood
+One of the least developed areas of alternative proteins is plant-based seafood. Quorn’s
+fishless fingers are the only widely available fermentation-enabled seafood product.
+Fermentation, particularly with microalgae, may hold the key to unlocking this category. 2020
+was marked by great promise:
+    ● Odontella, which makes a structured salmon analogue using seaweed and microalgae,
+       announced two contracts with food retailers for at least 500,000 servings.
+    ● Meati posted an Instagram teaser on World Oceans Day: a mycelium-based flaky fish in
+       a basket of fish and chips.
+    ● 3F Bio announced a prototype mycoprotein tuna steak produced via a 3D printer made
+       by Natural Machines.
+    ● Good Catch, which uses microalgal omega-3 oil in their plant-based tuna, expanded
+       distribution in the United States and extended it to Europe.
+
+          See GFI’s white paper An Ocean of Opportunity to learn more about the potential of
+          seafood alternatives.
+
+Fats and oils
+Fats are key contributors to the sensory experience of eating meat, egg, and dairy products. By
+using microbial fermentation, companies can produce a wide array of fats—including fats that
+are critical to the nutrition, sensory characteristics, or functionality of animal products but
+challenging to source from the plant kingdom. The most notable on-market example is
+microalgae cultivation to produce algal omega-3 fatty acids, such as EPA and DHA, which are
+not produced by terrestrial plants. Companies such as Algarithm, DSM, iWi, and Corbion
+produce algal- or fungal-derived omega-3s. The category enjoyed breakthrough investment
+success in 2020:
+
+    ●   C16 Biosciences, which uses microorganisms with altered lipid synthesis pathways to
+        produce desirable fats, announced $20 million in Series A funding from backers
+        including Bill Gates-led Breakthrough Energy Ventures.
+
+
+
+
+State of the Industry Report | Fermentation                                             27
+Pet food
+Pet food is a promising application for fermentation due to fermentation’s ability to create
+proteins that are scarce in plants but desirable for animal-free pet foods. Pet food is not only a
+$30 billion market but the cause of about 25%–30% of the environmental impact of eating
+meat in the United States. Human-food producers can also leverage research and technology
+developed for pet food applications. 2020 saw significant developments in
+fermentation-enabled pet food:
+    ● Wild Earth, a pet food and dog treat company, expanded their products to the Indian
+       market.
+    ● Bond Pet Food, which uses microbes to produce specific animal muscle proteins,
+       introduced their first product: a high-protein dog treat produced with a novel strain of
+       yeast.
+
+
+
+
+                         “2020 saw the blossoming of fermentation as the third pillar of
+                         alternative proteins due to a number of converging factors globally.
+                         The technology and the boundless potential of microbes became
+                         more widely understood and democratized, fermentation
+                         investments hit record heights, multiple startups emerged in various
+                         countries and categories, and alternative proteins continued to
+                         rapidly rise in prominence in the broader market. Many are looking
+                        towards future technologies for improved performance and to help
+                        solve for the limitations of existing products experienced by the
+                        flexitarian consumer.”
+
+                        —David Bucca, Change Foods
+
+
+
+
+The role of incumbents in enzyme solutions and scaling
+Incumbents in the B2B fermentation industry include manufacturers of food processing
+enzymes, flavoring ingredients, vitamins, and live microorganisms for fermented foods such as
+cheese, yogurt, and preserved meat. These companies, which include Cargill, DuPont, AB
+Enzymes, Biocatalysts, Novozymes, Kerry, ADM, DSM, Amano, and Ajinomoto, have deep
+expertise in enzyme development, strain development, and large-scale manufacturing. While
+the alternative protein industry is not a major fraction of their business, many of these
+companies recognize the growing importance of this new application area and are developing
+novel solutions accordingly:
+
+
+
+
+State of the Industry Report | Fermentation                                                28
+    ●   Novozymes expanded their marketing of enzymes for improving flavor and
+        functionality of plant proteins.
+    ●   DSM launched a portfolio of enzyme solutions targeting plant-based dairy product
+        developers.
+
+
+Emerging B2B companies as suppliers and service providers for the
+alternative protein industry
+The majority of B2B companies using fermentation for alternative protein products position
+themselves as ingredient suppliers that empower B2C companies to improve their branded
+products. Scale, cost, and functionality are these companies’ core drivers for differentiation
+and adding value to the alternative protein ecosystem. 2020 saw several developments in the
+B2B supplier and service subsector:
+   ● Producing natural, microbe-derived flavoring solutions and bulk proteins for use in
+      consumer-facing products.
+           ○ MycoTechnology’s pea and rice protein fermented by shiitake mycelia launched
+              in OZO brand plant-based meat by Planterra, a JBS subsidiary.
+           ○ UK retailer Marks & Spencer announced a vegan range that uses 3F Bio’s
+              mycoprotein.
+           ○ Ginkgo Bioworks spinoff Motif FoodWorks invested in expanded
+              manufacturing capacity in advance of commercial-scale production of their
+              first product, which adds meaty flavor to beef alternatives.
+   ● Leveraging biotechnology to produce genuine animal proteins in microbial or mycelial
+      hosts.
+           ○ Geltor completed a Series B funding round in July worth $91.3 million and in
+              November announced a new Ingredients-as-a-Service platform, adding the
+              first biocompatible human elastin, Elastapure, to their product portfolio.
+   ● Providing services and technology development for B2B or B2C fermentation
+      companies.
+           ○ Culture Biosciences piloted a new high-throughput mammalian cell version
+              of their bioreactors-on-demand service with three customers in the summer and
+              fall.
+   ● Providing fungal solutions for cultivated meat structure.
+           ○ Novel Farms formed to add biocompatible domains to fungi to create better
+              scaffolds for structured cultured meat products.
+
+
+
+
+Are we missing something? Did we get something wrong? We’d appreciate your feedback via this
+form.
+
+
+
+
+State of the Industry Report | Fermentation                                           29
+State of the Industry Report | Fermentation   30
+Section 4: Investments
+—
+Overview
+
+Fermentation has rapidly become a robust part of the alternative protein investment
+landscape. In 2020, fermentation companies raised $587 million, a twofold increase from
+2019 that accounted for 19 percent of overall funding in the alternative protein sector and
+represents 57 percent of all-time funding for fermentation companies.
+
+The fermentation segment further matured and diversified in 2020:
+   ● Perfect Day extended their Series C funding round to $300 million.
+   ● MycoTechnology won a $1 million nondilutive prize in Syngenta’s Radicle Protein
+       Challenge.
+   ● In addition to an $80 million Series B round in March, Nature’s Fynd closed a $45
+       million venture debt round in December.
+   ● Air Protein, Meati Foods, Prime Roots, Remilk, Solar Foods, The Protein Brewery, and
+       Mushlabs all raised Series A rounds of $10 million or higher. These seven rounds
+       represent a 75 percent increase in number of Series A rounds from 2019.
+
+While 2020 was a record year for fermentation investment, significant additional investments
+from public and private funders are needed to support R&D innovation, accelerate the
+derisking and commercialization of promising technologies, and scale up production capacity.
+Of particular need are nondilutive investment methods, such as debt financing, grants,
+guarantees, purchase commitments, equipment and facility leasing, and other financing
+vehicles tailored to infrastructure and R&D expansion. Another undersupported area is
+contract capacity, a critical need for fermentation startups looking to scale rapidly.
+
+For more information on fermentation investment white spaces and ideas for solutions, please
+view GFI’s Advancing Solutions webpage.
+
+
+
+
+State of the Industry Report | Fermentation                                             31
+Table 3: 2020 investment overview
+
+  Total invested capital                         Largest investment                          Unique investors
+
+  $587 million                                   $300 million                                80 new
+  (57% of all-time investment,                   (Perfect Day)                               (up 45% from 2019)
+  up 109% from 2019)
+  $1 billion (2013–2020)                                                                     259 total (2013–2020)
+
+  Series A/A1/A2 fundraising                     Series B fundraising                        Series C/C1 fundraising
+  rounds                                         rounds                                      rounds
+
+  7 new                                          1 new                                       1 new
+  19 total (2015–2020)                           3 total (2017–2020)                         3 total (2017–2020)
+
+  Invested capital deals                                                                     Liquidity events
+
+  28 new                                                                                     0 new
+  102 total (2013–2020)                                                                      $1.49 billion total
+                                                                                             (Quorn, 2003–2017)
+
+Source: GFI analysis of PitchBook data.
+Note: Data has not been reviewed by PitchBook analysts. Total invested capital includes deals with undisclosed dates and thus may not
+match the sum of annual invested capital figures in this report.
+See Box 2 for GFI’s data collection methodology and definitions of “invested capital” and “liquidity events.”
+
+
+
+
+State of the Industry Report | Fermentation                                                                                    32
+Figure 7: Annual alternative protein investment backdrop (2010–2020)
+
+
+
+
+Source: GFI analysis of PitchBook data.
+Note: Data has not been reviewed by PitchBook analysts.
+
+
+
+
+Figure 8: Annual investment in fermentation companies (2013–2020)
+
+
+
+
+Source: GFI analysis of PitchBook data.
+Note: Data has not been reviewed by PitchBook analysts.
+
+
+
+
+State of the Industry Report | Fermentation                    33
+       Box 2: Data collection methodology
+
+       GFI conducted an analysis of fermentation companies worldwide using data from
+       PitchBook. Our analysis uses a list we custom built in PitchBook of companies
+       focused primarily on fermentation-enabled meat, egg, or dairy products or
+       providing services to those who produce them. Our analysis excludes the many
+       companies involved in fermentation but not as their core business (Figure 5) and
+       companies using fermentation other than to create or enable alternative meat, egg,
+       and dairy products. PitchBook profiled 44 fermentation companies, of which 34
+       have disclosed deals. Of these 34 companies, 32 have deals with publicly disclosed
+       amounts. Because these aggregate calculations include only companies with deals
+       and deal sizes disclosed to PitchBook, they are conservative estimates. For
+       example, $1 billion total invested capital raised excludes 27 deals (from a total of
+       102) with undisclosed or unavailable amounts. This means at least 26 percent of
+       deals in this industry are not represented.
+
+       For the purposes of this report, invested capital / investment comprises accelerator
+       and incubator funding, angel funding, seed funding, equity and product
+       crowdfunding, early-stage venture capital, late-stage venture capital, private equity
+       growth/expansion, capitalization, corporate venture, joint venture, convertible debt,
+       and general debt completed deals. Liquidity events comprises mergers,
+       acquisitions, reverse mergers, buyouts, leveraged buyouts, and IPOs, while other
+       financing comprises subsequent public share offerings and private investment in
+       public equity. We do not include capital raised through a SPAC IPO until the entity
+       has merged with or acquired a target company. Please note that the figures
+       published in this report may differ from prior figures published by GFI as we
+       continually improve our dataset.
+
+
+
+
+State of the Industry Report | Fermentation                                               34
+Table 4: Deal type summary statistics (2013–2020)
+
+ Deal type                                Median                  Minimum                   Maximum                          Count
+
+ Seed                                         $2M                        $1M                         $7M                           21
+
+ Series A/A1/A2                             $14M                         $3M                       $90M                            19
+
+ Series B                                   $42M                       $40M                        $80M                             3
+
+ Series C/C1                                $23M                         $7M                     $300M                              3
+
+
+
+
+Source: GFI analysis of PitchBook data.
+
+Note: Data has not been reviewed by PitchBook analysts. These figures represent summary statistics of invested capital rounds with
+disclosed deal amounts. Deal count includes rounds with undisclosed amounts. Due to their limited number and size, this table excludes
+angel, corporate, and Series 1 rounds. It also excludes uncategorized rounds.
+
+
+
+
+Figure 9: 2020 key funding rounds
+
+
+
+
+Source: GFI analysis of PitchBook data. Data has not been reviewed by PitchBook analysts.
+
+
+
+
+State of the Industry Report | Fermentation                                                                                   35
+       Box 3: A case study in liquidity events
+
+       The alternative protein fermentation sector is too young for us to expect many
+       liquidity events, such as IPOs or acquisitions that drive the venture capital
+       investment model. However, Quorn, the mycoprotein pioneer founded decades
+       before most other mycoprotein companies, provides a promising case study. Rank
+       Hovis McDougall (RHM), a UK-based food company, began research and the
+       regulatory approval process for their products in the 1960s. But not until 1985 was
+       the brand Quorn (named after a British village) first marketed via a joint venture
+       between RHM and Imperial Chemical Industries (ICI).
+
+       Quorn first sold at Sainsbury’s in the United Kingdom in the form of savory pies.
+       Other parts of Europe followed and finally North America in 2002. As one of the
+       first alternative protein market entrants, Quorn enjoyed market dominance and
+       commercial success. In 1993, Quorn was spun off by ICI, which had acquired all of
+       RHM’s shares, to AstraZeneca. In 2003, Montagu Private Equity bought Quorn for
+       $116 million before selling it two years later to Premier Foods for $315 million. In
+       2011, other private equity investors acquired Quorn before Monde Nissin, a
+       Philippines-based food company, ultimately acquired it for $726 million in 2017.
+       Notably, Quorn has also successfully secured large tranches of debt financing,
+       including a $147 million debt refinancing, a 113 million GBP note, and a 10 million
+       GBP revolving credit line from CitiGroup Global Markets and HSBC Bank in March
+       2019 per PitchBook. We expect other fermentation companies to experience
+       liquidity events within years, not decades.
+
+
+
+
+State of the Industry Report | Fermentation                                               36
+Table 5: Most active investors in 2020
+
+                                                                               Portfolio companies
+                                                                    2020
+                                                                                   (number of
+ Investor               Investor type         Headquarters           deal
+                                                                               investment rounds
+                                                                    count
+                                                                                 participated in)
+CPT Capital            Venture capital        London, United          3     Motif FoodWorks (1)
+                                              Kingdom                       3F Bio (1)
+                                                                            Better Dairy (1)
+                                                                            Clara Foods (1)
+                                                                            Formo (1)
+                                                                            New Culture (1)
+                                                                            Perfect Day (1)
+                                                                            Remilk (1)
+                                                                            Solar Foods (1)
+
+SOSV / IndieBio        Venture capital        Princeton, NJ, USA      3     New Culture (3)
+                                                                            Planetarians (3)
+                                                                            Prime Roots (3)
+                                                                            Clara Foods (2)
+                                                                            Perfect Day (1)
+
+ADM Ventures           Corporate venture      Lugano, Switzerland     2     Nature’s Fynd (2)
+                       capital                                              Air Protein (1)
+                                                                            Perfect Day (1)
+
+Happiness Capital      Corporate venture      Hong Kong               2     Mushlabs (2)
+                       capital                                              Better Dairy (1)
+                                                                            Formo (1)
+
+ProVeg Incubator       Accelerator/incubat Berlin, Germany            2     Remilk (2)
+                       or                                                   Formo (1)
+                                                                            Mushlabs (1)
+
+Temasek Holdings       Sovereign wealth       Singapore               2     Perfect Day (3)
+                       fund                                                 Sophie’s Bionutrients (1)
+
+Social Starts          Venture capital        San Francisco, CA,      2     Meati Foods (2)
+                                              USA                           Mushlabs (1)
+
+Stray Dog Capital      Venture capital        Leawood, KS, USA        2     Atlast Foods (1)
+                                                                            Better Dairy (1)
+                                                                            Wild Earth (1)
+
+Unovis Asset           Venture capital        New York, NY, USA       2     Atlast Foods (1)
+Management                                                                  Meati Foods (1)
+                                                                            The Protein Brewery (1)
+
+Kishore Ganji*         Angel (individual)                             2     Helaina (1)
+                                                                            New Culture (1)
+
+Maya Hari*             Angel (individual)                             2     Change Foods (2)
+
+Michal Klar*           Angel (individual)                             2     Change Foods (2)
+
+
+
+
+State of the Industry Report | Fermentation                                                        37
+Simon Newstead*            Angel (individual)                                           2        Change Foods (2)
+
+Tom Crago*                 Angel (individual)                                           2        Change Foods (2)
+
+
+*Indicates funders that made disclosed investments in fermentation-enabled meat, eggs, and
+dairy for the first time in 2020.
+
+Source: GFI analysis of PitchBook data. Data has not been reviewed by PitchBook analysts. “Most active investors” includes those who
+made two or more investments during the calendar year.
+
+
+
+
+Figure 10: Funding models by deal count
+
+
+
+
+Are we missing something? Did we get something wrong? We’d appreciate your feedback via this
+form.
+
+
+
+
+State of the Industry Report | Fermentation                                                                                   38
+State of the Industry Report | Fermentation   39
+Section 5: Science and technology
+—
+Despite microbial fermentation’s long history in food and industrial biotechnology, tremendous
+potential for innovation remains. The vast biological diversity of microbial species, coupled
+with virtually limitless capabilities in biological synthesis, translates to massive opportunities
+for novel alternative protein solutions to emerge from fermentation-based approaches.
+Opportunities to advance fermentation can be segmented into five key areas spanning the
+value chain: target selection and design, strain development, feedstock optimization,
+bioprocess design, and end-product formulation and manufacturing.
+
+       For a comprehensive view of the state of the science in fermentation-enabled meat,
+       eggs, and dairy—including a deep dive into each component of the value chain—check
+       out GFI’s science of fermentation page.
+
+Key areas for science and technology development
+
+In 2020, GFI launched the Advancing Solutions repository of solutions and innovation
+priorities for alternative proteins, providing analysis on opportunities and challenges in
+fermentation. Our menu of alternative protein insights and opportunities for businesses,
+investors, nonprofits, academic researchers, and governments is based on interviews with
+more than 150 experts throughout the alternative protein value chain, including scientists,
+investors, entrepreneurs, and consultants.
+
+Identified below are the key innovation priorities for fermentation-powered alternative
+proteins:
+   ● Increased titers and yields of target molecules and protein biomass.
+   ● Strain engineering to allow for the use of less expensive feedstocks.
+   ● Safety studies and genetic tools for more microbes to enable more innovation by
+        expanding the selection of host strains.
+   ● Bioreactor innovation to create equipment that is optimized for food-grade
+        fermentation.
+   ● Downstream processing innovation, such as cell harvesting and target molecule
+        purification, which must become less costly and easier to scale, as capacity is a major
+        bottleneck.
+   ● Characterization and analytical tools for inputs, as current methods are
+        resource-intensive and slow.
+   ● Co-product valorization using side streams from traditional crop harvesting and
+        processing fractions and upcycling spent media and other co-products from
+        fermentation processes.
+   ● Feedstock consistency and cost reduction. Shipping costs are currently high unless
+        production is co-located with feedstock sources, which raises concerns about food
+
+
+
+State of the Industry Report | Fermentation                                                40
+          safety and regulation around inputs such as agricultural side streams. Meanwhile
+          alternative feedstocks remain highly inconsistent.
+     ●    Alternative substrates that are less expensive, more sustainable, and widely available in
+          order to reach mass commercialization.
+
+Figure 11: A visual overview of the technology value chain for fermentation
+
+
+
+
+Source: GFI.
+
+
+Below are some of the most needed solutions that emerged during the Advancing Solutions
+surveys:
+   ● Comprehensive microbial screening to identify new protein-production candidate
+       strains.
+   ● Biosynthetic pathway discovery for fermentation-produced molecules.
+   ● Producing animal-like fats through microbial fermentation.
+   ● Fat production and encapsulation within oleaginous yeast.
+   ● Biological and enzymatic processing methods for plant proteins.
+
+2020 also saw significant research and development updates:
+
+     ●    TurtleTree Labs spun out TurtleTree Scientific and partnered with a major filamentous
+          fungi company to produce growth factors. Although announced in 2021, the partnership
+          developed in 2020.
+     ●    The search for suitable microbial strains broadened to include the anaerobic realm,
+          which opens the door to repurposing large-scale ethanol production infrastructure that
+          is not suitable for aerobic fermentation. White Dog Labs (Superbrewed Food) purchased
+          an ethanol plant with plans to convert it for aquaculture feed production.
+     ●    Quorn opened the new Fermentation Development Centre to accelerate their protein
+          research.
+
+
+
+
+State of the Industry Report | Fermentation                                                41
+    ●    3F Bio opened a pilot-scale facility to generate operational data to support their
+         commercial scaleup and advance their fundamental bench-scale R&D work.
+
+            To dig deeper into the most pressing challenges and greatest white spaces in
+            fermentation-enabled alternative proteins, check out GFI’s Advancing Solutions
+            insights:
+             ○ Innovation priorities. Overview of commercial white spaces, research gaps,
+                 technological needs, and investment priorities at each stage of the value chain.
+             ○ Solutions database. Frequently updated database of ideas for new startups,
+                 commercial ventures and products, research projects, ecosystem support, and
+                 investment opportunities.
+
+
+
+
+        Box 4: Prospects for scaling and cost reduction
+
+        Traditional and biomass fermentation processes offer well-established examples of
+        scalability and cost reduction suitable for alternative protein applications. Further
+        innovation to reduce costs is certainly possible for these platforms and will be
+        important for widespread deployment in low- and middle-income countries, but
+        precedent for economic viability and true industrial scale already exists. However,
+        precision fermentation will require additional scaling and cost reduction to
+        manifest its potential in the alternative protein industry. Some applications of
+        precision fermentation in this industry are already profitable, but others pose cost
+        challenges.
+
+        Which price points are achievable for products of precision fermentation, and how
+        quickly? The answer depends on multiple factors, but there is reason to believe
+        that products created via precision fermentation can achieve price parity with
+        comparable conventional animal products through a combination of approaches:
+
+           1) Increasing scale. Economies of scale dictate that costs decrease as scale
+              increases up to an asymptote where the marginal production cost is equal to
+              the cost of the inputs.
+           2) Improving volumetric productivity. Volumetric productivity is the amount of
+              desired product that can be produced in a given volume in a given period,
+              and increasing this will improve capital utilization and lower unit costs.
+
+
+
+
+State of the Industry Report | Fermentation                                                 42
+           3) Prolonging continuous bioprocessing. Because of the power of exponential
+              growth within cell culture platforms, fermentation processes operate most
+              efficiently and productively at their peak volume and density.
+           4) Decreasing inclusion levels in final products. Alternative protein products
+              benefit from highly functional fermentation-enabled ingredients, even at
+              low inclusion levels. Developing ingredients that impart the desired
+              functionality at lower volumes will enable companies to create end products
+              at higher volumes and lower prices.
+           5) Relaxing purification stringency. Many applications of functional proteins in
+              food may not require the same level of purity as active proteins, such as
+              enzymes. Purification composes a substantial fraction of the overall
+              production cost for many recombinant proteins, so relaxing purification
+              requirements will significantly reduce cost.
+
+       See more insights.
+
+
+
+
+                         “Consumers are driving the demand for nonanimal sources of
+                         protein. Food brands will naturally respond to meet consumer needs
+                         but can only do so with a ready supply of high-quality ingredients.
+                         The benefits of both biomass and precision fermentation unlock the
+                         opportunity to make better products and to do so at a scale to
+                         replace the animal using regionally grown, sustainable ingredients.”
+
+                        —Jim Laird, CEO of 3F Bio
+
+
+
+
+State of the Industry Report | Fermentation                                              43
+        Box 5: From the tank to the field: Plants as an expression
+        platform
+
+        While most recombinant protein production uses precision fermentation in
+        microbial hosts, crop plants can also serve as hosts for production of high-value
+        target molecules. Plants engineered to produce ingredients of interest can be
+        grown and harvested inexpensively and at large scale through traditional
+        agricultural systems, which may require less infrastructure and therefore less
+        capital expense than fermentation systems. Upon harvest, downstream purification
+        proceeds much as it would if the host were microbial. Introduction of high-value
+        ingredients into edible plants also opens the door to less-intensive downstream
+        purification if the crop itself can be used as an ingredient with built-in enhanced
+        functionality.
+
+        Target molecules for expression in plants might include heme proteins or growth
+        factors for cultivated meat production, such as those pursued by Core Biogenesis
+        and ORF Genetics. At least 11 publicly announced companies are now working on
+        this approach, including Tiamat Sciences, Alpine Roads, Mozza, ORF, Core
+        Biogenesis, Moolec Science, Greenovation Protein, Fantastic Farms, BioBetter,
+        InVitria, and Genius Foods. This expression platform will continue to shift both cost
+        and production paradigms and unlock further innovation in recombinant proteins.
+
+
+
+
+Ramen with mycelium-based steak from Meati Foods. | Image credit: Meati Foods
+
+
+
+
+State of the Industry Report | Fermentation                                                 44
+GFI’s research grant program
+While GFI’s competitive research grant program has historically focused on plant-based and
+cultivated protein technologies, our 2021 request for proposals includes microbial
+fermentation as a third eligible technological platform. GFI also supports white space
+collaborations and provides small-scale exploratory grants for research in
+fermentation-enabled alternative protein, in addition to aggregating a database of third-party
+research funding opportunities that are relevant to alternative proteins.
+
+Fermenting oat proteins
+
+
+                          Research highlight: Mari-Liis Tammik, research scientist at TFTAK (Center of
+                          Food and Fermentation Technologies) in Estonia, led a project exploring
+                          fermented oat protein for use in plant-based meat. Oat protein has an
+                          excellent amino acid profile and low allergenicity, and this work enables
+                          further research on fermentation of a wide variety of cereal grains to improve
+                          their nutritional profiles and sensory attributes. Specifically, fermented oats
+                          are used in this project as a novel constituent in plant-based meat. The
+                          research began with identifying starter cultures to improve nutritional and
+                          organoleptic properties of oat protein. It then developed oat-based meat for
+                          comparison with conventional meat and other non-oat plant-based meat.
+
+
+Fermenting flavor bases
+
+
+                          Research highlight: BZ Goldberg, CEO and R&D director at The Mediterranean
+                          Food Lab in Israel, is leading a project to explore the potential of traditional
+                          and adapted multiphase fermentation technologies to develop new meat
+                          flavors from plant ingredients. These flavors can be added to plant-based
+                          meat products. The research develops production protocols for elevating and
+                          accentuating beneficial organoleptic factors in flavor-rich ingredients. This
+                          work will enable plant-based ingredients to emulate the flavor profile of
+                          conventional meat. It will help expand the types of plant-based ingredients
+                          that address critical culinary functions of animal-based meat and other animal
+                          proteins. In November, The Mediterranean Food Lab became one of three
+                          winners of the EIT Food Accelerator Network program.
+
+
+
+
+                    Check out our research grants page to explore grant opportunities (at GFI and
+                    elsewhere!) and meet the scientists leading open-access fermentation
+                    research for applications in meat, eggs, and dairy.
+
+
+
+
+State of the Industry Report | Fermentation                                                         45
+State of the Industry Report | Fermentation   46
+Section 6: Government and regulation
+—
+Regulatory updates
+Both microbial fermentation as a processing method and ingredients derived from microbial
+cultures have a long history of use in the food industry—precision fermentation to create the
+rennet used in most animal-based cheese products, for example. Given this history,
+well-established regulatory systems to ensure the safety of innovations in this platform are
+already in place in most jurisdictions. However, each regulatory agency and framework
+presents its own nuances and idiosyncrasies.
+
+In November, the Singapore Food Agency (SFA) updated a year-old guidance document on
+novel-food safety assessments. The guidance provides little new detail as to which standards
+manufacturers must satisfy to obtain approval of their products. As it stands, the SFA strongly
+encourages companies interested in selling alternative protein products in Singapore to
+contact the regulatory body early in the R&D and commercialization planning process.
+According to the SFA, the framework set forth in the guidance document steered the SFA’s
+approval of Impossible’s soy leghemoglobin in August and Triton Algae’s Chlamydomonas
+reinhardtii algae in November 2019.
+
+Multiple companies have already obtained “no questions” letters from the FDA for purified
+fermentation-derived ingredients, meaning the FDA does not object to the companies’ view
+that their ingredients are “generally recognized as safe” (GRAS).
+    ● Nature’s Fynd (formerly Sustainable Bioproducts) filed a GRAS notice with the FDA in
+        January 2020; the FDA’s response is pending.
+    ● In March 2020, Perfect Day received a no questions letter from the FDA in response to
+        their GRAS notice for beta-lactoglobulin, the major protein in whey.
+
+In December 2020, Impossible Foods received approval for their heme from the regulatory
+agency Food Standards Australia New Zealand; the approval became final in February 2021,
+opening up another large market.
+
+
+
+
+       Box 6: Trade association facilitating regulation negotiation in
+       Brazil
+
+       GFI Brazil, along with 29 companies in the alternative protein market (products,
+       ingredients, and investors), launched a trade association in late 2020 to help
+
+
+
+
+State of the Industry Report | Fermentation                                               47
+       facilitate negotiations between the industry and the government. In December
+       2020, the Brazilian Ministry of Agriculture hosted a workshop to discuss a new
+       regulatory framework for alternative proteins, including plant-based and
+       fermentation-enabled proteins. GFI Brazil helped organize the event and supplied
+       presenters. The workshop attracted more than 300 attendees and vast media
+       coverage.
+
+
+
+
+       The Brazilian Ministry of Agriculture hosted a workshop on alternative protein regulatory frameworks in December 2020.
+       Panelists included (clockwise from top left) Hugo Caruso from DIPOV/MAPA (Division of Vegetable Products of the Ministry
+       of Agriculture), Alexandre Novachi from ABIA (Brazilian Food Industry Association), Gus Guadagnini, managing director of
+       GFI Brazil, Dr. Caroline Mellinger from Embrapa (Brazilian Agricultural Research Corporation), and Igor Castro from ABIR
+       (Brazilian Association of Refrigerated Drinks) | Image source: GFI Brazil.
+
+
+
+
+Labeling and nomenclature
+Labeling of fermentation-enabled and plant-based products remains contentious in some
+markets. In October 2020, the European Parliament rejected a bill that would have prohibited
+the use of meat terminology like “sausage” or “burger” on labels for products not derived from
+an animal carcass. The Parliament did, however, pass a similar ban which introduced further
+restrictions on the labelling of plant-based dairy. While dairy terms such as “milk” and
+“yoghurt” are already banned under EU law, these new restrictions would ban any ”evocation”
+of the concept of dairy, even when used with a clear modifier such as “alternative” or “style.”
+EU member states and the European Parliament are still negotiating whether this ban is going
+to become law.
+
+
+
+
+State of the Industry Report | Fermentation                                                                                  48
+Outside governmental prescription, the advanced fermentation sector—companies producing
+animal-free dairy, eggs, and other novel proteins—has not yet aligned on standard terminology
+for products or ingredients derived from precision fermentation, although there is an
+acknowledged need for nomenclature studies. Several leading companies in the precision
+fermentation sector are working together to identify appropriate nomenclature. Currently,
+several distinct terms are in use:
+
+For ingredients:
+    ●   The ingredients disclosure on labels for Smitten ice cream, which is made with
+        ingredients from Perfect Day, uses “non-animal whey protein isolate.” This parallels
+        “non-animal rennet,” a widely accepted term used by cheese manufacturers to refer to
+        rennet made via precision fermentation. Smitten’s packaging also includes a dairy
+        allergy warning.
+    ●   Perfect Day uses the term “microflora” for the microbial hosts and “flora-derived
+        protein” for the animal-free dairy proteins in marketing materials. Unlike probiotic
+        products that also use the term “flora,” Perfect Day’s products do not contain live
+        cultures.
+    ●   Clara Foods, a food technology company making eggs and other animal-based proteins
+        using precision fermentation, plans to describe their products as “animal-free.”
+
+For products:
+    ●   Brave Robot, which also uses ingredients from Perfect Day, describes their ice cream
+        as “animal-free dairy.”
+    ●   Change Foods, a company making dairy products enabled by precision fermentation,
+        also describes their products as “animal-free dairy.”
+
+In the biomass fermentation sector, companies are using various terms to describe products
+and ingredients:
+    ● Quorn coined the term “mycoprotein” to describe their fungal-derived protein
+        ingredient, but another term may work equally well or better for this type of biomass.
+        Note that as a settlement term of a class action suit, the company has since modified
+        their packaging in the United States. The allergen warning now reads: “Mycoprotein is a
+        mold (member of the fungi family). There have been rare cases of allergic reactions to
+        products that contain mycoprotein” (even though fungal food allergies are much less
+        common than soy allergies).
+    ● MycoTechnology and other companies that use mycelium from species such as
+        Lentinula edodes, whose fruiting bodies are consumed as shiitake mushrooms, may be
+        able to use “mushroom protein,” “mushroom extract,” or similar terms.
+
+
+
+
+State of the Industry Report | Fermentation                                             49
+Government support
+Fermentation is a paradigm-changing innovation. It can unlock new high-value uses for
+low-value agro-industrial byproducts, affordably nourish the world’s growing population, and
+help ensure protein sovereignty and security (unlike slaughterhouse closures during a
+pandemic). Thus, it is not surprising that some governments have taken an active hand in
+supporting companies in the space.
+
+The United States, the European Union, Israel, and Singapore are among the first governments
+to provide support for the sector. 2020 brought several developments:
+    ● Meati Foods (formerly Emergy Foods) received an equity investment from the U.S.
+        Department of Energy via the incubator arm of Argonne National Laboratory.
+    ● Mycorena received a 50,000-euro grant from the European Commission, the executive
+        branch of the European Union, to help fast-track their product to market.
+    ● 3F Bio, alongside a consortium of other companies, received a 17-million-euro grant
+        from the EU Horizon 2020 program to develop a zero-waste biorefinery to produce
+        food-grade protein from low-cost, sustainable feedstocks. The project, called
+        PLENITUDE, brings together 3F Bio, a bioethanol biorefinery, Bridge2Food, Mosa Meat
+        (a cultivated meat company), Wageningen University, International Flavors &
+        Fragrances, Alcogroup SA, and others.
+    ● EIT Food Accelerator Network (funded by a European Commission Horizon 2020 grant)
+        announced their 2020 cohort, which included Mycorena and The Mediterranean Food
+        Lab, as well as several cultivated meat and plant-based meat, egg, and dairy
+        companies.
+    ● San Francisco’s Perfect Day announced that they would collaborate with Singapore’s
+        Agency of Science, Technology and Research (A*STAR) to build a research and
+        development center.
+    ● The EU Smart Protein project published a new fermentation-related research study
+        led by University College Cork. The project is a $10.5 million initiative of the European
+        Union to support the alternative protein industry and includes support for
+        fermentation (fungi and side-stream conversion).
+
+
+
+
+Nacho cheese sauce from Perfect Day. | Image credit: Perfect Day
+
+
+
+
+State of the Industry Report | Fermentation                                               50
+State of the Industry Report | Fermentation   51
+Section 7: Conclusion and forecast
+—
+2020 was a landmark year for fermentation, which emerged as a pillar of the alternative
+protein industry. Alongside plant-based proteins and cultivated meat, fermentation will help us
+sustainably feed a global population of nearly 10 billion by 2050. Because of its vast potential
+in technical and product development innovation, fermentation is well positioned to exceed the
+sensory, nutritional, environmental, social, market, and functional paradigms of status quo
+proteins in today’s food system.
+
+Fermentation is not just valuable in its own right, offering competitive prices, unparalleled
+functionality and scalability, and validated mechanisms for establishing and ensuring safety; it
+also stands to revolutionize the entire alternative protein industry, with spillover applications in
+plant-based products and cultivated meat. Fermentation can enable a new generation of
+proteins, fats, and other functional ingredients that combine with plant-based and cultivated
+components to create biomimicking whole-cut meats, egg replacements, animal-free dairy
+proteins, seafood products, and more.
+
+The alternative protein industry has barely scratched the surface of the potential for
+fermentation-based approaches, and both consumers and existing players in the sector are
+eager for the innovative products and solutions that fermentation can provide. GFI looks
+forward to supporting the innovators in this sector as they drive the transformation of our food
+system into one that is more sustainable, secure, and just.
+
+
+
+
+Doris Lee, general manager of GFI Consultancy, speaks at the first fermentation and cultivated meat conference in China.
+
+
+
+
+State of the Industry Report | Fermentation                                                                                52
+Forecast
+Broader commercialization
+We expect 2021 to be another unprecedented year of research and development
+breakthroughs in fermentation, fueled by a record-setting amount of industry fundraising.
+Fermentation-enabled alternative proteins are entering the proof of concept stage, with
+pioneering products starting to reach customers. Early adopters will provide evidence of
+product-market fit and help producers refine their product formulations, marketing mixes, and
+distribution strategies.
+
+Global changemakers are taking notice; Bill Gates noted that alternative protein innovation will
+be a core part of fighting climate change in an appearance on CBS News’ 60 Minutes in
+February 2021. In addition to mentioning several plant-based meat manufacturers, Gates
+singled out Nature’s Fynd as a company doing earth-saving innovation. Gates is an investor in
+Nature’s Fynd and other alternative protein companies because he believes in their climate
+mitigation potential.
+
+Hybrid products
+We also anticipate that hybrid products containing multiple types of protein will play an
+increasingly significant role in alternative protein product launches. We have already seen
+activity in this area; Back of the Yard Algae Sciences announced a microalgal heme ingredient
+for plant-based meat in early 2021, potentially enabling other companies to unlock the
+“bloodiness” that the Impossible Burger pioneered. Over the next few years, many products
+will not rely solely on fermentation-derived proteins but will include plant and animal cell
+components, just as Impossible Foods’ beef derives from a mixture of plant and microbial
+sources, with the fermentation-derived ingredients providing significant sensory benefits.
+Companies operating at the intersection of the three alternative protein categories will enable
+a new wave of paradigm-shifting meat, egg, and dairy products and ingredients that meet
+consumer expectations for taste, price, functionality, versatility, and variety.
+
+
+
+
+State of the Industry Report | Fermentation                                              53
+Figure 12: A spectrum of hybrid fermentation-enabled products
+
+
+
+
+Scaling and expansion
+As these products enter the market and demonstrate consumer traction, industry activity is
+likely to accelerate. The substantial cash inflows in 2020 will fuel capital expenditures for
+production facilities and expand the size of skilled science and engineering teams, enabling
+industrial bioprocesses to grow in scale, companies to develop new products, feedstocks to
+diversify, and more companies to emerge. All this activity will improve the end products’ quality
+and price, driving further adoption.
+
+Geographical diversification
+Historically, the United States and Europe have served as major innovation hubs for industrial
+biotechnology and fermentation, particularly from a technology development standpoint.
+Lately, Asia and Latin America have increasingly positioned themselves as leaders in
+manufacturing capacity and fermentation infrastructure. With the advent of new research tools
+that decrease the cost of R&D, innovation is likely to come increasingly from regions that have
+not traditionally led biotechnology developments. These regions will be able to couple
+upstream strain and feedstock improvements with the operational expertise required for swift
+integration into large-scale manufacturing environments, potentially accelerating the iterative
+innovation cycle and path toward cost reduction. Governmental investment is an “X factor”
+that could rapidly accelerate industry growth as we have seen with Israel and Singapore.
+
+
+
+
+State of the Industry Report | Fermentation                                              54
+Expert predictions
+Looking to the year ahead, we asked a group of industry experts for their predictions of what’s
+next in fermentation for alternative proteins.
+
+
+                    The whole space for fermentation and alternative proteins is about to break wide open. We’re on
+                    the cusp of seeing more possibilities emerge than ever before when it comes to improving taste
+                    and nutrition. That means the benefits for CPG companies and consumers in the plant-based
+                    food space will begin to materialize at a faster and faster pace. The companies that can keep up
+                    with this pace—and that have the scientific skill along with access to a broad range of strains and
+                    proteins to create these benefits—will come out on top.
+                    —Michael Leonard, Motif FoodWorks
+
+
+                    I believe fermentation will take center stage not just when it comes to alternatives to meat, but
+                    also for food ingredients and products beyond protein. Functional ingredients, nutrients mainly
+                    derived from animals, and old fermentation products with new applications (e.g., enzymes) will
+                    find their way into our everyday foods.
+                    —Abril Estrada, Wild Earth
+
+
+                    We will see better products as a wider number of brands increase the pace of innovation. To
+                    underpin this, it is essential that we see an increase in supply capacity. If we believe in the
+                    projection of 25%–30% CAGR, then for fermentation to even maintain its share of the market,
+                    there is a need for a 10x+ increase in capacity by 2030. We will also see governments increase
+                    their level of investment in non-animal protein sources. This will accelerate trends such as the
+                    Spanish government’s investment in Ethicameat, Singapore’s “30 by 30 vision,” and the EU’s
+                    commitment to bio-based industries.
+                    —Jim Laird, 3F Bio
+
+
+
+                    The forecasted demand for alternative proteins requires significantly more fermentation
+                    capacity than exists today, representing a state-of-readiness bottleneck. While this has the
+                    potential to prompt large companies and governmental entities to fund expanded capacity,
+                    identification and emphasis on the shortfall is critical to prompting the required action.
+                    —Mark Warner, Warner Advisors
+
+
+
+
+                    Solid-state fermentation will emerge as a new modality to create structured proteins and whole
+                    cuts of meat analogs that are not possible through liquid fermentation.
+                     —Eben Bayer, CEO of Ecovative and Atlast Food Co.
+
+
+
+
+State of the Industry Report | Fermentation                                                         55
+Acknowledgments
+—
+Authors
+
+Nate Crosser
+Startup Growth Specialist, The Good Food Institute (former)
+Entrepreneur in Residence, Blue Horizon Corporation
+
+We’d like to thank Emma Ignaszewski, Liz Specht, Blake Byrne, Zak Weston, Alicia Crawford,
+Sharyn Murray, Elizabeth Derbes, Nicole Manu, Mirte Gosker-Kneepkens, Bruce Friedrich, Aviv
+Oren, Nir Goldstein, Felipe Barbosa Krelling, Alex Holst, Susan Halteman, Sheila Voss, Sarah
+David, Jessica Almy, Caroline Bushnell, Brooke Mays, Gavin McIntyre, Isabelle Adams, and
+others who contributed to this report.
+
+We are grateful to the following industry experts for their perspectives: Eben Bayer, David
+Bucca, Abril Estrada, Jim Laird, and Mark Warner.
+
+Cover image courtesy of Atlast Food Co.
+
+© 2021 The Good Food Institute. All rights reserved.
+Permission is granted, free of charge, to use this work for educational purposes.
+
+
+
+
+State of the Industry Report | Fermentation                                           56
+State of the Industry Report | Fermentation   57
+

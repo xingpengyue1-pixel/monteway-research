@@ -1,0 +1,901 @@
+350
+Korean J. Food Sci. An.
+Vol. 35, No. 3, pp. 350~359(2015)
+DOI http://dx.doi.org/10.5851/kosfa.2015.35.3.350
+Improved Functional Characteristics of Whey Protein Hydrolysates
+in Food Industry
+Renda Kankanamge Chaturika Jeewanthi1,†
+, Na-Kyoung Lee1,†
+, and Hyun-Dong Paik1,2,
+*
+1
+Department of Food Science and Biotechnology of Animal Resources, Konkuk University, Seoul 143-701, Korea
+2
+Bio/Molecular Informatics Center, Konkuk University, Seoul 143-701, Korea
+Abstract
+This review focuses on the enhanced functional characteristics of enzymatic hydrolysates of whey proteins (WPHs) in food applica-
+tions compared to intact whey proteins (WPs). WPs are applied in foods as whey protein concentrates (WPCs), whey protein isolates
+(WPIs), and WPHs. WPs are byproducts of cheese production, used in a wide range of food applications due to their nutritional validity,
+functional activities, and cost effectiveness. Enzymatic hydrolysis yields improved functional and nutritional benefits in contrast to heat
+denaturation or native applications. WPHs improve solubility over a wide range of pH, create viscosity through water binding, and pro-
+mote cohesion, adhesion, and elasticity. WPHs form stronger but more flexible edible films than WPC or WPI. WPHs enhance emulsi-
+fication, bind fat, and facilitate whipping, compared to intact WPs. Extensive hydrolyzed WPHs with proper heat applications are the
+best emulsifiers and addition of polysaccharides improves the emulsification ability of WPHs. Also, WPHs improve the sensorial prop-
+erties like color, flavor, and texture but impart a bitter taste in case where extensive hydrolysis (degree of hydrolysis greater than 8%).
+It is important to consider the type of enzyme, hydrolysis conditions, and WPHs production method based on the nature of food appli-
+cation.
+Keywords: whey protein, whey protein hydrolysate, enzymatic hydrolysis, functionality, food application
+Received February 3, 2015; Revised April 6, 2015; Accepted April 27, 2015
+Introduction
+Whey protein (WP) is now recognized as a value-added
+ingredient because of its highly functional and nutritional
+properties. WPs are used widely by dairies, bakeries, con-
+fectionaries, meat processing plants, canned goods, and
+beverage establishments for their various functions in
+food quality and stability (de Wit, 1998; Foegeding et al.,
+2002). Because of their nutritional and functional proper-
+ties, researchers have intensified efforts to expand the uti-
+lization of WPs as food ingredients. Technological advan-
+ces have enabled researchers to enhance the functionality
+and utilization of WP by producing more concentrated
+and specialized forms. Pressure-driven membrane pro-
+cesses have been used to concentrate and separate whey
+protein concentrates (WPCs) or whey protein isolates
+(WPIs) in order to maintain their functional properties
+and make them suitable for other purposes in the food
+industry (Suarez et al., 1992). Today, WP ingredients are
+used to replace other proteins or to improve the functional
+properties of many food products (Spellman et al., 2005).
+WPs are comprised mainly of β-lactoglobulin (β-Lg),
+α-lactalbumin (α-La), bovine serum albumin (BSA), and
+immunoglobulin, and the effects of WP functionality have
+been studied extensively (Foegeding et al., 2002; Smith-
+ers et al., 2008). β-Lg, a globular and amphiphilic protein
+with two disulfides and one free cysteine, is the main
+constituent of WP (around 55% of proteins) and is known
+to contribute the most to the WP functionality (Bouaouina
+et al., 2006). Conformation and functionality of WPs are
+interrelated and dictated by changes in their globular fol-
+ded structure. Their functional properties are affected by
+several factors within a food application, including con-
+centration, state of the WPs, pH, ionic environment, (pre-)
+heat treatment, pressure treatments, and the presence of
+lipids (Burrington, 1999). The functionality of WPs can
+be improved by chemical, enzymatic, and physical proce-
+sses. High pressure treatments are used to enhance the
+functionality of WPC, but still remain below the expected
+levels of the industrial food applications (Kresic et al.,
+†
+These authors contributed equally to this work.
+*Corresponding author: Hyun-Dong Paik, Department of Food
+Science and Biotechnology of Animal Resources, Konkuk Uni-
+versity, Seoul 143-701, Korea. Tel: +82-2-2049-6011, Fax: +82-
+2-455-3082, E-mail: hdpaik@konkuk.ac.kr
+ARTICLEFunctionality of Whey Protein Hydrolysates 351
+2006). Enzymatic modifications are highly acceptable and
+applied in the industry not only for functionality improve-
+ment but also for bioactive enhancement (Athira et al.,
+2014; Sharma et al., 2011). These hydrolysates are also
+being used as protein supplements for infants, senescent,
+athletes, and bodybuilders (Sousa et al., 2004). The resul-
+ting peptides are more easily absorbed but the level of
+hydrolysis has to be carefully controlled to avoid the for-
+mation of bitter peptides (Mann, 2000).
+Enzymatic hydrolysis is preferred by food manufactur-
+ers due to the availability of a wide range of enzymes that
+are considered safe and natural. Several enzymes are cur-
+rently used in the industry as food-grade enzymes and
+others are being researched for the production of WPHs
+with tailored functionality and biological activity. The
+most researched and used enzymes for the production of
+WPHs are the digestive enzymes trypsin, pepsin, and chy-
+motrypsin (Konrad et al., 2005; Pouliot et al., 2009), plant
+enzymes mainly papain and bromelain (Nakamura et al.,
+1993), bacterial proteases mainly those originating from
+Bacillus licheniformis (Creusot et al., 2006; Creusot and
+Gruppen, 2007a, 2007b; Doucet and Foegeding, 2005)
+and Bacillus subtilis (Madsen et al., 1997), or a mixture
+of some of these enzymes (Kim et al., 2007). The objec-
+tive of this review is to emphasize the improvement in
+functional characteristics of WPHs over those of intact
+WPs in food applications.
+Manufacture of Whey Protein Products
+Whey protein concentrates (WPCs) and whey pro-
+tein isolates (WPIs)
+The most valuable component of whey is its protein,
+which delivers both enhanced functionality and nutritio-
+nal quality to many formulations. WPs are able to concen-
+trate, fracture, and dehydrate efficiently and cost-effec-
+tively without damaging the protein structure (Fig. 1). By
+these methods WPs are produced and introduced to the
+market as whey protein concentrates (WPCs, 35-80% pro-
+tein) and whey protein isolates (WPIs, 90-96% protein).
+Whey protein hydrolysates (WPHs)
+Two main methods of improving WP functionality are
+modification of proteins through physical treatments, and
+enzymatic means. Chemical modifications of proteins are
+possible but due to the necessity to prove the safety of such
+modifications to humans, they are not generally practiced.
+Chemical hydrolysis causes loss of some essential amino
+acids, such as tryptophan, and can result in products with
+high amounts of free amino acids, which can encumber
+the body’s osmotic balance (Mahmoud, 1994).
+For WPs hydrolyzing, enzymatic hydrolysis is the most
+applicable method in food industry. The functional and
+biological properties of the WPHs depend to a great extent
+on the type of enzyme used (specificity and selectivity),
+hydrolysis conditions (enzyme-to-substrate ratio, incuba-
+tion temperature, pH, and time) employed, and the source
+of the protein, native or denatured, WPI vs. WPC, memb-
+rane or ion-exchange product, etc. Researchers have shown
+that limited enzymatic hydrolysis of WPs can result in
+markedly improved functionality and biological activities
+(Creusot and Gruppen, 2008; Pouliot et al., 2009; Spell-
+man et al., 2009).
+Functional benefits
+WPs have typically a globular structure, with high lev-
+els of secondary and tertiary structures, in which acidic/
+basic and hydrophobic/hydrophilic amino acids are dis-
+tributed in polypeptide chains. The functional benefits
+depend on (a) hydration, (b) aggregation and gelation, (c)
+Fig. 1. Production steps of whey products.352 Korean J. Food Sci. An., Vol. 35, No. 3 (2015)
+interfacial, and (d) sensorial properties of the food protein
+(Fig. 2) (Kresic et al., 2006). Hydration properties have
+an important effect on swelling, adhesion, dispersibility,
+solubility, viscosity, water absorption, and water holding.
+Aggregation and gelation properties, on the other hand
+are related to protein-protein interactions while Interfacial
+properties include emulsification and foaming character-
+istics. Sensorial properties include flavor, color, and tex-
+ture properties of the protein.
+Hydration properties
+Solubility
+The solubility of WPCs at a low pH is a unique prop-
+erty that allows it to function in acidic foods and bever-
+ages (Kumar et al., 2010; Pelegrine and Gasparetto, 2005).
+It has a great potential as a food ingredient for the protein
+enrichment of soft drinks and beverages. Heating WPs
+can result in a loss of solubility due to the denaturation of
+the proteins, especially in the pH range of 4.0-6.5 (Burr-
+ington, 1999). Most foods are heat processed in some way,
+and WPs are susceptible to changes during heating.
+Denaturation at low pH leads to aggregation and insolu-
+bility. One challenge for WP is maintaining solubility
+during heat processing. Solubility of WPCs decreases as
+temperature increases (Pelegrine and Gomes, 2012). How-
+ever, the maximum intermolecular aggregation of β-Lg
+without heat does occur near the iso-electric point due to
+neutralization of charges and interaction via hydrophobic
+forces (Majhi et al., 2006; Mehalebi et al., 2008; Schmitt
+et al., 2009). Increasing the ionic strength results in salt-
+ing in of β-Lg (Majhi et al., 2006).
+In many cases, limited hydrolysis leads to increased
+solubility due to the reduced molecular weight and the
+increased hydrophilicity resulting from the increase in
+free carboxyl and amine groups. Researchers proposed
+that hydrolyzing WPs with various proteolytic enzymes
+under different conditions can be used to improve the sol-
+ubility over a wide range of pH (Mutilangi et al., 1996;
+Perea et al., 1993). WPHs had shown less solubility in pH
+4 while showing the highest solubility around pH 6-10
+(Jeewanthi et al., 2014). More extensive hydrolysis has
+been shown to increase solubility (Flanagan and Fitzger-
+ald, 2002; Jeewanthi et al., 2014). Also, heat stability was
+improved upon partial hydrolysis due to loss of the sec-
+ondary structure, thus contributing to reduced structural
+changes upon heating (Foegeding et al., 2002).
+Adhesion, cohesion, elasticity, and water-binding
+The adhesion properties of WPCs help to improve the
+homogeneous texture of food products. WPCs may be
+used to bind breadcrumbs or batter to meat, poultry or
+fish. Effective adhesion between meat pieces is an impor-
+tant quality characteristic in the manufacture of products
+such as chicken nuggets or restructured ham. The actual
+meat particle binding occurs during cooking as heat set-
+ting of the proteins takes place. WPs aid in this binding
+by forming strong, irreversible gels that restructure into
+Fig. 2. Classification of functional properties of WPHs in food applications.Functionality of Whey Protein Hydrolysates 353
+an extended three-dimensional network, thereby helping
+to adhesion (Prabhu, 2006). WPCs decreased the average
+hardness and chewiness values and increased cohesive-
+ness of the sausages. The adhesion of the WPs is affected
+by temperature due to denaturation of protein structure
+(Goode et al., 2013).
+Moisture binding is especially important during the
+cooking stage when the denaturing salt soluble meat pro-
+teins experience a progressive decline in water holding
+capacity (Tsai et al., 1998). Barbut (2007) reported that
+poultry treated with WPHs had the lowest cooking loss
+and highest yield with higher water retention capacity
+compared to those treated with WPI, casinate, β-Lg, and
+whole milk proteins. The water-binding abilities of WPs
+can help reduce formula costs as the proteins holds addi-
+tional water. Viscosity development is closely related to
+gelation and other protein-protein interactions (Burr-
+ington, 1999).
+Aggregation and gelation properties
+Gel formation
+Gelation is an important functionality that is useful in
+baked goods, processed meats, surimi, desserts, and sour
+cream. A gel is an intermediate structure between solid
+and liquid, which carbohydrates or protein strands cross-
+link to form a network. Gelation is favored by large mol-
+ecules of proteins since they form extensive networks by
+cross-linking in three dimensions and by the ability of the
+denaturing. Rinn et al. (1990) reported that WPCs pre-
+pared by microfiltration through 0.6 µm pores exhibited
+superior gels at 4-5% protein. In restructuring new meat
+products, WPCs have been utilized for their abilities to
+exhibit heat-coagulating and heat gelling properties (Morr
+and Ha, 1993). Cold-set gelation of WPs has also been
+noted by Bryant and McClements (1998). Hydrolyzed â-
+Lg also has the ability to form networks associated with
+gels (Foegeding et al., 2002).
+In their un-denatured form, WPs form rigid gels that
+hold water and fat, and provide structural support. The
+formation of disulfide bonds and ionic bonding controlled
+by calcium ions determine gel structure (Burrington,
+1999). Hydrophobic interactions can play a major role in
+partially hydrolyzed proteins and consequently unfolding
+the protein structure (Pinterits and Arnteld, 2007). This
+exposes buried hydrophobic groups and other interactive
+groups which are then free to interact with neighboring
+polypeptides (Kang et al., 1994). This promotes protein
+aggregations and subsequent gel setting. The effect of
+hydrolysis on the gelation ability of WP is dependent on
+environmental conditions and on the degree of hydrolysis
+(DH). On the other hand, extensive hydrolysis of WPI can
+weaken its gelation properties (Huang et al., 1999). Non
+heat-set gelation forms strong elastic gels during exten-
+sive hydrolysis of WPI at high solid content (20% w/v)
+with Alcalase 2.4L, a protease from Bacillus lichenifor-
+mis (BLP) than the heat induced gels (Doucet et al., 2001).
+Among the enzymes investigated for the production of
+WPH with enhanced gelation properties, BLP is well stu-
+died (Creusot et al., 2006; Creusot and Gruppen, 2007a,
+2007b; Creusot and Gruppen, 2008; Doucet and Foeged-
+ing, 2005; Spellman et al., 2005). Further, Spellman et al.
+(2005) showed, after isolating subtilisin and glutamyl en-
+dopeptidase (GE) activities from Alcalase 2.4L, that the
+GE is the enzyme responsible for the peptide aggregation
+in WPHs. With enzymatic hydrolysis performing under
+different conditions, researchers were able to produce gels
+with different rheological properties (Table 1). The increa-
+sed net charge on proteins results in increased repulsion
+between peptides. Interestingly, limited proteolysis with
+enzymes can also be used to control the gelling ability as
+well as the gel strength.
+Trypsin also showed gelation properties after hydroly-
+sis of WPs. Tryptic hydrolysis of WPs at 6.7 and 2.3%
+DH prevented gelation at pH 3 and 7, whereas hydrolysis
+to 2.3% DH with BLP dramatically increased the gelling
+ability and gel strength at neutral pH (Ju et al., 1995). The
+aggregates formed upon hydrolysis of β-Lg by BLP con-
+sisted of 6-7 major peptides (2-6 kDa) (Otte et al., 1996b).
+Peptides from β-Lg formed aggregates with other pep-
+tides and with intact β-Lg and α-La via hydrophobic inter-
+actions leading to gelation. Some researchers have found
+the key fragments that act as the initiators of aggregation
+of WPHs (Table 2).
+Film formation
+In food systems, edible, and permeable film coatings
+are used to control the transfer of aroma, flavor com-
+pounds, moisture, oxygen, and lipid. WP has been shown
+to make transparent films with good oxygen and aroma
+barrier properties (Mate and Krochta, 1996; Miller et al.,
+1997). McHugh et al. (1994) produced WPCs films by
+heating 8-12% (w/w) solutions of WPC at 75-100°C. The
+suggested optimal condition for producing these films is to
+heat 10% WPC solutions at 90°C. Exposure of internal S-
+H and hydrophobic groups after denaturation by heating
+of WPs support improved film formation. The intramolec-
+ular S-S bonds of heat denatured WP films form insoluble354 Korean J. Food Sci. An., Vol. 35, No. 3 (2015)
+films while native proteins form soluble films (Perez-
+Gago and Krochta, 2002). Various measures have been
+studied to improve barrier capacity and mechanical
+strength of WPC films. Due to protein chain-to-chain
+interactions, films with high brittleness are created.
+To overcome this and improve the flexibility of the
+films, hydrolysis of WP provided a much better approach
+than the addition of plasticizers. Hydrolysates improve
+the film tensile properties and yield better oxygen barrier
+(Sothornvit and Krochta, 2000b). WPHs made good films
+with oxygen permeability and water vapor transmission
+rate values similar, but with more flexibility, than WPI
+films at the same glycerol content (Schmid, 2013; Soth-
+ornvit and Krochta, 2000a). Increasing the WPH content
+leads to a decrease in the molecular weight, in WPI-based
+films, and also significantly increases film flexibility,
+compared to films entirely produced from WPHs (Schmid
+et al., 2013).
+Table 1. Different gel characteristics resulting from whey protein hydrolysates made with BLP under several conditions
+Gelation characteristics Enzyme Whey product Hydrolytic condition Reference
+Very high gelation
+Subtilisin Carlsberg +
+Glutamil endopeptidase
+(Alcalase 2.4L)
+Hydrolysates of WPC 80%
+50°C,
+> 0.4 DH,
+pH 7
+Spellman et al., 2005
+Gelation BLP(aq) 2% (w/w) Hydrolysates of WPI Limited or Extensive
+Creusot and Gruppen,
+2007a
+Gelation BLP(aq) 2% (w/w) Hydrolysates of WPI
+4°C,
+Extensive
+Creusot et al., 2006
+Strong gelation BLP Hydrolysates of WPC
+Salt/polysaccharide
+added
+Rocha et al., 2009
+Strong and faster gelation BLP Hydrolysates of WPI Below pH 6.2 Ipsen et al., 1997
+Translucent strong gelation BLP Hydrolysates of WPI Limited Otte et al., 1999
+Cold gelation BLP Hydrolysates of WPI
+Salt added/
+acidification
+Rabiey and Britten,
+2009a
+Rabiey and Britten,
+2009b
+Soft gelation BLP Hydrolysates of WPI
+Limited
+DH 2.2%
+Otte et al., 1996a
+White, soft, and
+thixotropic gelation
+BLP Hydrolysates of WPI
+45°C,
+1 h hydrolysis
+Ju and Kilara, 1998
+Stable gelation
+over wide pH range
+Subtilisin Carlsberg Hydrolysates of WPI Extensive
+Doucet et al., 2003a
+Doucet et al., 2003b
+Thin strong gelation BLP
+Hydrolysates of WPI
+(heat induced)
+pH 7 Ju et al., 1995
+Strong elastic gelation Alcalase 2.4L Hydrolysates of WPI Extensive Doucet et al., 2001
+BLP, protease from Bacillus licheniformis; DH, degree of hydrolysis.
+Table 2. Key peptides of gelation properties in different types of whey protein hydrolysates
+Whey product Enzyme
+Hydrolysis
+condition
+Peptides Reference
+Hydrolysates of WPI Alcalase Limited β-Lg [f135-158]
+Doucet and Foegeding,
+2005
+Hydrolysates of WPI BLP (aq)
+DH 6.8%
+pH 7
+β-Lg [f1-45]
+β-Lg AB[f90-108]-S-S-α-La [f50-113],
+α-La[f12-49]-S-S-α-La [f50-113],
+β-Lg AB[f90-108]-S-S-α-Lg AB[f90-108],
+β-Lg A[f90-157],
+β-Lg AB[f135-157/158]
+Creusot and Gruppen,
+2007b
+Hydrolysates of WPI
+BLP (glutamyl
+endopeptidase)
+pH 8 Peptides of β-Lg and α-La Ipsen et al., 2000
+Hydrolysates of β-Lg Trypsin
+5-50°C,
+pH 4
+β-Lg [f1-8], β-Lg [f15-20], β-Lg [f41-60]
+Groleau et al., 2003a
+Groleau et al., 2003b
+Hydrolysates of WPI Trypsin > pH 2 β-Lg [f1-8] Pouliot et al., 2009
+BLP, protease from Bacillus licheniformis; β-Lg, β-lactoglobulin; α-La, α-lactalbumin; DH, degree of hydrolysis.Functionality of Whey Protein Hydrolysates 355
+Interfacial properties
+Emulsification
+WPCs are used to improve emulsification in infant for-
+mula, meal replacement beverages, soups, gravies, and
+coffee whiteners (Gauthier et al., 1993). Food emulsions
+of the oil-in-water type are often stabilized by proteins.
+Temperature, pH, ionic strength, protein concentration,
+protein to oil ratio, and oil volume fraction are among the
+major parameters that affect the physical properties of the
+emulsion (Guzey and McClements, 2006).
+Limited enzymatic hydrolysis was found to be success-
+ful in improving interfacial properties (both foaming and
+emulsification properties) of WPCs (Foegeding et al., 2002;
+Kilara and Panyam, 2003). Emulsification can be impro-
+ved through controlled heat denaturation. As the WP un-
+folds, hydrophobic amino acid residues are exposed, which
+enhance the ability of the protein to orient at the oil/water
+interface. Extensive hydrolyzed WPHs can be used as
+emulsifiers with proper homogenization conditions and
+careful selection of concentrations (Agboola et al., 1998).
+The emulsion stability can also be improved by addition
+of polysaccharides in to the WPHs media (Ye et al., 2004).
+The interactions between charged polysaccharides and
+proteins can be used to improve the thickness of the sur-
+face layer or to create multi layers of surface (Decher,
+1997). The tryptic hydrolysates are reported to be more
+active on surface and have more emulsification properties
+than the chymotryptic hydrolysates (Turgeon et al., 1991).
+Fat binding and whipping formation
+WP also has emulsifying properties allowing fat glob-
+ules to be structural elements in heat induced WP gels.
+These emulsifications properties have led to the develop-
+ment of new cheese, meat, and confectionary products
+(de Wit, 1998). Approximately 5-10% of WP is BSA, the
+smallest protein component of whey and BSA has valu-
+able fat binding properties (Francis and Wiley, 2000). In-
+creased fat binding capacity was associated with an in-
+crease in hydrophobicity of the protein (Voutsinas and
+Nakai, 1983).
+Foaming and aeration
+Proteins stabilize foams by strongly adsorbing to the
+air-water interfaces, forming viscoelastic adsorbed layers
+and leading to a protein network with high viscosity (Rul-
+lier et al., 2010). Foaming properties are best when the
+WPs are undenatured, not competing with other surfac-
+tants at the air/water interface, and stabilized by an inc-
+rease in viscosity when foam formation occurs. Defatted
+WPCs can be used as egg substitutes to induce and stabi-
+lize foams in aerated food products such as meringues
+and Madeira-type cakes (de Wit, 1998). Innocente et al.
+(1998) reported that proteose peptone 3, a component that
+results from the milk fat globule membrane protein, has
+good foaming properties. At proteose peptone 3 concen-
+trations of 0.05, 0.10, and 0.20 g/100 mL, equilibrium
+surface tensions at the air-water interface were reported to
+be 44.75, 36.14, and 32.11 mN/m, respectively. Zhu and
+Damodaran (1994) suggested that the addition of prote-
+ose peptone sharply decreased the foam stability of WPI
+but did not affect the foam capacity.
+Compared to intact WPs, limited enzymatic hydrolysis
+promotes foaming and aeration through more rapid ab-
+sorption at the interface by reducing the peptide size (van
+der Ven et al., 2002). In WPH-35, Alcalase 2.4L resulted
+in the highest foaming expansion capacity of 287.5%
+after 5 h hydrolysis with 9.5% DH compared to trypsin,
+pepsin, protease A, and protease M hydrolysates (Jee-
+wanthi et al., 2014). Davis et al. (2005) also reported on
+the superior forming ability of Alcalase 2.4L and pepsin
+hydrolysates of β-Lg compared to trypsin. They declared
+native β-Lg is resistant to hydrolysis by pepsin, which has
+a broad specificity with a preference for cleaving after
+hydrophobic residues. In WPH-30, the highest foaming
+ability has reported by flavourzyme enzyme (Yoon et al.,
+2010). Excessive hydrolyzed WPHs were showed poor
+foaming stability due to very short peptides production
+(Kilara and Panyam, 2003; Ye and Sing, 2006). van der
+Ven et al. (2002) declared that large molecular fractions
+than 7 kDa has the highest foam stability compared to 44
+hydrolysates of WPs. Interfacial films used to stabilize
+emulsions and foams also have designed from WPHs
+(Foegeding et al., 2002).
+Sensorial properties
+Color, flavor, and texture
+The flavor profile for whey products ranges from a
+sweet/dairy (sweet whey) flavor, to virtually no (WPCs,
+WPIs) perceivable flavor (Keaton, 1999). Acid whey is
+used in dairy products such as in cheese powders, sauces,
+and sherbets where a tangy flavor is desired (Kosikowski,
+1979). In the bakery industry, acid whey is used in bread,
+biscuits, and crackers for the gold surface color it pro-
+vides (Kosikowski, 1979). Color found in whey may re-
+sult from naturally occurring xanthophylls, Maillard reac-
+tion products, and annatto addition (Smith, 2004). Another356 Korean J. Food Sci. An., Vol. 35, No. 3 (2015)
+added benefit of WPC is that it can improve mouth feel of
+foods by creating a richer, fuller flavor. This can be espe-
+cially important when formulating reduced-fat or low-fat
+meat products where some of the flavor contributed by fat
+is lost. The incorporation of WPC can be an economic
+alternative to other high priced flavor enhancing additives
+(Prabhu, 2006). Baking time and temperatures may re-
+quire adjustment because crust color might develop more
+rapidly with whey-based ingredients. WPC 34-80% have
+been found to improve the color, thickness, and chewi-
+ness of full fat and low fat cookie formulations. WPIs has
+identified as an anti-browning agent that able to suppress
+enzymatic browning effect which reduce the brown color
+in apple juice and fresh cut apples (Perez-Gago et al.,
+2006; Yi and Ding, 2014). Also, some of the benefits rec-
+ognized by consumers include good crust color devel-
+oped through the Maillard browning reaction while using
+high temperature in food. WPCs are also bland tasting
+and contribute no foreign or off-flavors when used as
+ingredients (Burrington, 1999). Aldehydes including hex-
+anal, have been suggested as the compounds responsible
+for off-flavors in liquid and dried whey products (Tomaino
+et al., 2004; Wright et al., 2009). Concentrations increa-
+sed with storage time concurrent with increased off-fla-
+vors (Wright et al., 2009). Off-flavors in whey products
+can carry into ingredient applications and negatively affect
+consumer acceptance (Drake et al., 2009; Wright et al.,
+2009).
+A major disadvantage of protein hydrolysis is the release
+of bitter-tasting peptides that limits the use of WPHs to
+low concentrations at which bitterness is not detected
+(Sinha et al., 2007). Rios et al. (2004) have mentioned
+that limiting the hydrolysis to less than 8% is a better
+option to minimize the bitter peptides. Small hydrophobic
+peptides and non-protein nitrogen released during the
+enzymatic hydrolysis are the major contributors to the
+bitter taste (Adler-Nissen, 1986; Matoba and Hata, 1972).
+Hydrophobic amino acids were bitterer when both the α-
+amino and carboxyl groups were involved in peptide bond
+formation than when the bond formation occurred at the
+N- or C-terminus of peptides (Matoba and Hata, 1972).
+WPHs produced with Alcalase 2.4L were bitterer than
+hydrolysates generated with Prolyve or Corolase, under
+similar reaction parameters (Spellman et al., 2009). On
+the other hand, free amino acids are also converted to fla-
+vorful compounds by heat and chemical interaction with
+other compounds. When WPs are enzymatically hydro-
+lyzed, they develop flavor enhancing properties. WPHs
+can refine, brighten, accentuate, and naturally enhance key
+flavor notes in soups, sauces, dips, and meat products
+(Prabhu, 2006). WPHs have the tendency to bind a vari-
+ety of flavor chemicals. As a flavor enhancer, WPH addi-
+tion to liquid whey and further production to spray dried
+WPC successfully led to a decrease in cardboard flavor
+and short chain aldehyde concentration compared to the
+control liquid whey and WPCs. WPH has its own distinct
+flavor and aroma as well (Drake et al., 2009).
+Conclusion
+WP products are used in food applications considering
+their functional benefits over the other proteins in the
+industry. The major functional activities of the protein
+depend on their hydration, gelation, interfacial, aggrega-
+tion, and sensorial properties. These properties are better
+enhanced via enzymatic hydrolysis than via chemical or
+technical means. WPHs enhance functionality due to their
+ability to expose the globular protein structure, reduce the
+average molecular weight and, increase the ionic strength,
+molecular charges, and protein-to-protein interactions,
+properties which are lacking in non-hydrolyzed WPCs
+and WPIs. Moreover, the enzymatic hydrolysis avoids the
+heat denaturation of proteins and maintains the function-
+ality through the food production process. The optimum
+functional ability of WPHs would be achieved by using
+proper homogenization conditions, hydrolysis conditions
+(enzyme-to-substrate ratio, temperature, pH, and time),
+the type of enzyme, and environmental conditions in food
+industry.
+Acknowledgements
+This work was supported by Priority Research Centers
+Program through the National Research Foundation of
+Korea (NRF) funded by the Ministry of Education, Sci-
+ence and Technology (2009-0093824).
+References
+1. Adler-Nissen, J. (1986) A Review of Food Protein Hydrolysis
+Specific Areas. In: Enzymatic hydrolysis of food proteins, El-
+sevier, London, England, pp. 57-109.
+2. Agboola, S. O., Singh, H., Munro, P., Dalglesh, D. G., and
+Singh, A. M. (1998) Destabilization of oil-in-water emulsions
+formed using highly hydrolysed whey proteins. J. Agric. Food
+Chem. 46, 84-90.
+3. Athira, S., Mann, B., Saini, P., Sharma, R., Kumar, R., and
+Singh, A. K. (2014) Production and characterisation of whey
+protein hydrolysates having antioxidant activity from cheeseFunctionality of Whey Protein Hydrolysates 357
+whey. J. Sci. Food Agri. DOI 10.1002/jsfa.7032.
+4. Barbut, S. (2007) Effect of hydrolyzed and regular dairy pro-
+teins on the texture, colour and microstructure of poultry meat
+emulsions. Br. Poult. Sci. 48, 655-660.
+5. Bouaouina, H., Desrumaux, A., Loisel, C., and Legrand, J.
+(2006) Functional properties of whey proteins as affected by
+dynamic high pressure treatment. Int. Dairy J. 16, 275-284.
+6. Bryant, C. and McClements, D. J. (1998) Molecular basis of
+cold-setting whey protein ingredients. Trends Food Sci. Tech-
+nol. 9, 143-151.
+7. Burrington, K. (1999) Whey products in baked goods applica-
+tions monograph - Bakery. U.S. Dairy Export Council. USA.
+eA2.1- eA2.8.
+8. Creusot, N. and Gruppen, H. (2007a) Enzyme-induced aggre-
+gation and gelation of proteins. Biotech. Adv. 25, 597-601.
+9. Creusot, N. and Gruppen, H. (2007b) Proteinpeptide interac-
+tionsin mixturesof wheypeptidesand wheyproteins. J. Agric.
+Food Chem. 55, 2474-2481.
+10. Creusot, N. and Gruppen, H. (2008) Hydrolysis of whey pro-
+tein isolate with Bacillus licheniformis protease: Aggregat-
+ing capacities of peptide fractions. J. Agric. Food Chem. 56,
+10332-10339.
+11. Creusot, N., Gruppen, H., Van Koningsveld, G. A., De Kruif,
+C. G., and Vorgen, A. G. J. (2006) Peptide-peptide and pro-
+tein-peptide interactions in mixtures of whey protein isolate
+and whey protein isolate hydrolysates. Int. Dairy J. 16, 840-
+849.
+12. Davis, J. P., Doucet, D., and Foegeding, E. A. (2005) Foam-
+ing and interfacial properties of hydrolyzed β-lactoglobulin.
+J. Colloid Interface Sci. 288, 412-422.
+13. de Wit, J. N. (1998) Nutritionaland functionalcharacteristics
+of whey protein in food products. J. Dairy Sci. 81, 597-608.
+14. Decher, G. (1997) Fuzzy nanoassemblies: Toward layered
+polymeric multi-composites. Science 277, 1232-1237.
+15. Doucet, D. and Foegeding, E. A. (2005) Gel formation of
+peptides produced by extensive enzymatic hydrolysis of β-
+lactoglobulin. Biomacromolecules 6, 1140-1148.
+16. Doucet, D., Gauthier, S. F., and Foegeding, E. A. (2001) Rhe-
+ological characterization of a gel formed during extensive
+enzymatic hydrolysis. J. Food Sci. 66, 711-715.
+17. Doucet, D., Gauthier, S. F., Otter, D. E., andFoegeding, E. A.
+(2003a) Enzyme-induced gelation of extensively hydrolyzed
+whey proteins by alcalase: Comparison with the plastein reac-
+tion and characterization interactions. J. Agric. Food Chem.
+51, 6036-6042.
+18. Doucet, D., Otter, D. E., Gauthier, S. F., andFoegeding, E. A.
+(2003b) Enzyme-induced gelation of extensively hydrolyzed
+whey proteins by alcalase: Peptide identification and deter-
+mination of enzyme specificity. J. Agric. Food Chem. 51,
+6300-6308.
+19. Drake, M. A., Miracle, R. E., and Wright, J. M. (2009) Sen-
+sory Properties of Dairy Proteins. In: Milk proteins from ex-
+pression to food. Thompson, A., Boland, M., and Singh, H.
+(eds) Elsevier, Amsterdam, The Netherlands. pp. 429-448.
+20. Flanagan, J. and FitzGerald, R. J. (2002) Physicochemical and
+nitrogen solubility properties of Bacillus proteinase hydroly-
+sates of sodium caseinate incubated with transglutaminase pre-
+and post-hydrolysis. J. Agric. Food Chem. 50, 5429-5436.
+21. Foegeding, E. A., Davis, J. P., Doucet, D., and McGuffey, M.
+K. (2002) Advances in modifying and understanding whey
+protein functionally. Trends Food Sci. Tech.13, 151-159.
+22. Francis, F. J. and Wiley R. H. (2000) Whey: Composition,
+Properties, Processing and Uses. In: Wiley encyclopedia of
+food science and technology. 2nd Edition. New York, NY.
+pp. 2652-2661.
+23. Gauthier, S. F., Paquin, P., Pouliot, Y., and Turgeon, S.
+(1993) Surface activity and related functional properties of
+peptides obtained from whey proteins. J. Dairy Sci. 76, 321-
+328.
+24. Goode, K. R., Bowen, J.,Akhtar, N., Robbins, P. T., andFryer,
+P. J. (2013) The effect of temperature on adhesion forces
+between surfaces and model foods containing whey protein
+and sugar. J. Food Eng. 118, 371-379.
+25. Groleau, P. E., Gauthier, S. F., and Pouliot, Y. (2003a) Effect
+of residual chymotryptic activity in a trypsin preparation on
+peptide aggregation in a β-lactoglobulin hydrolysate. Int.
+Dairy J. 13, 887-895.
+26. Groleau, P. E., Morin, P., Gauthier, S. F., and Pouliot, Y.
+(2003b) Effect of physicochemical conditions on peptide-pep-
+tide interactions in a tryptic hydrolysate of β-lactoglobulin
+and intensification of aggregating peptides. J. Agric. Food
+Chem. 51, 4370-4375.
+27. Guzey, D. and McClements, D. J. (2006) Formation, stability
+and properties of multilayer emulsions for application in the
+food industry. Adv. Colloid Interface Sci. 128, 227-248.
+28. Huang, X. L., Catignani, G. L., and Swaisgood, H. E. (1999)
+Modication of rheological properties of whey protein isola-
+tes by limited proteolysis. Nahrung 43, 79-85.
+29. Innocente, N., Corradini, C., Blecker, C., and Paquot, M.
+(1998) Dynamic surface tension properties of the proteose-
+peptone fraction of bovine milk. J. Dairy Sci. 81, 1833-1839.
+30. Ipsen, R., Otte, J., Lomholt, S. T., and Qvist, K. B. (2000)
+Standardized reaction times used to describe the mechanism
+of enzyme-induced gelation in whey protein systems. J. Dairy
+Res. 67, 403-413.
+31. Ipsen, R., Otte, J., and Schumacher, E. (1997) Controlled
+stress rheometry compared with Formagraph measurements
+for characterization of the enzyme induced gelation of whey
+proteins at various pH. Ann. Trans. Nordic Rheology Society
+5, 48-50.
+32. Jeewanthi, R. K. C., Paik, H. D., Kim, M. H., Lee, N. K., Kim,
+S. Y., and Yoon, Y. C. (2014) Characteristics of whey protein
+hydrolysates from cheese whey, favors on various food app-
+lications. Chem. Ind. Chem. Eng. Q. 20, 503-509.
+33. Ju, Z. Y. and Kilara, A. (1998) Gelation of pH-aggregated
+whey protein isolate solution induced by heat, protease, cal-
+cium salt, and acidulant. J. Agric. Food Chem. 46, 1830-1835.
+34. Ju, Z. Y., Otte, J., Madsen, J. S., and Qvist, K. B. (1995) Ef-
+fects of limited proteolysis on gelation and gel properties of
+whey protein isolate. J. Dairy Sci. 78, 2119-2128.
+35. Kang, I. J., Matsumura, Y., Ikura, K., Motoki, M., Sakamoto,
+H., andMori, T. (1994) Gelationandgelpropertiesof soybean358 Korean J. Food Sci. An., Vol. 35, No. 3 (2015)
+glycinin in a transglutaminase-catalyzed system. J. Agric.
+Food Chem. 42, 159-165.
+36. Keaton, J. (1999) Whey protein and lactose products in pro-
+cessed meats, Applications monograph - Meat, Published by
+U.S. Dairy Export Council, eD2.1-eD2.8.
+37. Kilara, A. and Panyam, D. (2003) Peptides from milk proteins
+and their properties. Crit. Rev. Food Sci. Nutr. 43, 607-633.
+38. Kim, S. B., Seo, I. S., Khan, M. A., Ki, K. S., Lee, W. S., Lee,
+H. J., Shin, H. S., and Kim, H. S. (2007) Enzymatic hydroly-
+sis of heated whey: Iron-binding ability of peptides and anti-
+genic protein fractions. J. Dairy Sci. 90, 4033-4042.
+39. Konrad, G., Kleinschmidt, T., Rohenkohl, H., and Reimer-
+des, E. H. (2005) Peptic partial hydrolysis of whey protein
+concentrate for modifying the surface properties of whey
+protein. II. Effects on the emulsifying and foaming proper-
+ties. Milchwissenschaft 60, 195-198.
+40. Kosikowski, F. V. (1979) Whey utilization and whey prod-
+ucts. J. Dairy Sci. 62, 1149-1160.
+41. Kresic, G. and Lelas, V. Herceg, Z., and Rezek, A. (2006)
+Effects of high pressure on functionality of whey protein con-
+centrate and whey protein isolate. Lait 86, 303-315.
+42. Kumar, S. K., Jayaprakasha, Manjappa H., Paik, H. D., Kim,
+S. K., Han, S. E., Jeong, A. R., and Yoon, Y. C. (2010) Pro-
+duction of ready-to-reconstitute functional beverages by uti-
+lizing whey protein hydrolysates and probiotics. Korean J.
+Food Sci. An. 30, 575-578.
+43. Madsen, J. S., Ahmt, T. O., Otte, J., Halkier, T., and Qvist, K.
+B. (1997) Hydrolysis of β-lactoglobulin by four different pro-
+teinases monitored by capillary electrophoresis and high per-
+formance liquid chromatography. Int. Dairy J. 7, 399-409.
+44. Mahmoud, M. I. (1994) Physicochemical and functional, pro-
+perties of protein hydrolysates in nutritional products. Food
+Technol. 48, 89-95.
+45. Majhi, P. R., Ganta, R. R., Vanam, R. P., Seyrek, E., Giger, K.,
+and Dubin, P. L. (2006) Electrostatically driven protein agg-
+regation: β-lactoglobulin at low ionic strength. Langmuir 22,
+9150-9159.
+46. Mann, E. J. (2000) Whey products and their uses. Dairy Ind.
+Int. 65, 13-14.
+47. Mate, J. I. and Krochta, J. M. (1996) Comparison of oxygen
+and water vapor permeabilities of whey protein isolate and β-
+lactoglobulin edible films. J. Agric. Food Chem. 44, 3001-
+3004.
+48. Matoba, T. and Hata, T. (1972) Relationship between bitter-
+ness of peptides and their chemical structures. Agric. Biol.
+Chem. 36, 1423-1431.
+49. McHugh, T. H. and Krochta, J. M. (1994) Sorbitol-plasti-
+cized vs. glycerol-plasticized whey-protein edible films: Inte-
+grated oxygen permeability and tensile property evaluation.
+J. Agric. Food Chem. 42, 841-845.
+50. Mehalebi, S., Nicolai, T., and Durand, D. (2008) Light scat-
+tering study of heat-denatured globular protein aggregates.
+Int. J. Biol. Macromol. 43, 129-135.
+51. Miller, K. S., Chiang, M. T., and Krochta, J. M. (1997) Heat
+curing of edible whey protein films. J. Food Sci. 62, 1189-
+1193.
+52. Morr, C. V. and Ha, E. Y. (1993) Whey protein concentrates
+and isolates: Processing and functional properties. Crit. Rev.
+Food Sci. Nutr. 33, 431-476.
+53. Mutilangi, W. A. M., Panyam, D., and Kilara, A. (1996) Func-
+tional properties of hydrolysates from proteolysis of heat-
+denatured whey protein isolate. J. Food Sci. 61, 270-275.
+54. Nakamura, T., Sado, H., Syukunobe, Y., and Hirata, T. (1993)
+Antigenicityofwheyproteinhydrolysatespreparedbycombi-
+nation of two proteinases. Milchwissenschaft 48, 667-670.
+55. Otte, J., Ju, Z. Y., Faergemand, M., Lomholt, S. B., and
+Qvist, K. B. (1996a) Protease-induced aggregation and gela-
+tion of whey proteins. J. Food Sci. 61, 911-923.
+56. Otte, J., Ju, Z. Y., Skriver, A., and Qvist, K. B. (1996b) Effect
+of limited proteolysis on the microstructure of heat-induced
+whey protein gels at varying pH. J. Dairy Sci. 79, 782-790.
+57. Otte, J., Schumacher, E., Ipsen, R., Ju, Z. Y., and Qvist, K. B.
+(1999) Protease-induced gelation of unheated and heated
+whey proteins: Effect of pH, temperature and concentrations
+of protein, enzyme and salts. Int. Dairy J. 9, 801-812.
+58. Pelegrine, D. H. G. and Gasparetto, C. A. (2005) Whey pro-
+teins solubility as function of temperature and pH. LWT-
+Food Sci. Technol. 38, 77-80.
+59. Pelegrine, D. H. G. and Gomes, M. T. M. S. (2012) Analysis
+of whey proteins solubility at high temperatures. Int. J. Food
+Eng. 3, 1556-3758.
+60. Perea, A., Ugalde, U., Rodriguez, I., and Serra, J. L. (1993)
+Preparation and characterization of whey protein hydrolysa-
+tes: Applications in industrial whey bioconversion processes.
+Enzyme Microb. Technol. 15, 418-423.
+61. Perez-Gago, M. B. and Krochta, J. M. (2002) Formation and
+Properties of Whey Protein Films and Coatings. In: Protein-
+based films and coatings. Gennadios, A. (ed) CRC Press,
+Boca Raton, FL. pp.159-180.
+62. Perez-Gago, M. B., Serra, M., and Del Río, M. A. (2006) Co-
+lor change of fresh-cut apples coated with whey protein con-
+centrate-based edible coatings. Postharvest Biol. Technol. 39,
+84-92.
+63. Pinterits, A. and Arnteld, S. D. (2007) The effect of limited
+proteolysisoncanolaproteingelation. FoodChem.102,1337-
+1343.
+64. Pouliot, Y., Guy, M. M., Tremblay, M., Gaonac’h, A. C., Ting,
+B. P. C. P., Gauthier, S. F., and Voyer, N. (2009) Isolation and
+characterization of an aggregating peptide from a tryptic hy-
+drolysate of whey proteins. J. Agric. Food Chem. 57, 3760-
+3764.
+65. Prabhu, G. (2006) U.S. Whey protein in processed meats.
+Application monograph processed meats, U.S. Dairy Export
+Council. e-3-6-1- e-3-6-12.
+66. Rabiey, L. and Britten, M. (2009a) Effect of protein compo-
+sition on the rheological properties acid-induced whey pro-
+tein gels. Food Hydrocolloids 23, 973-979.
+67. Rabiey, L. and Britten, M. (2009b) Effect of whey protein en-
+zymatic hydrolysis on the rheological properties acid-of acid
+induced whey protein gels. Food Hydrocolloids 23, 2302-
+2308.
+68. Rinn, J. C., Morr, C. V., Seo, A., and Surak, J. G. (1990) Eva-Functionality of Whey Protein Hydrolysates 359
+luation of nine semi-pilot scale whey protein pre-treatment
+modifications for providing whey protein concentrates. J.
+Food Sci. 55, 510-515.
+69. Rios, G. M., Belleville, M. P., Paolucci, D., and Sanchez, J.
+(2004) Progress in enzymatic membrane reactors: A review.
+J. Membr. Sci. 242, 189-196.
+70. Rocha, C., Teixeria, J. A., Hilliou, L., Sampaio, P., and Gon-
+calves, M. P. (2009) Rheological and structural characteriza-
+tion of gels from whey protein hydrolysates/locust bean gum
+mixed systems. Food Hydrocolloids 23, 1734-1745.
+71. Rullier, B., Axelos, M. A. V., Langevin, D., and Novales, B.
+(2010) β-lactoglobulin aggregates in foam films: Effect of the
+concentration and size of the protein aggregates. J. Colloid
+Interface Sci. 343, 330-337.
+72. Schmid, M. (2013) Properties of cast films made from differ-
+ent ratios of whey protein isolate, hydrolysed whey protein
+isolate and glycerol, Materials 6, 3254-3269.
+73. Schmid, M., Hinz, L. V., Wild, F., and Noller, K. (2013) Ef-
+fects of hydrolysed whey proteins on the techno-functional
+characteristics of whey protein-based films. Materials 6, 927-
+940.
+74. Schmitt, C., Bovay, C., Vuilliomenet, A., Rouvet, M., Bove-
+tto, L., Barbar, R., and Sanchez, C. (2009) Multi-scale char-
+acterization of individualized β-lactoglobulin micro gels for-
+med upon heat treatment under narrow pH range conditions.
+Langmuir 25, 7899-7909.
+75. Sharma, S., Singh, R., and Rana, S. (2011) Bioactive pep-
+tides: Review, Int. J. Bioautomation 15, 223-250.
+76. Sinha, R., Radha, C., Prakash, J., and Kaul, P. (2007) Whey
+protein hydrolysate: Functional properties, nutritional qual-
+ity and utilization in beverage formulation. Food Chem. 101,
+1484-1491.
+77. Smith, K. (2004) Whey processing CDR technical review:
+Bleaching. Wisconsin Center for Dairy Research, Madison.
+pp. 1-17.
+78. Smithers, G. W. (2008) Whey and whey proteins-from ‘gut-
+ter-to-gold’. Int. Dairy J. 18, 695-704.
+79. Sothornvit, R. and Krochta, J. M. (2000a) Oxygen perme-
+ability and mechanical properties of films from hydrolyzed
+whey protein. J. Agric. Food Chem. 48, 3913-3916.
+80. Sothornvit, R. and Krochta, J. M. (2000b) Water vapor per-
+meability and solubility of films from hydrolyzed whey pro-
+tein. J. Food Sci. 65, 700-703.
+81. Sousa, J. R. R., Lopes, G. P., Tardioli, P. W., Giordano, R. L.
+C., Almeida, P. I. F., and Giordano, R. C. (2004) Kinetic mo-
+del for whey protein hydrolysis by alcalase multipoint-im-
+mobilized on agarose gel particles. Braz. J. Chem. Eng. 21,
+147-153.
+82. Spellman, D., Kenny, P., O'Cuinn, G., and FitzGerald, R. J.
+(2005) Aggregation properties of whey protein hydrolysates
+generated with Bacillus licheniformis proteinase activities. J.
+Agric. Food Chem. 5, 1258-1265.
+83. Spellman, D., O’Cuinn, G., and FitzGerald, R. J. (2009) Bit-
+terness in Bacillus proteinase hydrolysates of whey proteins.
+Food Chem.114, 440-446.
+84. Suarez, E., San Martin, F., Alvarez, R., and Coca, J. (1992)
+Reverse osmosis of whey. Determination of mass transfer
+coefficients. J. Membr. Sci. 68, 301-305.
+85. Tomaino, R. M., Turner, L. G., and Larick, D. K. (2004) The
+effect of Lactococcus lactis starter cultures on the oxidative
+stability of liquid whey. J. Dairy Sci. 87, 300-307.
+86. Tsai,S.J.,Unklesbay,N.,Unklesbay,K.,andClarke,A.(1998)
+Water and absorption properties of restructured beef prod-
+ucts with five binders at four isothermal temperatures. LWT-
+Food Sci. Technol. 31, 78-83.
+87. Turgeon, S. L., Gauthier, S. F., and Paquin, P. (1991) Interfa-
+cial and emulsifying properties of whey fractions obtained
+with a two-step ultrafiltration process. J. Agric. Food Chem.
+39, 673-676.
+88. van der Ven, C., Gruppen, H., De Bont, D. B. A., and Vora-
+gen, A. G. J. (2002) Correlations between biochemical char-
+acteristics and foam-forming and stabilizing ability of whey
+and casein hydrolysates. J. Agric. Food Chem. 50, 2938-2946.
+89. Voutsinas, L. P. and Nakai, S. (1983) A simple turbidimetric
+method for determining the fat binding capacity of proteins.
+J. Agric. Food Chem. 31, 58-59.
+90. Wright, B. J., Zevchak, S. E., Wright, J. M., and Drake, M. A.
+(2009) The impact of agglomeration and storage on flavor and
+flavor stability of whey protein 80% and whey protein iso-
+late. J. Food Sci. 74, 17-29.
+91. Ye, A., Hemar, Y., and Singh, H. (2004) Flocculation and co-
+alescence of droplets in oil-in-water emulsions formed with
+highly hydrolysed whey proteins as influenced by starch.
+Colloid. Surface. B. 38, 1-9.
+92. Ye, A. and Singh, H. (2006) Heat stability of oil-in-water
+emulsions formed with intact or hydrolysed whey proteins:
+Influence of polysaccharides. Food Hydrocolloids 20, 269-
+276.
+93. Yi, J. and Ding, Y. (2014) Dual effects of whey protein iso-
+lates on the inhibition of enzymatic browning and clarifica-
+tion of apple juice. Czech J. Food Sci. 32, 601-609.
+94. Yoon, Y. C., An, S. I., Jeong, A. R., Han, S. E., Kim, M. H.,
+andLee, C. K. (2010) Characteristics of wheyprotein(WPC-
+30) hydrolysates from cheese whey. J. Animal Sci. Tech. 52,
+435-440.
+95. Zhu, H. and Damodaran, S. (1994) Proteose-peptones and
+physical factors affect foaming properties of whey protein
+isolate. J. Food Sci. 59, 554-560.

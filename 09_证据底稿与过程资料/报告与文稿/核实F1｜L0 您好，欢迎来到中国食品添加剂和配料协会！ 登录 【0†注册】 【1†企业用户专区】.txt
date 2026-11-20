@@ -1,0 +1,107 @@
+cfaa.cn (https://cfaa.cn/lxweb/queryCompanyAllDetail.action?companyInfo.id=15586)
+citeturn82view0 [wordlim: 200] Crawled: 2 weeks ago; Content type: text/html; Source: open({"ref_id":"https://cfaa.cn/lxweb/queryCompanyAllDetail.action?companyInfo.id=15586","lineno":null}); Total lines: 104
+L0: 您好，欢迎来到中国食品添加剂和配料协会！[ 登录 【0†注册】 【1†企业用户专区】]
+L1: 
+L2: 加入收藏 | 【2†ENGLISH】
+L3: 
+L4: 【3†Image】
+L5: 
+L6: 【4†Image】
+L7: 
+L8:   * 【5†首页】
+L9: 
+L10:   * 【6†协会简介】
+L11: 
+L12: 【7†组织机构】 【8†协会章程】 【9†理事会成员】 【10†专业委员会】 【11†入会指南】
+L13: 
+L14:   * 【12†党建工作】
+L15: 
+L16:   * 【13†出版物】
+L17: 
+L18: 【14†中国食品添加剂杂志】 【15†中国食品添加剂和配料快报】 【16†FIC会刊】 【17†FIC论文集】 【18†食品添加剂手册】 【19†订购】 【20†广告发布】
+L19: 
+L20:   * 【21†展会专区】
+L21: 
+L22: 【22†FIC展】 【23†FIC健康展】 【24†出国参展】
+L23: 
+L24:   * 【25†法规标准】
+L25: 
+L26: 【26†法律】 【27†食品添加剂法规文件】 【28†新食品原料法规文件】 【29†其他法规文件】 【30†食品添加剂标准】 【31†法规标准动态】 【32†国内外食品安全网站】 【33†协会已发布的团体标准】
+L27: 
+L28:   * 【34†行业资讯】
+L29: 
+L30: 【35†行业动态】 【36†协会要闻】 【37†行业会议】 【38†科普园地】
+L31:   * 【39†企业产品大全】
+L32: 
+L33:   * 【40†相关注册流程】
+L34: 
+L35:   * 【2†ENGLISH】
+L36: 
+L37: 【2†Home】 【41†Organization】 【42†Activities】 【43†Food Ingredients China (FIC)】
+L38: 
+L39: 【44†Image: logo2024_04_10_11_48_20.png】  | 上海初显食品科技有限公司
+L40: Shanghai Truenitial Food Technology Co.,Ltd.  | 【45†Image】春季FIC参展商
+L41: 公司简介(Company Introduction)
+L42: 公司简介：上海初显食品科技总部位于上海，致力于整合全球优质食品资源，推动营养健康食品工业的发展。主要经营进口乳制品原料和功能性食品配料，服务的客户包括乳品饮料、保健食品、功能性食品、糖果巧克力、连锁餐饮等。 乳蛋白产品被广泛应用于运动营养、保健品、特医、固体饮料和液体饮料、蛋白棒、酸奶、高蛋白休闲零食及冰淇淋等领域，原料品质得到国内客户的一致认可。 我们的服务宗旨：甄选全球优质食品资源，提供令客户满意的服务。
+L43: 公司简介（英文）(Company Introduction)
+L44: Shanghai Truenitial food technology is mainly engaged in imported milk raw materials and functional food ingredients. Our customers include dairy drinks, health food, candy and chocolate, etc. We have experienced sales team and technical support. Shanghai Truenitial is committed to integrating global high-quality food resources to provide customers with the best service.
+L45: 具体产品(Products)
+L46: 中文名称 英文名称
+L47: 乳铁蛋白 Lactoferrin
+L48: 乳糖 Lactose
+L49: 乳铁蛋白 Lactoferrin
+L50: 全脂奶粉 Whole Milk Powder
+L51: 浓缩乳清蛋白WPC70 Whey Protein Concentrate 70
+L52: 分离乳清蛋白粉 isolate whey protein powder
+L53: 全脂奶粉乳粉 Whole Milk Powder
+L54: 浓缩牛奶蛋白MPC85 Milk Protein Concentrate 85
+L55: 乳清蛋白粉 whey protein powder
+L56: 氨基酸 Amino Acid
+L57: 矿物盐 Mineral Salt
+L58: 分离乳清蛋白粉 Whey Protein Isolate
+L59: 浓缩乳清蛋白WPC70 Whey Protein Concentrate
+L60: 无水奶油 Anhydrous milk fat
+L61: 乳铁蛋白 Lactoferrin
+L62: 浓缩乳清蛋白粉 Whey Protein Concentrate
+L63: 天然风味物 Natural Flavorings
+L64: 浓缩乳清蛋白WPC70 Whey Protein Concentrate 70
+L65: 浓缩乳清蛋白WPC80 Whey Protein Concentrate 80
+L66: 牛奶蛋白粉 milk protein powder
+L67: 膜分离酪蛋白 Micellar Casein
+L68: 浓缩乳清蛋白WPC80 Whey Protein Concentrate 80
+L69: 酪蛋白酸钠 Sodium Caseinate
+L70: 酪蛋白酸钠 Sodium Caseinate
+L71: 矿物盐 Mineral Salt
+L72: 分离乳清蛋白WPI90 Whey Protein Isolate
+L73: 天然风味物 Natural Flavorings
+L74: 浓缩乳清蛋白WPC80 Whey Protein Concentrate
+L75: 浓缩牛奶蛋白 Milk Protein Concentrate
+L76: 酪蛋白酸钠 Sodium Caseinate
+L77: 稀奶油 Cream
+L78: 氨基酸 Amino Acid
+L79: 氨基酸 Amino Acid
+L80: 浓缩牛奶蛋白MPC85 Milk Protein Concentrate
+L81: 稀奶油 Cream
+L82: 分离乳清蛋白WPI90 Whey Protein Isolate 90
+L83: 乳糖 Lactose
+L84: 脱脂奶粉 Skimmed Milk Powder
+L85: 分离乳清蛋白WPI90 Whey Protein Isolate 90
+L86: 浓缩牛奶蛋白MPC85 Milk Protein Concentrate 85
+L87: 乳糖 Lactose
+L88: 脱脂奶粉 Skim Milk Powder
+L89: 矿物盐 Mineral Salt
+L90: 分离乳清蛋白WPI90 Whey Protein Isolate 90
+L91: 乳糖 Lactose
+L92: 膜分离酪蛋白 Miceller Casein
+L93: 奶粉 milk powder
+L94: 乳糖 Lactose
+L95: 乳糖 lactose
+L96: 浓缩牛奶蛋白MPC85 Milk Protein Concentrate 85
+L97: 天然风味物 Natural Flavorings
+L98: 浓缩乳清蛋白WPC70 Whey Protein Concentrate 70
+L99: 无水奶油 Anhydrous Milk Fat
+L100: 浓缩牛奶蛋白MPC70 Milk Protein Concentrate
+L101: 浓缩乳清蛋白WPC80 Whey Protein Concentrate 80
+L102: 【3†Image】  | 北京市朝外大街甲6号万通中心C座1402室 邮编:100020 Copyright® 中国食品添加剂和配料协会  | TEL：010-59795833 FAX:010-59071335，59071336
+L103: 【46†京ICP备05043382号-1†beian.miit.gov.cn】
+

@@ -1,0 +1,1077 @@
+- link "跳至主要内容":
+  - /url: "#grok-content-area"
+- link "主页":
+  - /url: /
+- button "搜索":
+- button "切换侧边栏":
+  - generic: 切换侧边栏
+- list:
+  - link "聊天":
+    - /url: /
+    - generic: 聊天
+  - generic: ⌘J
+  - link "Imagine":
+    - /url: /imagine
+    - generic: Imagine
+  - link "照片库":
+    - /url: /library
+    - generic: 照片库
+  - link "自动化任务":
+    - /url: /automations
+    - generic: 自动化任务
+- button "机器人" [expanded]:
+  - generic: 机器人
+- button "新建 Bot":
+- list:
+  - list:
+    - generic: 已置顶
+    - link "主机器人 墨墨":
+      - /url: /bot/2e0f0871-61e6-4ca4-bb4f-c6e34ff04451
+      - img "主机器人":
+      - generic: 墨墨
+  - list:
+    - button "未分配" [expanded]:
+      - generic: 未分配
+    - link "乳清蛋白":
+      - /url: /bot/c3af77c1-9fdc-4818-918e-a5d7f6a7a70f
+      - generic: 乳清蛋白
+    - link "New Bot":
+      - /url: /bot/21219451-af48-4d90-93c7-d7a1bf7ae3dc
+      - generic: New Bot
+  - status
+  - button "展开":
+    - generic: 展开
+- button "聊天" [expanded]:
+  - generic: 聊天
+- list:
+  - link "乳清蛋白2":
+    - /url: /c/ca80a9ae-e718-440c-9810-f4e777dcc833
+    - generic: 乳清蛋白2
+  - link "整理Downloads文件夹文件归档":
+    - /url: /c/bd4a53ea-7151-41b0-8a97-95fb134f5565
+    - generic: 整理Downloads文件夹文件归档
+  - link "安装 Cursor":
+    - /url: /c/fb556896-18b3-4599-83d8-e3f73321e2c9
+    - generic: 安装 Cursor
+  - link "压缩文档保持清晰度":
+    - /url: /c/76cc1ed0-2dd8-4574-859d-10c81c6d4836
+    - generic: 压缩文档保持清晰度
+  - button "查看全部"
+- button "项目" [expanded]:
+  - generic: 项目
+- button "所有项目":
+- button "添加项目":
+- list:
+  - button "法治头条":
+    - generic: 法治头条
+  - button "呼和浩特移动整理":
+    - generic: 呼和浩特移动整理
+  - button "线上运营方法论包头联通版":
+    - generic: 线上运营方法论包头联通版
+  - button "鄂尔多斯外贸出海":
+    - generic: 鄂尔多斯外贸出海
+  - button "鼎拓智联合作":
+    - generic: 鼎拓智联合作
+  - button "更多":
+    - generic: 更多
+- list:
+  - button "插件":
+    - generic: 插件
+- button "账户菜单，鹏越 邢":
+  - generic: 鹏越 邢
+- main:
+  - heading "乳清蛋白" [level=1]
+  - navigation "顶部导航":
+    - button "乳清蛋白":
+      - generic: 乳清蛋白
+    - button "添加机器人":
+    - button "显示计算机":
+    - button "更多":
+  - region "对话":
+    - paragraph: 好，我接着补缺口：先在我电脑的浏览器里查拼多多和抖音的价格，同时去找关税税率。浏览器这部分要几分钟。
+    - button "对消息做出反应":
+    - button "回复消息":
+    - button "更多消息操作":
+    - paragraph: 两边都在查了，查到的内容会补进同一个 Page，弄好告诉你。
+    - button "对消息做出反应":
+    - button "回复消息":
+    - button "更多消息操作":
+    - paragraph: 拼多多和抖音一搜索就要求登录，所以还没拿到价格。麻烦你在我电脑的浏览器里用手机 App 扫码登录拼多多，登录好点“交还”，我接着去抖音、开始抓价格。
+    - button "对消息做出反应":
+    - button "回复消息":
+    - button "更多消息操作":
+    - generic: 电脑
+    - status: 完成
+    - generic: 用拼多多 App 扫码登录，完成后交还
+    - button "打开计算机":
+      - generic: 打开计算机
+    - button "对消息做出反应":
+    - button "回复消息":
+    - button "更多消息操作":
+    - paragraph: 谢谢！我正在用登录好的拼多多抓 6 款产品的价格和销量，抓完再看抖音怎么处理。
+    - button "对消息做出反应":
+    - button "回复消息":
+    - button "更多消息操作":
+    - paragraph: 拼多多的登录没保存下来，一搜索又跳回了登录页，所以 6 款的价格还是没拿到。刚才交还时我电脑上的浏览器已经关了，扫码可能没完成，或者完成后登录状态没留住。
+    - button "对消息做出反应":
+    - button "回复消息":
+    - button "更多消息操作":
+    - generic: 拼多多接下来怎么办？
+    - button "忽略问题":
+    - button "我再扫一次码，扫完等页面跳转再交还":
+      - generic: A
+      - generic: 我再扫一次码，扫完等页面跳转再交还
+    - button "跳过拼多多，等关税那部分查完一起更新":
+      - generic: B
+      - generic: 跳过拼多多，等关税那部分查完一起更新
+    - button "对消息做出反应":
+    - button "回复消息":
+    - button "更多消息操作":
+    - paragraph:
+      - text: 关税和进口数据都补进
+      - link "乳清蛋白市场研究 Page":
+        - /url: https://cursor.com/canvas/store-5bcc2bef-60c7-4f91-9351-8d8a094608d5/a4992b34-e069-44a8-a869-9be2da20be30
+        - text: 乳清蛋白市场研究 Page
+      - text: 了，还加了一张税率表。
+    - list:
+      - strong: 关税
+      - text: ：乳清（04041000）2026 年的暂定税率是 2%，最惠国税率是 6%。蛋白含量 80% 以上的乳清蛋白粉，暂定税率 5%，最惠国税率 10%。从新西兰、澳大利亚进口按双边协定是 0%。
+      - strong: 反补贴
+      - text: ：商务部对欧盟乳制品的终裁税率是 7.4%–11.7%，2026 年 2 月 13 日起征收。征税范围是鲜乳酪、凝乳等，不包括乳清粉，看起来对乳清原料没有影响。
+      - strong: 蛋白类进口
+      - text: ：2026 年 1–8 月进口 3.87 万吨，增长 6.3%；进口额 6.47 亿美元，增长 26%。主要来自新西兰和欧盟，美国只占 12%，这和普通乳清以美国为主不一样。
+      - strong: 品牌份额
+      - text: ：Swisse 在 2026 年电商份额大约 3%，Myprotein 大约 3.5%。
+      - strong: 原料价格
+      - text: ：最近两周 WPC80 在 9 到 10 美元多一磅，同比仍然上涨大约 88%。
+    - paragraph: 还有三处没完全确认：反补贴各家公司的具体税率、协定税率表是不是 2026 年版、一篇 4 月的价格文章找不到原文链接，页面上都已注明。拼多多那边，等你决定要不要再扫一次码。
+    - region "乳清蛋白市场研究：营养标准、价格带与监管（2026-10）":
+      - generic: 乳清蛋白市场研究：营养标准、价格带与监管（2026-10）
+      - generic: 下方有较新版本
+      - button "打开 乳清蛋白市场研究：营养标准、价格带与监管（2026-10）"
+    - button "对消息做出反应":
+    - button "回复消息":
+    - button "更多消息操作":
+    - button "对消息做出反应":
+    - button "回复消息":
+    - button "更多消息操作":
+    - article "你":
+      - paragraph: 继续深度调研完善，从我不知道没提及的角度进行
+    - paragraph: 好，这次换几个前面没碰过的角度：消费人群和场景、新品类和成分趋势（植物蛋白、胶原蛋白、即饮蛋白）、质量抽检和假货、渠道和代工供应链、海外市场对标。查完补进同一个 Page。拼多多先跳过。
+    - button "对消息做出反应":
+    - button "回复消息":
+    - button "更多消息操作":
+    - paragraph: 已经开始查了，最后会整理出风险和机会的结论，弄好就发你。
+    - button "对消息做出反应":
+    - button "回复消息":
+    - button "更多消息操作":
+    - paragraph:
+      - link "乳清蛋白市场研究 Page":
+        - /url: https://cursor.com/canvas/store-5bcc2bef-60c7-4f91-9351-8d8a094608d5/a4992b34-e069-44a8-a869-9be2da20be30
+        - text: 乳清蛋白市场研究 Page
+      - text: 里新加了 6 个章节：消费人群与场景、品类与成分趋势、质量与信任、供应链、海外对标、风险与机会，每个数字都标了来源。
+    - paragraph: 几条你可能还不知道的：
+    - list:
+      - strong: GLP-1 减重药带来新需求。
+      - text: 有企业估算，全球服药人群已经超过 5000 万，新增的蛋白需求大约占全球乳清供给的 15%。国内也有人因为服药后吃不下饭，改喝蛋白粉。
+      - strong: 蛋白水增长很快。
+      - text: 线上月销售额两年里从 257 万元涨到 1782 万元，伊利、蒙牛今年 5 月都推出了蛋白水。日本的情况可以参考：乳企明治的 SAVAS 占了蛋白饮料市场大约 80%。
+      - strong: 蛋白粉有三种身份。
+      - text: 它可以按普通固体饮料、特殊膳食食品或蓝帽子保健食品上市。特膳不需要注册，所以轻资产品牌常用这条路。抽检不合格的产品多来自小厂代工，渠道集中在抖音、拼多多和快手。
+      - strong: 原料几乎全靠进口。
+      - text: 乳清蛋白粉进口依赖度超过 90%，因为国内奶酪产量太小，做奶酪剩下的乳清不够用。原料涨价已经影响到利润，康比特 2025 年净利润下降了 56%。
+    - paragraph: 植物蛋白份额、儿童和孕妇蛋白的市场规模、假货的官方统计这几项暂时没找到可靠数据，页面上已经注明。
+    - region "乳清蛋白市场研究：营养标准、价格带与监管（2026-10）":
+      - iframe:
+        - heading "乳清蛋白市场研究：营养标准、价格带与监管（2026-10）" [level=1]
+        - paragraph: 京东16款蛋白粉按“每100g蛋白质价格”比较（2026-10-22登录后抓取的到手/补贴价），并汇总国标、淘宝价格、监管与抽检情况。
+        - navigation "On this page":
+          - paragraph: On this page
+          - link "关键结论":
+            - /url: "#关键结论"
+          - link "京东价格表":
+            - /url: "#京东价格表"
+          - link "每100g蛋白质价格":
+            - /url: "#每100g蛋白质价格"
+          - link "需单列的产品":
+            - /url: "#需单列的产品"
+          - link "淘宝/天猫参考价":
+            - /url: "#淘宝-天猫参考价"
+          - link "多平台价格补充":
+            - /url: "#多平台价格补充"
+          - link "销量与评价":
+            - /url: "#销量与评价"
+          - link "原料成本与进口":
+            - /url: "#原料成本与进口"
+          - link "品牌竞争格局":
+            - /url: "#品牌竞争格局"
+          - link "消费人群与场景":
+            - /url: "#消费人群与场景"
+          - link "品类与成分趋势":
+            - /url: "#品类与成分趋势"
+          - link "质量与信任":
+            - /url: "#质量与信任"
+          - button "Show all 18"
+        - heading "关键结论" [level=2]
+        - list:
+          - generic: 最便宜：#1 诺特兰德450g，约¥21.9/100g蛋白；大桶里#15 Myprotein 2.5kg约¥34.1，最划算。
+          - generic: 运动乳清里最贵：#8 肌肉科技分离750g，约¥68.3（分离蛋白溢价加小规格）；其次是#16 Dymatize 5磅，约¥55.7。
+          - generic: ON金标5磅（海外自营¥799）约¥44.6，属于中档；国产大桶（#9、#12）约¥38，比进口大牌便宜大约15%。
+          - generic: "#10 汤臣倍健蓝帽约¥136.9，是运动乳清的2–6倍。它的定价按保健食品走，蛋白值只来自营销宣称。"
+          - generic: 价格带划分：低于¥40为低档，¥40–55为中档，高于¥55为高档（每100g蛋白质）。
+        - paragraph: 计算公式：¥/100g蛋白 = 价格 ÷（净重g × 蛋白g/100g ÷ 100）× 100，1磅按453.6g计。标“推算”的由每份数据换算，或来自营销宣称；标“缺”的没有营养表。
+        - heading "京东价格表" [level=2]
+        - button "按¥/100g蛋白" [pressed]:
+          - generic: 按¥/100g蛋白
+        - button "按价格":
+          - generic: 按价格
+        - button "按蛋白%":
+          - generic: 按蛋白%
+        - generic: 类型
+        - combobox "类型":
+          - option "全部" [selected]
+          - option "乳清"
+          - option "增肌粉"
+          - option "复合蛋白"
+          - option "分离WPI"
+          - option "蓝帽保健食品"
+          - option "乳清（分离为主）"
+        - switch "隐藏增肌粉/蓝帽"
+        - generic: 隐藏增肌粉/蓝帽
+        - paragraph: 价格为2026-10-22京东详情页登录后显示的到手/补贴价
+        - generic: "#"
+        - generic: 品牌
+        - generic: 产品
+        - generic: 类型
+        - generic: 净重
+        - generic: 价格
+        - generic: 蛋白%
+        - generic: ¥/100g蛋白
+        - generic: 价格带
+        - generic: 渠道
+        - generic: 链接
+        - generic: "1"
+        - generic: 诺特兰德
+        - generic: 乳清蛋白粉 450g（蛋白值取自巧克力味营养表，口味可能与所选SKU不一致）
+        - generic: 乳清
+        - generic: 450g
+        - generic: ¥72
+        - generic: "73"
+        - generic: ¥21.9
+        - generic: 低
+        - generic: 自营
+        - link "https://item.jd.com/100306071203.html":
+          - /url: https://item.jd.com/100306071203.html
+        - generic: "15"
+        - generic: Myprotein
+        - generic: 乳清 2.5kg
+        - generic: 乳清
+        - generic: 2500g
+        - generic: ¥639
+        - generic: "75"
+        - generic: ¥34.1
+        - generic: 低
+        - generic: 海外旗舰
+        - link "https://item.jd.com/69246215076.html":
+          - /url: https://item.jd.com/69246215076.html
+        - generic: "7"
+        - generic: 京东京造
+        - generic: 快充Pro 3磅
+        - generic: 乳清
+        - generic: 1360g
+        - generic: ¥369.7
+        - generic: "75"
+        - generic: ¥36.2
+        - generic: 低
+        - generic: 自营
+        - link "https://item.jd.com/100348482706.html":
+          - /url: https://item.jd.com/100348482706.html
+        - generic: "12"
+        - generic: 诺特兰德
+        - generic: 红桶乳清 2270g
+        - generic: 乳清
+        - generic: 2270g
+        - generic: ¥640
+        - generic: "75"
+        - generic: ¥37.6
+        - generic: 低
+        - generic: 自营
+        - link "https://item.jd.com/100413746756.html":
+          - /url: https://item.jd.com/100413746756.html
+        - generic: "9"
+        - generic: 诺特兰德
+        - generic: 分离乳清 1.8kg
+        - generic: 分离WPI
+        - generic: 1800g
+        - generic: ¥548
+        - generic: "80.2"
+        - generic: ¥38.0
+        - generic: 低
+        - generic: 自营
+        - link "https://item.jd.com/100125687925.html":
+          - /url: https://item.jd.com/100125687925.html
+        - generic: "13"
+        - generic: 肌肉科技
+        - generic: 白金乳清 5磅
+        - generic: 乳清
+        - generic: 2270g
+        - generic: ¥708
+        - generic: "77.4"
+        - generic: ¥40.3
+        - generic: 中
+        - generic: 官方旗舰
+        - link "https://item.jd.com/10095865951067.html":
+          - /url: https://item.jd.com/10095865951067.html
+        - generic: "11"
+        - generic: BSN
+        - generic: Syntha-6 5磅（按每份数据推算；口味可能与SKU不一致）
+        - generic: 复合蛋白
+        - generic: 2268g
+        - generic: ¥433.2
+        - generic: 46.8（推算）
+        - generic: ¥40.8（推算）
+        - generic: 中
+        - generic: 海外旗舰
+        - link "https://item.jd.com/10227422757430.html":
+          - /url: https://item.jd.com/10227422757430.html
+        - generic: "5"
+        - generic: Myprotein
+        - generic: 熊猫乳清 1kg
+        - generic: 乳清
+        - generic: 1000g
+        - generic: ¥315
+        - generic: "75"
+        - generic: ¥42.0
+        - generic: 中
+        - generic: 海外旗舰
+        - link "https://item.jd.com/10234512501776.html":
+          - /url: https://item.jd.com/10234512501776.html
+        - generic: "14"
+        - generic: "ON"
+        - generic: 金标乳清 5磅
+        - generic: 乳清（分离为主）
+        - generic: 2270g
+        - generic: ¥799
+        - generic: "79"
+        - generic: ¥44.6
+        - generic: 中
+        - generic: 海外自营
+        - link "https://item.jd.com/2372749.html":
+          - /url: https://item.jd.com/2372749.html
+        - generic: "4"
+        - generic: 康比特
+        - generic: 炽金标 900g
+        - generic: 乳清
+        - generic: 900g
+        - generic: ¥335
+        - generic: "76"
+        - generic: ¥49.0
+        - generic: 中
+        - generic: 自营
+        - link "https://item.jd.com/100052920696.html":
+          - /url: https://item.jd.com/100052920696.html
+        - generic: "6"
+        - generic: BSN
+        - generic: Syntha-6 2.91磅（按每份47g含22g蛋白推算；口味可能与SKU不一致）
+        - generic: 复合蛋白
+        - generic: 1320g
+        - generic: ¥306
+        - generic: 46.8（推算）
+        - generic: ¥49.5（推算）
+        - generic: 中
+        - generic: 海外旗舰
+        - link "https://item.jd.com/10227422757427.html":
+          - /url: https://item.jd.com/10227422757427.html
+        - generic: "2"
+        - generic: 肌肉科技
+        - generic: 白金增肌粉 3磅（增肌粉（28g/100g），不与乳清直接比较）
+        - generic: 增肌粉
+        - generic: 1360g
+        - generic: ¥198.9
+        - generic: "28"
+        - generic: ¥52.2
+        - generic: 单列
+        - generic: 非自营
+        - link "https://item.jd.com/10102437846712.html":
+          - /url: https://item.jd.com/10102437846712.html
+        - generic: "16"
+        - generic: Dymatize
+        - generic: 乳清 5磅（口味可能与SKU不一致）
+        - generic: 乳清
+        - generic: 2300g
+        - generic: ¥884
+        - generic: "69"
+        - generic: ¥55.7
+        - generic: 高
+        - generic: 海外旗舰
+        - link "https://item.jd.com/10211421913468.html":
+          - /url: https://item.jd.com/10211421913468.html
+        - generic: "8"
+        - generic: 肌肉科技
+        - generic: 分离乳清 750g
+        - generic: 分离WPI
+        - generic: 750g
+        - generic: ¥435.1
+        - generic: "85"
+        - generic: ¥68.3
+        - generic: 高
+        - generic: 自营
+        - link "https://item.jd.com/100363983242.html":
+          - /url: https://item.jd.com/100363983242.html
+        - generic: "10"
+        - generic: 汤臣倍健
+        - generic: 蓝罐蛋白粉 400g（蓝帽保健食品；86%仅来自营销宣称）
+        - generic: 蓝帽保健食品
+        - generic: 400g
+        - generic: ¥471.05
+        - generic: 86（推算）
+        - generic: ¥136.9（推算）
+        - generic: 单列
+        - generic: 自营
+        - link "https://item.jd.com/100391980088.html":
+          - /url: https://item.jd.com/100391980088.html
+        - generic: "3"
+        - generic: 京东京造
+        - generic: 100%乳清 600g
+        - generic: 乳清
+        - generic: 600g
+        - generic: ¥254
+        - generic: 缺
+        - generic: 缺
+        - generic: 缺
+        - generic: 自营
+        - link "https://item.jd.com/100020924355.html":
+          - /url: https://item.jd.com/100020924355.html
+        - heading "每100g蛋白质价格" [level=2]
+        - generic: "#8 肌肉科技 分离乳清 750g"
+        - generic "¥68.3"
+        - generic: "#16 Dymatize 乳清 5磅"
+        - generic "¥55.7"
+        - generic: "#6 BSN Syntha-6 2.91磅"
+        - generic "¥49.5（推算）"
+        - generic: "#4 康比特 炽金标 900g"
+        - generic "¥49.0"
+        - generic: "#14 ON 金标乳清 5磅"
+        - generic "¥44.6"
+        - generic: "#5 Myprotein 熊猫乳清 1kg"
+        - generic "¥42.0"
+        - generic: "#11 BSN Syntha-6 5磅"
+        - generic "¥40.8（推算）"
+        - generic: "#13 肌肉科技 白金乳清 5磅"
+        - generic "¥40.3"
+        - generic: "#9 诺特兰德 分离乳清 1.8kg"
+        - generic "¥38.0"
+        - generic: "#12 诺特兰德 红桶乳清 2270g"
+        - generic "¥37.6"
+        - generic: "#7 京东京造 快充Pro 3磅"
+        - generic "¥36.2"
+        - generic: "#15 Myprotein 乳清 2.5kg"
+        - generic "¥34.1"
+        - generic: "#1 诺特兰德 乳清蛋白粉 450g"
+        - generic "¥21.9"
+        - paragraph: 只含运动乳清和复合蛋白；增肌粉、蓝帽产品单列；#3 缺蛋白数据未列
+        - heading "需单列的产品" [level=2]
+        - generic "#2"
+        - paragraph: 肌肉科技 白金增肌粉 3磅
+        - paragraph: 增肌粉（28g/100g），不与乳清直接比较
+        - generic: ¥52.2/100g蛋白
+        - generic "#10"
+        - paragraph: 汤臣倍健 蓝罐蛋白粉 400g
+        - paragraph: 蓝帽保健食品；86%仅来自营销宣称
+        - generic: ¥136.9/100g蛋白
+        - paragraph: "#2 是增肌粉，碳水比例高，每100g蛋白价格不能和乳清横比。#10 是蓝帽保健食品，蛋白值只来自营销宣称。#1、#6、#11、#16 的营养表口味可能和所选SKU不一致。"
+        - heading "淘宝/天猫参考价" [level=2]
+        - generic: 产品
+        - generic: 规格
+        - generic: 价格
+        - generic: 说明
+        - generic: ON金标乳清 5.5磅
+        - generic: 约2.49kg
+        - generic: ¥385
+        - text: 按79%推算约¥19.5/100g蛋白，
+        - link "https://www.taobao.com/list/item/L0xiNDY3RE80ZCtic0RGUndhL0ZBUT09.htm":
+          - /url: https://www.taobao.com/list/item/L0xiNDY3RE80ZCtic0RGUndhL0ZBUT09.htm
+        - generic: ON金标乳清 5磅（多个卖家）
+        - generic: 2.27kg
+        - generic: ¥578–1,068
+        - generic: 约¥32–60/100g蛋白，渠道价差大
+        - generic: ON金标分离（国产4磅SKU）
+        - generic: 4磅
+        - generic: ¥1,129
+        - link "https://www.taobao.com/list/item/N1JxeDZlbUVxQWkxMGliaHpQeG1LQT09.htm":
+          - /url: https://www.taobao.com/list/item/N1JxeDZlbUVxQWkxMGliaHpQeG1LQT09.htm
+        - generic: 汤臣倍健营养双蛋白 450g
+        - generic: 450g
+        - generic: ¥246
+        - link "https://www.taobao.com/list/item/a1libkRkK3RZVzI3UlFMbVNTSFFBUT09.htm":
+          - /url: https://www.taobao.com/list/item/a1libkRkK3RZVzI3UlFMbVNTSFFBUT09.htm
+        - generic: 康比特各款
+        - generic: 未标
+        - generic: ¥29.9–1,999
+        - link "https://www.taobao.com/list/product/%E5%BA%B7%E6%AF%94%E7%89%B9%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD%E7%B2%89.htm":
+          - /url: https://www.taobao.com/list/product/%E5%BA%B7%E6%AF%94%E7%89%B9%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD%E7%B2%89.htm
+        - generic: 诺特兰德各款
+        - generic: 未标/5磅
+        - generic: ¥33.9–289
+        - generic: 多为增肌粉/营养粉
+        - paragraph: 2026-10-22用Bright Data抓取的公开列表价，是SKU显示价，不等于单罐到手价
+        - heading "多平台价格补充" [level=2]
+        - generic: 平台
+        - generic: 价格
+        - generic: ¥/100g蛋白
+        - generic: 状态与来源
+        - generic: 京东（海外自营）
+        - generic: ¥799
+        - generic: ¥44.6
+        - generic: 见上方京东价格表（2026-10-22）
+        - generic: 淘宝/天猫（最低价卖家）
+        - generic: ¥578
+        - generic: ¥32.2
+        - link "https://www.taobao.com/list/product/%E9%87%91%E6%A0%87%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD5%E7%A3%85.htm":
+          - /url: https://www.taobao.com/list/product/%E9%87%91%E6%A0%87%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD5%E7%A3%85.htm
+        - generic: 淘宝/天猫（中位约¥908，共3家）
+        - generic: ¥908
+        - generic: ¥50.6
+        - generic: 同上；共16个报价，在¥578–2,000之间，店铺评分4.7–5.0
+        - generic: 淘宝 ON分离/ISO 5磅
+        - generic: ¥950–1,169
+        - generic: 未取得（分离款蛋白%未核实）
+        - generic: 同上
+        - generic: 拼多多
+        - generic: 未取得
+        - generic: 未取得
+        - generic: Bright Data返回bad_endpoint（robots/KYC限制）。什么值得买有一条“拼多多387元”的帖子，日期和规格都未核实，所以没有采用
+        - generic: 抖音商城
+        - generic: 未取得
+        - generic: 未取得
+        - generic: 商品页要登录或在App内打开，没有公开网页可以抓取
+        - generic: 天猫国际旗舰店
+        - generic: 未取得
+        - generic: 未取得
+        - generic: 批量抓取超时，只拿到淘宝列表页的聚合价
+        - paragraph: 同款对比：ON金标乳清5磅（2270g，按京东详情页蛋白79%计算）。抓取于2026-10-23
+        - paragraph: 淘宝同款报价最低和最高相差3倍以上，有的是多罐装或组合SKU，有的是普通单罐。所以列表价只能当价格区间参考，不能当作单罐到手价。
+        - heading "销量与评价" [level=2]
+        - generic: 商品
+        - generic: 列表价
+        - generic: 店铺评分
+        - generic: 正面标签（次数）
+        - generic: 负面/风险点
+        - generic: MuscleTech 白金乳清（旗舰店）
+        - generic: ¥1,299
+        - generic: "4.8"
+        - generic: 效果明显116，椰子味36，增肌效果明显10
+        - generic: 不刷杯会有异味（问大家）
+        - generic: 健乐多 重肌能增肌粉
+        - generic: ¥996
+        - generic: "4.9"
+        - generic: 问题顺利解决65，增肌效果明显43
+        - generic: 口感偏浓，冲多了会腻
+        - generic: 汤臣倍健 蛋白粉（天猫超市）
+        - generic: ¥953
+        - generic: "4.9"
+        - generic: 免疫力提高83，非常有成效43，增强抵抗力21
+        - generic: 有人说比其他平台贵；有“退差价”标签5次
+        - generic: Swisse 乳清蛋白粉（天猫超市）
+        - generic: ¥888
+        - generic: "4.9"
+        - generic: 效果非常棒6，闻起来很香3
+        - generic: 乳糖不耐受者腹泻；有失眠反馈；包装较差；不送勺子/杯子
+        - generic: 康比特 增肌粉（旗舰店）
+        - generic: ¥999
+        - generic: "4.8"
+        - generic: 增肌效果棒92，没有副作用19
+        - generic: “外观仿的很真”216次（可能是标签误判）；买家分不清增肌粉和蛋白粉
+        - paragraph: 来源：淘宝“乳清蛋白粉”口碑榜，2026-10-23抓取。括号里是标签提及次数，页面展示的评价多是2021年的
+        - list:
+          - generic: 共同的好评点：效果（增肌或免疫力）、口味、物流快和天猫超市送货上门、正品可以扫码验证。
+          - generic: 共同的差评点：价格波动和退差价、乳糖不耐受、赠品和勺子不一致、担心买到假货。
+          - generic: 月销量、评论总数、好评率都未取得：淘宝列表页不显示销量；京东评论接口club.jd.com返回“活动太火爆”被拦；拼多多和抖音无法抓取。
+        - heading "原料成本与进口" [level=2]
+        - generic: 时间
+        - generic: WPC80（美国，$/磅）
+        - generic: WPI（美国，$/磅）
+        - generic: 来源
+        - generic: 2025-10
+        - generic: 5.80（速溶）
+        - generic: 约10.50（2025年末）
+        - generic: vespertool.com，2026-04-15
+        - generic: 2026-02-11
+        - generic: 8.50（速溶）
+        - generic: 12.30（速溶）
+        - generic: Vesper，2026-02-11（美国指数，按EXW换算）
+        - generic: 2026年Q1
+        - generic: "10.50"
+        - generic: "12.75"
+        - generic: vespertool.com，2026-04-15（具体文章页未找到）
+        - generic: 2026-06-30
+        - generic: 12美元多到13
+        - generic: 未取得
+        - generic: rfdtv.com
+        - generic: 2026-07-17
+        - generic: 12.50–13.00
+        - generic: 未取得
+        - generic: USDA AMS，经clal.it转载
+        - generic: 2026-08-14
+        - generic: 12–13
+        - generic: 未取得
+        - generic: USDA AMS，经clal.it转载
+        - generic: 2026-10-05至09
+        - generic: 9美元中段到10美元多
+        - generic: 14美元多
+        - generic: USDA AMS ams_1053（CLAL转载）
+        - generic: 2026-10-12至16
+        - generic: 多数在9美元多（速溶9–11）
+        - generic: 多数在14美元多
+        - generic: USDA AMS ams_1053 / ams_1054
+        - generic: 2026-10-19至23
+        - generic: 9美元多到10美元多（需求偏弱）
+        - generic: 13美元多到14美元多
+        - generic: USDA AMS ams_1053
+        - paragraph: 海关数据经乳业资讯网站转载；美国价格为USDA AMS报价
+        - generic: 2025年 乳清进口均价
+        - generic "$1,283/吨（+4.6%）"
+        - generic: 2026年1–8月 乳清进口均价
+        - generic "$1,483/吨（+18.3%）"
+        - generic: 2026年8月 乳清进口均价
+        - generic "$1,641/吨（+31.5%）"
+        - generic: 指标
+        - generic: 2025全年
+        - generic: 2026年1–8月
+        - generic: 乳清进口量
+        - generic: 73.27万吨（+10.8%）
+        - generic: 43.26万吨（-9.3%）
+        - generic: 乳清进口额
+        - generic: 9.4亿美元（+15.9%）
+        - generic: 6.42亿美元（+7.3%）
+        - generic: 来源：美国
+        - generic: 31.33万吨（42.8%）
+        - generic: 20.12万吨（46.5%）
+        - generic: 来源：欧盟
+        - generic: 23.65万吨（32.3%）
+        - generic: 12.55万吨（29%）
+        - generic: 来源：白俄罗斯
+        - generic: 6.6万吨（9%）
+        - generic: 4.48万吨（10.4%）
+        - generic: “蛋白类”进口（含WPC/WPI等）
+        - generic: 5.34万吨（-7.2%），7.77亿美元，$14,546/吨（+28.4%）；欧盟40.9%、新西兰35.4%、美国17.8%
+        - generic: 3.87万吨（+6.3%），6.47亿美元（+26.3%），$16,726/吨（+18.8%）；新西兰41.6%、欧盟39.8%、美国12.3%、澳大利亚3.8%。8月当月4.8千吨（+7.1%）。来源：易乳网 2026-09-21；对外经济贸易大学《中国乳品贸易月度监测报告》2026-10
+        - generic: 税目/措施
+        - generic: 税率
+        - generic: 来源与说明
+        - generic: 04041000 乳清及改性乳清：2026年最惠国税率
+        - generic: 6%
+        - generic: 财政部《2026年进口商品暂定税率表》第18行（2025-12-29）
+        - generic: 04041000：2026年暂定税率
+        - generic: 2%
+        - generic: 同上。暂定税率低于最惠国税率，按低的征收
+        - generic: ex 35022000 乳清蛋白粉（干基蛋白>80%）
+        - generic: 最惠国10%，暂定5%
+        - generic: 同上表第321行
+        - generic: 04041000：中国-新西兰自贸协定
+        - generic: 0%
+        - generic: 财政部《自由贸易协定和优惠贸易安排实施税率表》第462行。网址所在目录是202412，是否就是2026年版未核实
+        - generic: 04041000：中国-澳大利亚自贸协定
+        - generic: 0%
+        - generic: 同上
+        - generic: 04041000：RCEP（澳大利亚/新西兰/韩国/东盟）
+        - generic: 3.6%（日本4.5%）
+        - generic: 同上。RCEP税率比双边协定高，也比暂定税率2%高
+        - generic: 04041000：其他协定
+        - generic: 东盟/智利/秘鲁/冰岛等0%；韩国（双边）1.6%；巴基斯坦5%
+        - generic: 同上
+        - generic: 欧盟乳制品反补贴：初裁（2025-12-23起收保证金）
+        - generic: 21.9%–42.7%
+        - generic: 商务部公告2025年第83号；中国经济网 2025-12-23
+        - generic: 欧盟乳制品反补贴：终裁（2026-02-13起，期限5年）
+        - generic: 7.4%–11.7%
+        - generic: 商务部公告2026年第9号；新华网 2026-02-12。涉及的是鲜乳酪（含乳清乳酪）、凝乳等，没有说包括04041000乳清粉。各公司具体税率在公告附件里，未取得
+        - list:
+          - generic: 跨境零售进口的乳清蛋白粉常按35022000归类，见下方监管部分。
+          - generic: 欧盟WPC80现货（2026-07-17，wpc80bulk.eu）：普通款€25.58/kg，速溶款€30.14/kg。这是小批量报价，不是大宗价。
+        - heading "品牌竞争格局" [level=2]
+        - generic: 康比特（国产）
+        - generic "13.4%"
+        - generic: 汤臣倍健（国产）
+        - generic "12.9%"
+        - generic: ON（进口）
+        - generic "7.1%"
+        - paragraph: 市场份额来自营养品观察/博观研究院，经食品网转载（inewfood.com，2026-09-22）
+        - generic: 品牌
+        - generic: 阵营
+        - generic: 价格带（淘宝/京东观察）
+        - generic: 主要渠道
+        - generic: 目标人群
+        - generic: 份额/增速
+        - generic: 康比特
+        - generic: 国产
+        - generic: ¥139.9–1,999
+        - generic: 天猫/京东旗舰店
+        - generic: 健身、增肌、偏瘦人群
+        - generic: 乳清CR3第一（13.4%，2024）；电商蛋白10%，增速+34.7%
+        - generic: 汤臣倍健
+        - generic: 国产
+        - generic: ¥246（450g）–¥953
+        - generic: 天猫超市、药店、礼盒
+        - generic: 中老年人、注重免疫力的人
+        - generic: 电商蛋白16%，但-17.1%
+        - generic: ON 金标
+        - generic: 进口
+        - generic: ¥578–1,068/5磅
+        - generic: 京东海外自营、跨境电商
+        - generic: 健身人群
+        - generic: 电商蛋白6%，+65.9%
+        - generic: MuscleTech（西王）
+        - generic: 进口品牌、国内控股
+        - generic: ¥1,299
+        - generic: 旗舰店
+        - generic: 健身人群
+        - generic: 份额从31.8%（2022）降到18.7%（2024），电商-24.8%
+        - generic: 诺特兰德
+        - generic: 国产
+        - generic: ¥33.9–289
+        - generic: 抖音达人分销（直播占抖音销售80%以上）
+        - generic: 大众、价格敏感人群
+        - generic: 运动营养CR3之一；营收2022年超过40亿元（新浪/腾讯报道）
+        - generic: Swisse
+        - generic: 进口
+        - generic: ¥888–1,299
+        - generic: 天猫超市
+        - generic: 中老年人、送礼
+        - generic: 乳清蛋白电商份额：2024年6.2%，2025年1–4月8.3%（久谦中台/华源证券）；2026年蛋白粉电商份额3%（博观研究院）
+        - generic: Myprotein
+        - generic: 进口
+        - generic: 京东¥639/2.5kg
+        - generic: 跨境电商
+        - generic: 健身人群、注重性价比的人
+        - generic: 乳清蛋白电商份额：2024年4.4%，2025年1–4月3.1%（久谦中台/华源证券）；2026年蛋白粉电商份额3.5%（博观研究院）
+        - list:
+          - generic: 2025年中国运动营养市场约68亿元（+7.2%），蛋白粉占62%，约42.16亿元；2024年乳清占蛋白粉的70.4%，约20亿元。
+          - generic: 进口品牌份额从2020年的40%降到2024年的30%；运动营养CR5为57.4%。
+          - generic: 渠道：线上占65%；京东占蛋白电商29%；抖音增速+46.4%，天猫+50.5%。
+          - generic: 50岁以上购买者占比从10.9%升到31.5%；67.3%的商品宣称“免疫力”，30.6%宣称“增肌”。
+        - heading "消费人群与场景" [level=2]
+        - generic: 人群/场景
+        - generic: 数据或事实
+        - generic: 来源（日期）
+        - generic: GLP-1 减重药使用者
+        - generic: 全球超5000万用药人群，新增需求约占全球乳清供给15%（企业负责人估算）；国内用户因食欲下降改用蛋白粉补充
+        - generic: 新京报 2026；中国新闻周刊 2026-06-02
+        - generic: GLP-1 蛋白摄入建议
+        - generic: ≥1.2 g/kg 实际体重/天，规律运动者 1.4–2.0 g/kg，并需配合抗阻训练
+        - generic: Curr Dev Nutr 综述 PMC11609469（2024）
+        - generic: 国内临床验证
+        - generic: 中科院试验：司美格鲁肽+每日30g蛋白补充，共120名受试者，2026-12-31完成，结果未公布
+        - generic: ClinicalTrials NCT06989203
+        - generic: 50岁以上中老年
+        - generic: 在蛋白粉消费中占比从10.9%升至31.5%；65岁以上推荐摄入比成年人多7g/天
+        - generic: 什么值得买转引界面 2026；中国新闻周刊 2026-06-02
+        - generic: 女性
+        - generic: 山姆渠道蛋白饮的女性用户比例高于男性（定性描述，无具体比例）
+        - generic: 21财经/经济观察报 2026-07-13
+        - generic: 居民摄入基数
+        - generic: 中国人均蛋白摄入60.4g/天，美国93.9g；乳制品贡献的蛋白：中国2%，美国19%，欧洲24%，日本7%
+        - generic: 21财经 2026-07-13（转引卫健委2020报告及企业调研）
+        - generic: 术后与消化弱人群
+        - generic: 营养学者认为蛋白粉更适合术后患者、牙口差或消化能力下降者；普通健身者每天多补10–12g即可
+        - generic: 中国新闻周刊 2026-06-02（范志红）
+        - generic: 儿童与孕妇
+        - generic: 未取得市场规模数据；抽检中出现过孕妇营养包不合格（维生素D、生物素）
+        - generic: 市场监管总局 2026-01-16 通报
+        - paragraph: 检索日期 2026-10-23；GLP-1 用药人群购买蛋白粉的比例暂无直接统计
+        - heading "品类与成分趋势" [level=2]
+        - generic: 蛋白水月销售额 2024-06
+        - generic "257万元"
+        - generic: 蛋白水月销售额 2026-06
+        - generic "1782万元"
+        - paragraph: 重点是液体即饮蛋白、乳企下场和原料价格向终端传导
+        - generic: 趋势
+        - generic: 数据或事实
+        - generic: 来源（日期）
+        - generic: 液体蛋白起量
+        - generic: 2023-07至2024-06电商液体蛋白3472万元，同比+478.4%；海外液体/即饮占蛋白补剂约24%
+        - generic: 中国液体蛋白白皮书2025（食品伙伴网 2026-01）
+        - generic: 乳企新品
+        - generic: 伊利 Puritime 300ml含9g WPI；蒙牛分离乳清蛋白水 250ml含10g、加BCAA和1250mg胶原肽，约9.9元；盒马12.9元/瓶
+        - generic: 东方财富 2026-05-14
+        - generic: 每克蛋白成本
+        - generic: 迈胜蛋白饮约0.41元/g，涨价后ON金标约0.5元/g，蛋白水约1元/g，北豆腐约0.08元/g
+        - generic: 什么值得买 2026（作者估算）
+        - generic: 跨界产品
+        - generic: 星巴克高蛋白拿铁PRO含20g蛋白；蒙牛M-PLUS每瓶15g蛋白；SAVAS 推出蛋白黑咖啡
+        - generic: 21财经 2026-07-13；什么值得买 2026
+        - generic: 胶原蛋白肽
+        - generic: 属不完全蛋白，不能作增肌主力，排在配料表前列时需警惕
+        - generic: 什么值得买 2026
+        - generic: WPI 溢价
+        - generic: 两年内 WPC 涨约108%，WPI 涨约139%
+        - generic: StoneX，转引21财经 2026-07-13
+        - generic: 植物/混合蛋白、零糖、肌酸/HMB
+        - generic: 未取得可靠的中国份额数据（renrendoc 植物蛋白28.1% 可信度低，未采用）
+        - generic: —
+        - heading "质量与信任" [level=2]
+        - generic: 通报日期
+        - generic: 产品与问题
+        - generic: 渠道/模式
+        - generic: 2026-01-16
+        - generic: 双参枸杞蛋白粉（蛋白固体饮料）蛋白质含量不达标；高钙营养蛋白质粉维生素B1/B2/C/D、铁、锌不达标；植物蛋白粉、驼乳蛋白粉霉菌超标
+        - generic: 抖音、拼多多、快手
+        - generic: 2025-09-18
+        - generic: DIDA 蛋白质粉钙不达标；ELECTRO X 运动营养蛋白饮钠与标签不符
+        - generic: 均为委托代工
+        - generic: 2026-10-12
+        - generic: 愈沛乳清蛋白粉运动营养特膳粉维生素A未检出（标准120–375μg/日）；企业注册资本200万元，参保0人
+        - generic: 县城乳品店
+        - paragraph: 官方通报里的主要问题是营养素与标签不符、霉菌超标，集中在小厂、代工和社交电商
+        - list:
+          - generic: 氮掺假：凯氏定氮只测总氮，加入甘氨酸、牛磺酸、肌酸、尿素都会抬高“蛋白质”读数。近红外光谱可识别0.5%–3%的掺入（Molecules 2020, PMC7321410）。国内通报中未见以“氮掺假”定性的案例，仅有蛋白质含量不达标。
+          - generic: 知乎文章称“49.30%抽检产品蛋白虚标10%以上”，找不到官方出处，未采用。
+          - generic: 蛋白粉有三种身份：普通食品（固体饮料）、特殊膳食（运动营养食品，GB 24154）、保健食品（蓝帽子，需注册或备案）。特膳没有注册周期，是轻资产品牌常走的上市路径（庶正康讯 2025-09）。
+          - generic: 《食品委托生产监督管理办法》于2025-12-01施行，委托方和受托方都要承担主体责任。
+          - generic: 假货与灰色跨境货：未取得官方统计，标为未取得。
+        - heading "供应链" [level=2]
+        - generic: 环节
+        - generic: 数据或事实
+        - generic: 来源（日期）
+        - generic: 进口依赖
+        - generic: 乳清蛋白粉进口依赖度超过90%，来源为美国、欧盟、新西兰、白俄罗斯
+        - generic: 21财经 2026-07-13
+        - generic: 2025年进口
+        - generic: 乳清类73.27万吨（+10.8%），美国42.8%、欧盟32.3%；蛋白类5.34万吨，均价14,546美元/吨（+28.4%）
+        - generic: 乳业在线（海关数据）2026
+        - generic: 国产奶酪
+        - generic: 2025年总产量约32万吨，原制奶酪仅约1万吨；液体乳占乳制品90%以上
+        - generic: 乳业在线 2026；第一财经 2026-10
+        - generic: 国产乳企布局
+        - generic: 认养一头牛吉林工厂日处理1400吨奶；蒙牛MnmpX原料品牌（2026-06）；飞鹤16种核心原料自产；有建议把“十五五”乳清国产化率目标定在60%以上
+        - generic: 第一财经 2026-10；农科院加工所转引
+        - generic: OEM/ODM
+        - generic: 2024年营养功能食品代工市场253亿元，其中运动营养18亿元；衡美健康整体份额4.2%，运动营养代工份额22.5%，均排第一；前五合计14.1%，格局分散
+        - generic: 灼识咨询，转引华源证券 2025-09
+        - generic: 海外扩产
+        - generic: Glanbia 与 Southwest Cheese 合资新增约4500吨 WPI（2027年投产）；Fonterra Studholme 2026年开始生产 WPC；Arla 与 Valley Queen 合作代工；FrieslandCampina 旗下 Wisconsin Whey 扩至约1万吨 WPI
+        - generic: DairyReporter 2026-01-16
+        - generic: Hilmar
+        - generic: 未检索到其针对中国的扩产信息
+        - generic: —
+        - paragraph: 国产乳清的上限由奶酪产量决定
+        - heading "海外对标" [level=2]
+        - generic: 市场
+        - generic: 规模
+        - generic: 结构
+        - generic: 来源（日期）
+        - generic: 美国
+        - generic: 2025年蛋白补充剂102亿美元（另一机构口径为87亿美元）
+        - generic: 蛋白粉占48.7%，线上占40.8%，商超增速最快
+        - generic: Grand View Research；Fortune Business Insights 2026
+        - generic: 日本
+        - generic: 蛋白市场1438亿日元
+        - generic: 明治份额36.4%排第一；SAVAS 约占蛋白饮料80%
+        - generic: 明治 IR（截至2025-03）；FoodNavigator 2025-08-11
+        - generic: 中国
+        - generic: 蛋白粉42.16亿元（2025，见上文）
+        - generic: 以粉剂为主，液体刚刚起步
+        - generic: 见本页前文
+        - generic: 人均消费
+        - generic: 未取得：Statista ARPU 数值需付费
+        - generic: —
+        - generic: —
+        - paragraph: 各机构口径差异较大
+        - paragraph: 可借鉴的方向：美国和日本都从“健身补剂”走向了“日常即饮与商超”。日本的明治 SAVAS 是乳企主导的范例，对伊利和蒙牛有直接参考意义。
+        - heading "风险与机会" [level=2]
+        - list:
+          - generic: 成本风险：WPI 两年涨约139%，康比特2025年净利润-55.85%、毛利率下降6.57个百分点，品牌商利润受挤压。
+          - generic: 液体即饮是增量窗口：蛋白水月销售额两年增长约6倍，但单价约10元，用作日常饮水替代偏贵。
+          - generic: 中老年和 GLP-1 人群：适合做定制剂量、易消化和抗阻训练配套的方案，但目前缺乏国内临床证据，宣传需克制。
+          - generic: 合规红线：小厂、代工和社交电商是抽检不合格的高发区；选择代工厂和渠道时要查验批检报告。
+          - generic: 国产原料替代：乳企向深加工转移，未来WPC的国产议价空间可能扩大，适合锁定长约。
+          - generic: 同质化风险：乳企、茶饮、咖啡都在推“蛋白+”，需要靠蛋白克数、单价和口味做出差异。
+        - heading "营养成分标准" [level=2]
+        - generic: 项目
+        - generic: 要点
+        - generic: GB 11674-2010
+        - generic: 原料型乳清蛋白粉：蛋白质不低于25.0g/100g；脱盐乳清粉：蛋白质不低于10.0g/100g、乳糖不低于61.0g/100g、灰分不高于3.0g/100g
+        - generic: GB 24154
+        - generic: 运动营养食品（补充蛋白质类等六大类），不得添加WADA禁用物质
+        - generic: GB 13432
+        - generic: 特殊膳食食品保质期内，营养成分实测不得低于标示值的80%
+        - generic: 典型规格（国际）
+        - generic: WPC80：蛋白80–82%、乳糖4–8%、脂肪4–8%；WPI：蛋白不低于90%、脂肪约0.5–1%；WPH 未找到权威规格
+        - generic: 掺假
+        - generic: 氨基酸加料（amino spiking）会抬高总氮法测出的蛋白值，需配合氨基酸谱和游离氨基酸检测；国内有实测与标示相差超过10%的虚标
+        - heading "监管要求与执法" [level=2]
+        - list:
+          - generic: 三种归类：普通食品/固体饮料（不能宣称功能）、运动营养食品（特膳，需生产许可）、保健食品蓝帽子（注册/备案，可宣称功能）。
+          - generic: GB 24154 修订草案2025-08-01征求意见：每个产品只能标一个类别，新增骨关节恢复类、半固态剂型。
+          - generic: GB 28050-2025、GB 7718-2025 与《食品标识监督管理办法》2027-03-16 实施，强制标示扩展到饱和脂肪和糖。
+          - generic: 跨境电商：乳清浓缩物税号35022000在正面清单内，按个人自用物品监管；不在清单内的商品不能走跨境零售进口。
+          - generic: 2026-10 江西强壮乳清蛋白运动营养特膳粉维生素抽检不合格；2026-09 两批次特膳蛋白粉钙、钠不符；2026-01 一款植物蛋白固体饮料不合格。
+        - heading "来源" [level=2]
+        - link "GB 11674-2010 标准PDF":
+          - /url: https://img.antpedia.com/standard/pdf/X16/GB%2011674-2010.pdf
+          - paragraph: GB 11674-2010 标准PDF
+        - link "运动营养食品通则修订亮点":
+          - /url: https://www.nhnexpo.com/News/View/1258
+          - paragraph: 运动营养食品通则修订亮点
+        - link "GB 28050-2025 卫健委解读":
+          - /url: https://www.nhc.gov.cn/sps/c100087/202509/470fa4ff5de14dd38619223cce9da4e7.shtml
+          - paragraph: GB 28050-2025 卫健委解读
+        - link "跨境电商零售进口商品清单":
+          - /url: https://gss.mof.gov.cn/gzdt/zhengcefabu/201912/P020191227607915178053.pdf
+          - paragraph: 跨境电商零售进口商品清单
+        - link "GB 13432 与抽检通报":
+          - /url: https://qms.foodmate.net/news/show.php?itemid=174563
+          - paragraph: GB 13432 与抽检通报
+        - link "江西强壮乳清蛋白抽检":
+          - /url: https://finance.sina.cn/2026-10-13/detail-iniuzuyp7252049.d.html?vt=4&cid=76675&node_id=76675
+          - paragraph: 江西强壮乳清蛋白抽检
+        - link "特膳蛋白粉钙钠不达标":
+          - /url: https://www.inewfood.com/protein-powder-sampling-fails-special-dietary-food.html
+          - paragraph: 特膳蛋白粉钙钠不达标
+        - link "蛋白粉虚标消费提示":
+          - /url: https://gxt.hlj.gov.cn/gxt/c106969/202606/c00_31948207.shtml
+          - paragraph: 蛋白粉虚标消费提示
+        - link "Amino spiking 检测方法":
+          - /url: https://www.bscg.org/blogs/single/amino-spiking-how-protein-powder-brands-verify-protein-claims-and-investigate-concerns
+          - paragraph: Amino spiking 检测方法
+        - link "WPC80 典型组成":
+          - /url: https://patents.google.com/patent/EP2309868A1/en
+          - paragraph: WPC80 典型组成
+        - link "WPC vs WPI 指南":
+          - /url: https://7nutrition.eu/en/blog/what-is-the-difference-between-wpc-and-wpi-a-complete-guide-1781103818.html
+          - paragraph: WPC vs WPI 指南
+        - link "淘宝 ON金标5磅列表（2026-10-23）":
+          - /url: https://www.taobao.com/list/product/%E9%87%91%E6%A0%87%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD5%E7%A3%85.htm
+          - paragraph: 淘宝 ON金标5磅列表（2026-10-23）
+        - link "淘宝 乳清蛋白粉口碑榜（2026-10-23）":
+          - /url: https://www.taobao.com/list/product/top-rated/%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD%E7%B2%89.htm
+          - paragraph: 淘宝 乳清蛋白粉口碑榜（2026-10-23）
+        - link "2025年乳制品进口数据（2026-04-02）":
+          - /url: https://www.dairyonline.cn/13031.html
+          - paragraph: 2025年乳制品进口数据（2026-04-02）
+        - link "2026年1–8月乳清进口（2026-09-21）":
+          - /url: https://www.yiruwang.com/news_detail/540.html
+          - paragraph: 2026年1–8月乳清进口（2026-09-21）
+        - link "Vesper：WPC80短缺加剧（2026-02-11）":
+          - /url: https://vespertool.com/news/wpc80-shortage-intensifies-with-producers-in-control-of-pricing-and-allocation/
+          - paragraph: Vesper：WPC80短缺加剧（2026-02-11）
+        - link "Vesper：2026年Q4美国乳清蛋白价格展望（2026-10-07）":
+          - /url: https://vespertool.com/news/us-whey-protein-price-outlook-q4-2026/
+          - paragraph: Vesper：2026年Q4美国乳清蛋白价格展望（2026-10-07）
+        - link "USDA AMS 乳清蛋白报价 ams_1053（10月19–23日）":
+          - /url: https://www.ams.usda.gov/mnreports/ams_1053.pdf
+          - paragraph: USDA AMS 乳清蛋白报价 ams_1053（10月19–23日）
+        - link "CLAL转载 USDA ams_1053（2026-10-09）":
+          - /url: https://www.clal.it/upload/2026-10-09-ams_1053.pdf
+          - paragraph: CLAL转载 USDA ams_1053（2026-10-09）
+        - link "wpc80bulk：WPC80每公斤价格（2026-07-17）":
+          - /url: https://wpc80bulk.eu/wpc-80-price.html
+          - paragraph: wpc80bulk：WPC80每公斤价格（2026-07-17）
+        - link "财政部 自由贸易协定和优惠贸易安排实施税率表":
+          - /url: https://gss.mof.gov.cn/gzdt/zhengcefabu/202412/P020260407319934529431.pdf
+          - paragraph: 财政部 自由贸易协定和优惠贸易安排实施税率表
+        - link "新华网：欧盟乳制品反补贴终裁（2026-02-12）":
+          - /url: http://www.news.cn/20260212/116fb6200aa74e289446cf51af1e487d/c.html
+          - paragraph: 新华网：欧盟乳制品反补贴终裁（2026-02-12）
+        - link "中国经济网：欧盟乳制品反补贴初裁（2025-12-23）":
+          - /url: http://www.ce.cn/cysc/sp/info/202512/t20251223_2659180.shtml
+          - paragraph: 中国经济网：欧盟乳制品反补贴初裁（2025-12-23）
+        - link "对外经济贸易大学 中国乳品贸易月度监测报告（2026-10）":
+          - /url: https://delab.uibe.edu.cn/docs/2026-10/64db5b9c0f144a298ef47fe6a8ff2322.pdf
+          - paragraph: 对外经济贸易大学 中国乳品贸易月度监测报告（2026-10）
+        - link "华源证券/久谦 乳清蛋白电商份额（2025-06）":
+          - /url: https://www.hangyan.co/charts/3653235569107928140
+          - paragraph: 华源证券/久谦 乳清蛋白电商份额（2025-06）
+        - link "2026年中国蛋白粉行业研究报告（东方财富，2026-07）":
+          - /url: https://pdf.dfcfw.com/pdf/H3_AP202607031826682218_1.pdf
+          - paragraph: 2026年中国蛋白粉行业研究报告（东方财富，2026-07）
+        - link "财政部 2026年暂定税率表":
+          - /url: https://gss.mof.gov.cn/gzdt/zhengcefabu/202512/P020251229510521217364.pdf
+          - paragraph: 财政部 2026年暂定税率表
+        - link "商务部公告2026年第9号（欧盟乳制品反补贴）":
+          - /url: http://www.mofcom.gov.cn/zcfb/zc/art/2026/art_07b1db16c8ba418fa09a5483aed16d08.html
+          - paragraph: 商务部公告2026年第9号（欧盟乳制品反补贴）
+        - link "中国运动营养市场报告2026（2026-09-22）":
+          - /url: https://www.inewfood.com/china-sports-nutrition-market-report-2026-2.html
+          - paragraph: 中国运动营养市场报告2026（2026-09-22）
+        - link "GLP-1吃掉全球15%乳清供给（新京报）":
+          - /url: https://www.bjnews.com.cn/detail/1781159309168629.html
+          - paragraph: GLP-1吃掉全球15%乳清供给（新京报）
+        - link "蛋白粉，暴涨（中国新闻周刊，2026-06-02）":
+          - /url: https://news.inewsweek.cn/kj/2026-06-02/30422.shtml
+          - paragraph: 蛋白粉，暴涨（中国新闻周刊，2026-06-02）
+        - link "GLP-1用药者蛋白摄入综述（PMC11609469）":
+          - /url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11609469/
+          - paragraph: GLP-1用药者蛋白摄入综述（PMC11609469）
+        - link "司美格鲁肽+蛋白补充试验 NCT06989203":
+          - /url: https://clinicaltrials.gov/study/NCT06989203
+          - paragraph: 司美格鲁肽+蛋白补充试验 NCT06989203
+        - link "蛋白“觉醒”（21财经，2026-07-13）":
+          - /url: https://m.21jingji.com/article/20260713/herald/c75eb8763156d2d91f47ed681a911842.html
+          - paragraph: 蛋白“觉醒”（21财经，2026-07-13）
+        - link "中国液体蛋白白皮书2025（食品伙伴网）":
+          - /url: https://news.foodmate.net/2026/01/734802.html
+          - paragraph: 中国液体蛋白白皮书2025（食品伙伴网）
+        - link "蛋白水与蛋白饮每克成本（什么值得买）":
+          - /url: https://post.smzdm.com/p/a3mdx2wd/
+          - paragraph: 蛋白水与蛋白饮每克成本（什么值得买）
+        - link "伊利蒙牛入局蛋白水（东方财富，2026-05-14）":
+          - /url: https://finance.eastmoney.com/a/202605143737646228.html
+          - paragraph: 伊利蒙牛入局蛋白水（东方财富，2026-05-14）
+        - link "蛋白热重塑乳业版图（第一财经）":
+          - /url: https://www.yicai.com/news/103387873.html
+          - paragraph: 蛋白热重塑乳业版图（第一财经）
+        - link "总局通报40批次不合格（2026-01-20）":
+          - /url: https://finance.sina.com.cn/roll/2026-01-20/doc-inhhxkrc9103201.shtml
+          - paragraph: 总局通报40批次不合格（2026-01-20）
+        - link "2批次特膳蛋白粉不合格均为代工（新食界）":
+          - /url: https://www.inewfood.com/protein-powder-sampling-fails-special-dietary-food.html
+          - paragraph: 2批次特膳蛋白粉不合格均为代工（新食界）
+        - link "愈沛乳清蛋白粉维A未检出（2026-10-13）":
+          - /url: https://www.sohu.com/a/1087049694_122014422
+          - paragraph: 愈沛乳清蛋白粉维A未检出（2026-10-13）
+        - link "乳清蛋白氮掺假NIR检测（PMC7321410）":
+          - /url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7321410/
+          - paragraph: 乳清蛋白氮掺假NIR检测（PMC7321410）
+        - link "2025年中国乳制品进出口统计（乳业在线）":
+          - /url: https://www.dairyonline.cn/13031.html
+          - paragraph: 2025年中国乳制品进出口统计（乳业在线）
+        - link "2025中国奶酪行业报告（乳业在线）":
+          - /url: https://www.dairyonline.cn/13169.html
+          - paragraph: 2025中国奶酪行业报告（乳业在线）
+        - link "乳清价格上涨与国产化（农科院加工所）":
+          - /url: https://ifst.caas.cn/xwzx/mtbd/b7a51a0efef74b10a27722470d23ed71.htm
+          - paragraph: 乳清价格上涨与国产化（农科院加工所）
+        - link "北交所新消费研究：代工格局（华源证券）":
+          - /url: https://pdf.dfcfw.com/pdf/H3_AP202509161744938668_1.pdf
+          - paragraph: 北交所新消费研究：代工格局（华源证券）
+        - link "Whey suppliers race to expand（DairyReporter，2026-01-16）":
+          - /url: https://www.dairyreporter.com/Article/2026/01/16/whey-protein-shortage-drives-major-global-investments/
+          - paragraph: Whey suppliers race to expand（DairyReporter，2026-01-16）
+        - link "US Protein Supplements Market（Grand View）":
+          - /url: https://www.grandviewresearch.com/industry-analysis/us-protein-supplements-market
+          - paragraph: US Protein Supplements Market（Grand View）
+        - link "Protein Supplements Market（Fortune BI）":
+          - /url: https://www.fortunebusinessinsights.com/protein-supplements-market-106511
+          - paragraph: Protein Supplements Market（Fortune BI）
+        - link "Meiji 投资者页面（日本蛋白市场）":
+          - /url: https://www.meiji.com/global/investors/invest-in-meiji.html
+          - paragraph: Meiji 投资者页面（日本蛋白市场）
+        - link "Meiji SAVAS（FoodNavigator，2025-08-11）":
+          - /url: https://www.foodnavigator.com/Article/2025/08/11/meiji-protein-intake-trumps-exercise-to-build-muscle-gains/
+          - paragraph: Meiji SAVAS（FoodNavigator，2025-08-11）
+      - generic: 乳清蛋白市场研究：营养标准、价格带与监管（2026-10）
+      - generic: 页面
+      - button "打开 乳清蛋白市场研究：营养标准、价格带与监管（2026-10）"
+    - button "对消息做出反应":
+    - button "回复消息":
+    - button "更多消息操作":
+  - textbox "向 Grok 提任何问题":
+    - paragraph: 消息 乳清蛋白
+  - button "附件":
+  - button "听写 (⌃D)":
+  - button "开始语音聊天"
+- region "Notifications alt+T"
+- status
+- alert
+- alert: 乳清蛋白 - Grok

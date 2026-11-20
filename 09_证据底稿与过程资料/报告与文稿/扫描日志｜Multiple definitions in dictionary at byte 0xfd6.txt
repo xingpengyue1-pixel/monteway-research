@@ -1,0 +1,28 @@
+Multiple definitions in dictionary at byte 0xfd65 for key /Ascent
+Multiple definitions in dictionary at byte 0x4af14 for key /Ascent
+Multiple definitions in dictionary at byte 0x541da for key /Ascent
+Multiple definitions in dictionary at byte 0x5b01c for key /Ascent
+Multiple definitions in dictionary at byte 0x6a8fb for key /Ascent
+Multiple definitions in dictionary at byte 0x71b71 for key /Ascent
+Multiple definitions in dictionary at byte 0x77251 for key /Ascent
+Multiple definitions in dictionary at byte 0x80340 for key /Ascent
+Multiple definitions in dictionary at byte 0x87190 for key /Ascent
+Multiple definitions in dictionary at byte 0x8ca2b for key /Ascent
+Multiple definitions in dictionary at byte 0x91f7d for key /Ascent
+{
+  "files": 2040,
+  "unique_files": 1712,
+  "document_instances": 966,
+  "unique_documents": 644,
+  "reused_by_hash": 448,
+  "text_characters": 130846716,
+  "status": {
+    "非空文本": 642,
+    "空文本": 2
+  },
+  "unique_images": 993,
+  "image_instances": 999,
+  "new_or_changed_documents": 196
+}
+空文本 本次补充汇总_20261025/04_原始证据与研究过程/行业报告抽取/N29.txt
+空文本 本次补充汇总_20261025/04_原始证据与研究过程/跨APP检索/Grok_errors.txt

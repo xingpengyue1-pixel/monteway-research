@@ -1,0 +1,140 @@
+Browser tab: 787578202, Title: "女性次抛蛋白粉竞品分析与选品策略 - Gemini Notebook", URL: "https://notebook.google.com/notebook/36cc8945-eb6c-439e-acc1-1a91dc17890d".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 463
++					514 button 收起所有节点
++						515 container 高纯分离乳清路线, 4 children
++							516 image
++							517 image
++						518 container 植物代餐与混合路线, 3 children
++							519 image
++							520 image
++						521 container 次抛包装溢价规律, 4 children
++							522 image
++							523 image
++						524 container 单一形态痛点分析, 3 children
++							525 image
++							526 image
++						527 container 组合采购策略方案, 2 children
++							528 image
++							529 image
++						530 container 核心决策价值, 2 children
++							531 image
++							532 image
++						533 container 包装形态: 30g次抛袋
++							534 image
++							535 image
++						536 container 折算纯乳清纯度: 90.0g/100g
++							537 image
++							538 image
++						539 container 配料构成: 100%纯分离乳清蛋白矩阵
++							540 image
++							541 image
++						542 container 包装形态: 30g次抛袋
++							543 image
++							544 image
++						545 container 折算纯乳清纯度: 80.0g/100g
++							546 image
++							547 image
++						548 container 配料构成: 分离乳清首位并加消化酶
++							549 image
++							550 image
++						551 container 包装形态: 200g便携装/袋装
++							552 image
++							553 image
++						554 container 折算纯乳清纯度: 80.0g/100g
++							555 image
++							556 image
++						557 container 配料构成: 分离乳清蛋白为主0乳糖
++							558 image
++							559 image
++						560 container 包装形态: 15g便携试用装
++							561 image
++							562 image
++						563 container 折算纯乳清纯度: 75.0g/100g
++							564 image
++							565 image
++						566 container 配料构成: 浓缩与分离乳清混合
++							567 image
++							568 image
++						569 container 包装形态: 10g袋装
++							570 image
++							571 image
++						572 container 折算纯乳清纯度: 32.0g/100g
++							573 image
++							574 image
++						575 container 配料构成: 大豆分离与浓缩乳清双蛋白
++							576 image
++							577 image
++						578 container 包装形态: 10g条装
++							579 image
++							580 image
++						581 container 折算纯乳清纯度: 25.0g/100g
++							582 image
++							583 image
++						584 container 配料构成: 大豆分离蛋白居首位
++							585 image
++							586 image
++						587 container 包装形态: 200g便携小罐
++							588 image
++							589 image
++						590 container 折算纯乳清纯度: 0.0g/100g
++							591 image
++							592 image
++						593 container 配料构成: 大豆小麦豌豆植物蛋白
++							594 image
++							595 image
++						596 container 康比特便携袋装: ¥0.41/g蛋白质
++							597 image
++							598 image
++						599 container ALLMAX袋装: ¥0.62/g蛋白质
++							600 image
++							601 image
++						602 container Swisse便携塑形装: ¥1.06/g蛋白质
++							603 image
++							604 image
++						605 container 维力维条装: ¥1.25/g蛋白质
++							606 image
++							607 image
++						608 container 诺特兰德三重蛋白条装: 纯乳清成本 ¥1.19/g
++							609 image
++							610 image
++						611 container 汤臣倍健Yep植物蛋白: ¥1.21/g总蛋白
++							612 image
++							613 image
++						614 container 汤臣倍健金装便携装: ¥1.33/g总蛋白
++							615 image
++							616 image
++						617 container 便携分装溢价率: 45%–72%之间
++							618 image
++							619 image
++						620 container ALLMAX溢价率: 较5磅桶 +72%
++							621 image
++							622 image
++						623 container 康比特溢价率: 较桶装 +46%
++							624 image
++							625 image
++						626 container 汤臣倍健金装溢价率: 较罐装 +24%
++							627 image
++							628 image
++						629 container 大桶装痛点: 反复开封易受潮结块
++							630 image
++							631 image
++						632 container 大勺取粉痛点: 难以精准控制单次摄入量
++							633 image
++							634 image
++						635 container 次抛装痛点: 单克蛋白质溢价成本较高
++							636 image
++							637 image
++						638 container 居家场景: 使用5磅大桶装控制成本 (¥0.22–0.42/g)
++							639 image
++							640 image
++						641 container 差旅健身场景: 搭配康比特次抛袋保鲜防潮 (¥0.41/g)
++							642 image
++							643 image
++						644 container 成本控制: 兼顾总体经济性与便携防潮体验
++							645 image
++							646 image
++						647 container 剂量分层: 满足15g轻运动与30g力量训练需求
++							648 image
++							649 image
+The focused UI element is 461 AXWebArea MindmapApp, URL: blob:https://4oc5nurngby9jvmk5jregfgzhjp1clfr5bnjl6kxei8h1iqyzv-h998661601.scf.usercontent.goog/0338f3b7-aaac-479f-8197-935a4a937435

@@ -1,0 +1,25 @@
+test_01_pure_mass_conservation (test_models.ModelsTest.test_01_pure_mass_conservation) ... ok
+test_02_mixed_material_increases_mass (test_models.ModelsTest.test_02_mixed_material_increases_mass) ... ok
+test_03_overfill_reduces_output (test_models.ModelsTest.test_03_overfill_reduces_output) ... ok
+test_04_rejects_and_allocations_once (test_models.ModelsTest.test_04_rejects_and_allocations_once) ... ok
+test_05_no_negative_saleable (test_models.ModelsTest.test_05_no_negative_saleable) ... ok
+test_06_missing_not_zero (test_models.ModelsTest.test_06_missing_not_zero) ... ok
+test_07_invalid_physics (test_models.ModelsTest.test_07_invalid_physics) ... ok
+test_08_protein_base (test_models.ModelsTest.test_08_protein_base) ... ok
+test_09_cash_interim_not_final (test_models.ModelsTest.test_09_cash_interim_not_final) ... ok
+test_10_financing_not_operating_income (test_models.ModelsTest.test_10_financing_not_operating_income) ... ok
+test_11_same_day_payment_order (test_models.ModelsTest.test_11_same_day_payment_order) ... ok
+test_12_lead_ceiling_and_zero (test_models.ModelsTest.test_12_lead_ceiling_and_zero) ... ok
+test_13_forecast_missing_baseline (test_models.ModelsTest.test_13_forecast_missing_baseline) ... ok
+test_14_cohort_expectation (test_models.ModelsTest.test_14_cohort_expectation) ... ok
+test_15_same_person_once (test_models.ModelsTest.test_15_same_person_once) ... ok
+test_16_conflicting_state_rejected (test_models.ModelsTest.test_16_conflicting_state_rejected) ... ok
+test_17_not_active_employee_expired (test_models.ModelsTest.test_17_not_active_employee_expired) ... ok
+test_18_capacity_cannot_double_assign (test_models.ModelsTest.test_18_capacity_cannot_double_assign) ... ok
+test_19_skill_bottleneck (test_models.ModelsTest.test_19_skill_bottleneck) ... ok
+test_20_zero_event_uncertainty (test_models.ModelsTest.test_20_zero_event_uncertainty) ... ok
+
+----------------------------------------------------------------------
+Ran 20 tests in 0.006s
+
+OK
